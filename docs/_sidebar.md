@@ -1,9 +1,11 @@
 - [数学基础](/0001_Math)
+  - [贝叶斯定理](/0008_Math_BT)
   - [Derivative 导数](/0009_Math_Derivative)
   - [Determinant  行列式](/0003_Math_Determinant)
   - [Dynamic Programming 动态规划](/0010_Math_DynamicProgramming)
   - [Gaussian Distribution 高斯分布](/0005_Math_GaussianDistribution)
   - [Gaussian Filter 高斯滤波器](/0021_Math_GaussianFilter)
+  - [Gaussian Process 高斯过程](/0020_Math_GaussianProcess)
   - [Lagrange Multiplier Method 拉格朗日乘数法](/0019_Math_LMM)
   - [Least Squares 最小二乘法](/0006_Math_LeastSquares)
   - [马尔可夫过程](/0018_Math_MarkovProcess)
@@ -15,7 +17,8 @@
   - [Stochastic process 随机过程](/0013_Math_SC)
   - [SVD](/0012_Math_SVD)
   - [向量](/0002_Math_Vector)
+  - [norm 范数](/0011_Math_norm)
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@0128430917</sub></kbd>
+<kbd><sub>@0129260917</sub></kbd>

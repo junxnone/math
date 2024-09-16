@@ -16,4 +16,7 @@
 - 2021-03-26&nbsp;&nbsp; [Lagrange Multiplier Method 拉格朗日乘数法](/0019_Math_LMM)&nbsp;&nbsp; :bookmark:Math :bookmark:LMM
 - 2021-03-22&nbsp;&nbsp; [Gaussian Distribution 高斯分布](/0005_Math_GaussianDistribution)&nbsp;&nbsp; :bookmark:Math :bookmark:GaussianDistribution
 - 2020-09-17&nbsp;&nbsp; [Gaussian Filter 高斯滤波器](/0021_Math_GaussianFilter)&nbsp;&nbsp; :bookmark:Math :bookmark:GaussianFilter
+- 2020-07-15&nbsp;&nbsp; [Gaussian Process 高斯过程](/0020_Math_GaussianProcess)&nbsp;&nbsp; :bookmark:Math :bookmark:GaussianProcess
+- 2020-07-14&nbsp;&nbsp; [贝叶斯定理](/0008_Math_BT)&nbsp;&nbsp; :bookmark:Math :bookmark:BT
+- 2019-08-05&nbsp;&nbsp; [norm 范数](/0011_Math_norm)&nbsp;&nbsp; :bookmark:Math :bookmark:norm
 - 2018-09-03&nbsp;&nbsp; [SVD](/0012_Math_SVD)&nbsp;&nbsp; :bookmark:Math :bookmark:SVD
