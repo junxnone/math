@@ -7,9 +7,10 @@
   - [Least Squares 最小二乘法](/0006_Math_LeastSquares)
   - [马尔可夫过程](/0018_Math_MarkovProcess)
   - [矩阵](/0004_Math_Matrix)
+  - [RANSAC 随机抽样一致性](/0015_Math_RANSAC)
   - [SVD](/0012_Math_SVD)
   - [向量](/0002_Math_Vector)
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@0126220917</sub></kbd>
+<kbd><sub>@0127160917</sub></kbd>
