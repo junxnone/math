@@ -3,7 +3,7 @@
 | Title     | Math Vector                                       |
 | --------- | ------------------------------------------------- |
 | Created @ | `2022-02-22T09:24:37Z`                            |
-| Updated @ | `2024-09-16T16:21:54Z`                            |
+| Updated @ | `2024-09-16T17:26:42Z`                            |
 | Labels    | \`\`                                              |
 | Edit @    | [here](https://github.com/junxnone/math/issues/2) |
 
@@ -23,3 +23,5 @@
 ## 向量叉乘
 
   - 叉乘 - Cross Product/Vector Product
+
+## Reference
