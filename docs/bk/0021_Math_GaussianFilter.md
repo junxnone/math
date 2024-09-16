@@ -3,20 +3,13 @@
 | Title     | Math GaussianFilter                                |
 | --------- | -------------------------------------------------- |
 | Created @ | `2020-09-17T09:05:39Z`                             |
-| Updated @ | `2024-09-16T16:28:26Z`                             |
+| Updated @ | `2024-09-16T17:28:07Z`                             |
 | Labels    | \`\`                                               |
 | Edit @    | [here](https://github.com/junxnone/math/issues/21) |
 
 -----
 
 # Gaussian Filter 高斯滤波器
-
-## Reference
-
-  - [理解高斯滤波(Gaussian Filter)](https://www.jianshu.com/p/961490ea0458)
-  - [高斯函数](https://www.cnblogs.com/pacino12134/p/11372555.html)
-
-## Brief
 
   - 用高斯函数对image做卷积计算
 
@@ -26,3 +19,8 @@
 | 2-D  |                                                              | ![image](media/f125c1166669dcd45fc4e8558f103c54f6ec35b8.png) |
 
 ![1126909-f2398e2401a5ae93](media/163b7bf3f75c5a2473bfa00a61df561917a8c350.gif)
+
+## Reference
+
+  - [理解高斯滤波(Gaussian Filter)](https://www.jianshu.com/p/961490ea0458)
+  - [高斯函数](https://www.cnblogs.com/pacino12134/p/11372555.html)
