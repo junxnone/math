@@ -2,16 +2,20 @@
   - [Derivative 导数](/0009_Math_Derivative)
   - [Determinant  行列式](/0003_Math_Determinant)
   - [Dynamic Programming 动态规划](/0010_Math_DynamicProgramming)
+  - [Gaussian Distribution 高斯分布](/0005_Math_GaussianDistribution)
   - [Gaussian Filter 高斯滤波器](/0021_Math_GaussianFilter)
   - [Lagrange Multiplier Method 拉格朗日乘数法](/0019_Math_LMM)
   - [Least Squares 最小二乘法](/0006_Math_LeastSquares)
   - [马尔可夫过程](/0018_Math_MarkovProcess)
   - [矩阵](/0004_Math_Matrix)
+  - [QuadTree/OCTree - 四叉树/八叉树](/0017_Math_QuadTree)
   - [Quaternion 四元数](/0016_Math_Quaternion)
   - [RANSAC 随机抽样一致性](/0015_Math_RANSAC)
+  - [Simulated annealing 模拟退火](/0014_Math_SA)
+  - [Stochastic process 随机过程](/0013_Math_SC)
   - [SVD](/0012_Math_SVD)
   - [向量](/0002_Math_Vector)
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@0127580917</sub></kbd>
+<kbd><sub>@0128430917</sub></kbd>

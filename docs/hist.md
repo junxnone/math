@@ -8,8 +8,12 @@
 - 2022-03-07&nbsp;&nbsp; [Least Squares 最小二乘法](/0006_Math_LeastSquares)&nbsp;&nbsp; :bookmark:Math :bookmark:LeastSquares
 - 2022-03-07&nbsp;&nbsp; [RANSAC 随机抽样一致性](/0015_Math_RANSAC)&nbsp;&nbsp; :bookmark:Math :bookmark:RANSAC
 - 2022-02-22&nbsp;&nbsp; [向量](/0002_Math_Vector)&nbsp;&nbsp; :bookmark:Math :bookmark:Vector
-- 2022-02-11&nbsp;&nbsp; [Quaternion 四元数](/0016_Math_Quaternion)&nbsp;&nbsp; :bookmark:Math :bookmark:Quaternion
 - 2022-02-11&nbsp;&nbsp; [数学基础](/0001_Math)&nbsp;&nbsp; :bookmark:Math
+- 2022-02-11&nbsp;&nbsp; [Quaternion 四元数](/0016_Math_Quaternion)&nbsp;&nbsp; :bookmark:Math :bookmark:Quaternion
+- 2021-09-09&nbsp;&nbsp; [Stochastic process 随机过程](/0013_Math_SC)&nbsp;&nbsp; :bookmark:Math :bookmark:SC
+- 2021-08-19&nbsp;&nbsp; [QuadTree/OCTree - 四叉树/八叉树](/0017_Math_QuadTree)&nbsp;&nbsp; :bookmark:Math :bookmark:QuadTree
+- 2021-03-30&nbsp;&nbsp; [Simulated annealing 模拟退火](/0014_Math_SA)&nbsp;&nbsp; :bookmark:Math :bookmark:SA
 - 2021-03-26&nbsp;&nbsp; [Lagrange Multiplier Method 拉格朗日乘数法](/0019_Math_LMM)&nbsp;&nbsp; :bookmark:Math :bookmark:LMM
+- 2021-03-22&nbsp;&nbsp; [Gaussian Distribution 高斯分布](/0005_Math_GaussianDistribution)&nbsp;&nbsp; :bookmark:Math :bookmark:GaussianDistribution
 - 2020-09-17&nbsp;&nbsp; [Gaussian Filter 高斯滤波器](/0021_Math_GaussianFilter)&nbsp;&nbsp; :bookmark:Math :bookmark:GaussianFilter
 - 2018-09-03&nbsp;&nbsp; [SVD](/0012_Math_SVD)&nbsp;&nbsp; :bookmark:Math :bookmark:SVD
