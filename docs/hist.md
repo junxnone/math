@@ -5,8 +5,8 @@
 - 2022-04-19&nbsp;&nbsp; [矩阵](/0004_Math_Matrix)&nbsp;&nbsp; :bookmark:Math :bookmark:Matrix
 - 2022-04-15&nbsp;&nbsp; [Dynamic Programming 动态规划](/0010_Math_DynamicProgramming)&nbsp;&nbsp; :bookmark:Math :bookmark:DynamicProgramming
 - 2022-03-19&nbsp;&nbsp; [Determinant  行列式](/0003_Math_Determinant)&nbsp;&nbsp; :bookmark:Math :bookmark:Determinant
-- 2022-03-07&nbsp;&nbsp; [RANSAC 随机抽样一致性](/0015_Math_RANSAC)&nbsp;&nbsp; :bookmark:Math :bookmark:RANSAC
 - 2022-03-07&nbsp;&nbsp; [Least Squares 最小二乘法](/0006_Math_LeastSquares)&nbsp;&nbsp; :bookmark:Math :bookmark:LeastSquares
+- 2022-03-07&nbsp;&nbsp; [RANSAC 随机抽样一致性](/0015_Math_RANSAC)&nbsp;&nbsp; :bookmark:Math :bookmark:RANSAC
 - 2022-02-22&nbsp;&nbsp; [向量](/0002_Math_Vector)&nbsp;&nbsp; :bookmark:Math :bookmark:Vector
 - 2022-02-11&nbsp;&nbsp; [Quaternion 四元数](/0016_Math_Quaternion)&nbsp;&nbsp; :bookmark:Math :bookmark:Quaternion
 - 2022-02-11&nbsp;&nbsp; [数学基础](/0001_Math)&nbsp;&nbsp; :bookmark:Math
