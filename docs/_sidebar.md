@@ -19,7 +19,8 @@
   - [向量](/0002_Math_Vector)
   - [norm 范数](/0011_Math_norm)
 - [图论 (Graph theory)](/0022_图论)
+  - [二分图(Bipartite Graph)](/0023_图论_二分图)
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@0943441015</sub></kbd>
+<kbd><sub>@1032351015</sub></kbd>

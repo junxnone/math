@@ -1,6 +1,7 @@
 # Wiki History
 
 - 2024-10-15&nbsp;&nbsp; [图论 (Graph theory)](/0022_图论)&nbsp;&nbsp; :bookmark:图论
+- 2024-10-15&nbsp;&nbsp; [二分图(Bipartite Graph)](/0023_图论_二分图)&nbsp;&nbsp; :bookmark:图论 :bookmark:二分图
 - 2023-10-18&nbsp;&nbsp; [马尔可夫过程](/0018_Math_MarkovProcess)&nbsp;&nbsp; :bookmark:Math :bookmark:MarkovProcess
 - 2023-02-04&nbsp;&nbsp; [Derivative 导数](/0009_Math_Derivative)&nbsp;&nbsp; :bookmark:Math :bookmark:Derivative
 - 2022-04-19&nbsp;&nbsp; [矩阵](/0004_Math_Matrix)&nbsp;&nbsp; :bookmark:Math :bookmark:Matrix
