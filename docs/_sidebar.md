@@ -18,7 +18,8 @@
   - [SVD](/0012_Math_SVD)
   - [向量](/0002_Math_Vector)
   - [norm 范数](/0011_Math_norm)
+- [图论 (Graph theory)](/0022_图论)
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@0929461015</sub></kbd>
+<kbd><sub>@0933371015</sub></kbd>
