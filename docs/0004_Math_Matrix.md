@@ -2,7 +2,7 @@
 Title | Math Matrix
 -- | --
 Created @ | `2022-04-19T11:36:53Z`
-Updated @| `2024-12-30T01:20:11Z`
+Updated @| `2024-12-30T01:24:49Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/math/issues/4)
 
@@ -54,8 +54,10 @@ a_{1n} & a_{2n} & ... & a_{mn} \\
 
 ## 正交矩阵
 - **正交矩阵**: $A^TA=E$
-- $A=\begin{bmatrix} a_1 & a_2 & ... & a_n \\ \end{bmatrix}$
-- $A^T=\begin{bmatrix} a_1^T \\ a_2^T \\ ... \\ a_n^T \\ \end{bmatrix} $
+
+$$A=\begin{bmatrix} a_1 & a_2 & ... & a_n \\ \end{bmatrix}$$
+
+$$A^T=\begin{bmatrix} a_1^T \\ a_2^T \\ ... \\ a_n^T \\ \end{bmatrix} $$
 
 $$A^TA = \begin{bmatrix}
 1 & 0 & 0 & 0 \\
@@ -71,7 +73,20 @@ $$A^TA = \begin{bmatrix}
 - $A \circ (B \circ C) = (A \circ B) \circ C$
 - $A \circ (B + C) = A \circ B + A \circ C$
 
-$\left[ \begin{array}{ccc}     a_{11} & a_{12} & a_{13}\\     a_{21} & a_{22} & a_{23}\\     a_{31} & a_{32} & a_{33} \end{array} \right] \circ \left[ \begin{array}{ccc}     b_{11} & b_{12} & b_{13}\\     b_{21} & b_{22} & b_{23}\\     b_{31} & b_{32} & b_{33} \end{array} \right] = \left[ \begin{array}{ccc}     a_{11}\times b_{11} & a_{12}\times b_{12} & a_{13}\times b_{13}\\     a_{21}\times b_{21} & a_{22}\times b_{22} & a_{23}\times b_{23}\\     a_{31}\times b_{31} & a_{32}\times b_{32} & a_{33}\times b_{33} \end{array} \right]$
+$$\left[ \begin{array}{ccc}    
+ a_{11} & a_{12} & a_{13}\\ 
+ a_{21} & a_{22} & a_{23}\\
+ a_{31} & a_{32} & a_{33} 
+\end{array} \right] \circ 
+\left[ \begin{array}{ccc} 
+    b_{11} & b_{12} & b_{13}\\
+    b_{21} & b_{22} & b_{23}\\
+    b_{31} & b_{32} & b_{33} \end{array} \right] = 
+\left[ \begin{array}{ccc}
+     a_{11}\times b_{11} & a_{12}\times b_{12} & a_{13}\times b_{13}\\
+     a_{21}\times b_{21} & a_{22}\times b_{22} & a_{23}\times b_{23}\\
+     a_{31}\times b_{31} & a_{32}\times b_{32} & a_{33}\times b_{33}
+ \end{array} \right]$$
 
 
 ## Reference
