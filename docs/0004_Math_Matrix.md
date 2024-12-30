@@ -2,7 +2,7 @@
 Title | Math Matrix
 -- | --
 Created @ | `2022-04-19T11:36:53Z`
-Updated @| `2024-09-16T17:24:20Z`
+Updated @| `2024-12-30T01:20:11Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/math/issues/4)
 
@@ -25,19 +25,19 @@ Edit @| [here](https://github.com/junxnone/math/issues/4)
 ## 矩阵转置
 - **矩阵转置**: 矩阵 A 元素行列交换得到的转置矩阵 $A^{T}$ 
 
-$A = \begin{vmatrix}
+$$A = \begin{vmatrix}
 a_{11} & a_{12} & ... & a_{1n} \\
 a_{21} & a_{22} & ... & a_{2n} \\
 ... & ... & ... & ... \\
 a_{m1} & a_{m2} & ... & a_{mn} \\
-\end{vmatrix}$
+\end{vmatrix}$$
 
-$A^T = \begin{vmatrix}
+$$A^T = \begin{vmatrix}
 a_{11} & a_{21} & ... & a_{m1} \\
 a_{12} & a_{22} & ... & a_{m2} \\
 ... & ... & ... & ... \\
 a_{1n} & a_{2n} & ... & a_{mn} \\
-\end{vmatrix}$
+\end{vmatrix}$$
 
 ### 转置性质
 
@@ -57,12 +57,12 @@ a_{1n} & a_{2n} & ... & a_{mn} \\
 - $A=\begin{bmatrix} a_1 & a_2 & ... & a_n \\ \end{bmatrix}$
 - $A^T=\begin{bmatrix} a_1^T \\ a_2^T \\ ... \\ a_n^T \\ \end{bmatrix} $
 
-$A^TA = \begin{bmatrix}
+$$A^TA = \begin{bmatrix}
 1 & 0 & 0 & 0 \\
 0 & 1 & 0 & 0 \\
 0 & 0 & 1 & 0 \\
 0 & 0 & 0 & 1 \\
-\end{bmatrix}$ 
+\end{bmatrix}$$ 
 
 ## 运算定义 
 
