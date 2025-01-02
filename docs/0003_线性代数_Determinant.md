@@ -2,7 +2,7 @@
 Title | 线性代数 Determinant
 -- | --
 Created @ | `2022-03-19T09:29:27Z`
-Updated @| `2025-01-02T01:23:39Z`
+Updated @| `2025-01-02T01:25:05Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/math/issues/3)
 
@@ -12,12 +12,12 @@ Edit @| [here](https://github.com/junxnone/math/issues/3)
 
 - 行列式 - `determinant` - `det(A)` - `|A|`
 
-$D = \begin{vmatrix}
+$$D = \begin{vmatrix}
 a_{11} & a_{12} & ... & a_{1n} \\
 a_{21} & a_{22} & ... & a_{2n} \\
 ... & ... & ... & ... \\
 a_{n1} & a_{n2} & ... & a_{nn} \\
-\end{vmatrix}$
+\end{vmatrix}$$
 
 
 ## 行列式计算
@@ -27,25 +27,25 @@ a_{n1} & a_{n2} & ... & a_{nn} \\
 - 适用于 二三阶行列式(更高阶行列式不符合规律)
 
 #### 二阶行列式
-$D_2 = \begin{vmatrix}
+$$D_2 = \begin{vmatrix}
 a_{11} & a_{12} \\
 a_{21} & a_{22} \\
-\end{vmatrix}$
+\end{vmatrix}$$
 
 $D_2 = a_{11}a_{22} - a_{12}a_{21}$
 
 #### 三阶行列式
 
-$D_3 = \begin{vmatrix}
+$$D_3 = \begin{vmatrix}
 a_{11} & a_{12} & a_{13} \\
 a_{21} & a_{22} & a_{23} \\
 a_{31} & a_{32} & a_{33} \\
-\end{vmatrix}$
+\end{vmatrix}$$
 
 - 红色对角线 相乘 **取正**
 - 蓝色对角线 相乘 **取负**
 
-$\begin{vmatrix}
+$$\begin{vmatrix}
 {\color{Red} a_{11}} & {\color{Red} a_{12}} & {\color{Red} a_{13}} \\
 a_{21} & {\color{Red} a_{22}} & {\color{Red} a_{23}} \\
 a_{31} & a_{32} & {\color{Red} a_{33}} \\
@@ -53,9 +53,9 @@ a_{31} & a_{32} & {\color{Red} a_{33}} \\
 a_{11} & a_{12} \\
 {\color{Red} a_{21}} & a_{22} \\
 {\color{Red} a_{31}} & {\color{Red} a_{32}} \\
-\end{vmatrix}$
+\end{vmatrix}$$
 
-$\begin{vmatrix}
+$$\begin{vmatrix}
 a_{11} & a_{12} & {\color{Blue} a_{13}} \\
 a_{21} & {\color{Blue} a_{22}} & {\color{Blue} a_{23}} \\
 {\color{Blue} a_{31}} & {\color{Blue} a_{32}} & {\color{Blue} a_{33}} \\
@@ -63,22 +63,22 @@ a_{21} & {\color{Blue} a_{22}} & {\color{Blue} a_{23}} \\
 {\color{Blue} a_{11}{\color{Blue} }} & {\color{Blue} a_{12}} \\
 {\color{Blue} a_{21}} & a_{22} \\
 a_{31} & a_{32} \\
-\end{vmatrix}$
+\end{vmatrix}$$
 
-$D_3 = {\color{Red} a_{11}a_{22}a_{33} + a_{12}a_{23}a_{31} + a_{13}a_{21}a_{32}}{\color{Blue} -a_{13}a_{22}a_{31}-a_{11}a_{23}a_{32}-a_{12}a_{21}a_{33}}$
+$$D_3 = {\color{Red} a_{11}a_{22}a_{33} + a_{12}a_{23}a_{31} + a_{13}a_{21}a_{32}}{\color{Blue} -a_{13}a_{22}a_{31}-a_{11}a_{23}a_{32}-a_{12}a_{21}a_{33}}$$
 
 ### 代数余子式法
 
-$D_{nn} = \begin{vmatrix}
+$$D_{nn} = \begin{vmatrix}
 a_{11} & a_{12} & \cdots & a_{1n} \\
 a_{21} & a_{22} & \cdots & a_{2n} \\
 \vdots  & \vdots & \vdots & \vdots \\
 a_{n1} & a_{n2} & \cdots & a_{nn} \\
-\end{vmatrix}$
+\end{vmatrix}$$
 
 $D_{nn} = (-1)^{1+1}a_{11}M_{11} + (-1)^{1+2}a_{12}M_{12} + ... + (-1)^{i+j}a_{ij}M_{ij} + ... + (-1)^{n+n}a_{nn}M_{nn}$
 
-$M_{12} = \begin{vmatrix}
+$$M_{12} = \begin{vmatrix}
 a_{11} & a_{12} & \cdots & a_{1n} \\
 {\color{Red} a_{21}} & a_{22} & {\color{Red} \cdots} & {\color{Red} a_{2n}} \\
 {\color{Red} \vdots}  & \vdots & {\color{Red} \vdots} & {\color{Red} \vdots} \\
@@ -89,25 +89,25 @@ a_{21} & a_{23} & \cdots & a_{2n} \\
 a_{31} & a_{33} & \cdots & a_{3n} \\
 \vdots  & \vdots & \vdots & \vdots \\
 a_{n1} & a_{n3} & \cdots & a_{nn} \\
-\end{vmatrix}$
+\end{vmatrix}$$
 
 
 > $M_{ij}$ 为 矩阵 删除 $a_{ij} 所在行列后剩余的部分组成的矩阵$
 
 #### D3 Examples
 
-$D_3 = \begin{vmatrix}
+$$D_3 = \begin{vmatrix}
 a_{11} & a_{12} & a_{13} \\
 a_{21} & a_{22} & a_{23} \\
 a_{31} & a_{32} & a_{33} \\
-\end{vmatrix}$
+\end{vmatrix}$$
 
 $D_3 = (-1)^{1+1}a_{11}M_{11} + (-1)^{1+2}a_{12}M_{12} + ... + (-1)^{3+1}a_{31}M_{31}$
 
-$M_{11} = \begin{vmatrix}
+$$M_{11} = \begin{vmatrix}
 a_{22} & a_{23} \\
 a_{32} & a_{33} \\
-\end{vmatrix}$
+\end{vmatrix}$$
 
 ### 等价转换法
 - 行列式性质
@@ -118,36 +118,36 @@ a_{32} & a_{33} \\
 #### D4 Examples
 
 
-$D_4 = \begin{vmatrix}
+$$D_4 = \begin{vmatrix}
 3 & 1 & 1 & 1 \\
 1 & 3 & 1 & 1 \\
 1 & 1 & 3 & 1 \\
 1 & 1 & 3 & 3 \\
-\end{vmatrix}$ 
+\end{vmatrix}$$
 
-$\overrightarrow{r1=r1+r2+r3+r4}
+$$\overrightarrow{r1=r1+r2+r3+r4}
 = \begin{vmatrix}
 6 & 6 & 6 & 6 \\
 1 & 3 & 1 & 1 \\
 1 & 1 & 3 & 1 \\
 1 & 1 & 3 & 3 \\
-\end{vmatrix}$ 
+\end{vmatrix}$$
 
-$\overrightarrow{r1=r1\div 6}
+$$\overrightarrow{r1=r1\div 6}
 = 6\begin{vmatrix}
 1 & 1 & 1 & 1 \\
 1 & 3 & 1 & 1 \\
 1 & 1 & 3 & 1 \\
 1 & 1 & 3 & 3 \\
-\end{vmatrix}$  
+\end{vmatrix}$$  
 
-$\overrightarrow{r2=r2-r1,r3=r3-r1,r4=r4-r1}
+$$\overrightarrow{r2=r2-r1,r3=r3-r1,r4=r4-r1}
 = 6\begin{vmatrix}
 1 & 1 & 1 & 1 \\
 0 & 2 & 0 & 0 \\
 0 & 0 & 2 & 0 \\
 0 & 0 & 0 & 2 \\
-\end{vmatrix} $ 
+\end{vmatrix}$$ 
 
 $= 6 \times (1 \times 2 \times 2 \times 2) = 48$
 
