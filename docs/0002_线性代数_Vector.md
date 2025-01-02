@@ -1,8 +1,8 @@
 ---
-Title | Math Vector
+Title | 线性代数 Vector
 -- | --
 Created @ | `2022-02-22T09:24:37Z`
-Updated @| `2024-09-16T17:26:42Z`
+Updated @| `2025-01-02T01:20:03Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/math/issues/2)
 
