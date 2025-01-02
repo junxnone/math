@@ -1,8 +1,8 @@
 ---
-Title | Math Matrix
+Title | 线性代数 Matrix
 -- | --
 Created @ | `2022-04-19T11:36:53Z`
-Updated @| `2024-12-30T01:24:49Z`
+Updated @| `2025-01-02T00:47:56Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/math/issues/4)
 
