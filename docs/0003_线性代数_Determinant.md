@@ -1,8 +1,8 @@
 ---
-Title | Math Determinant
+Title | 线性代数 Determinant
 -- | --
 Created @ | `2022-03-19T09:29:27Z`
-Updated @| `2024-09-16T17:24:55Z`
+Updated @| `2025-01-02T01:23:39Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/math/issues/3)
 
