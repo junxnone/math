@@ -1,7 +1,6 @@
 - [数学基础](/0001_Math)
   - [贝叶斯定理](/0008_Math_BT)
   - [Derivative 导数](/0009_Math_Derivative)
-  - [Determinant  行列式](/0003_Math_Determinant)
   - [Dynamic Programming 动态规划](/0010_Math_DynamicProgramming)
   - [Gaussian Distribution 高斯分布](/0005_Math_GaussianDistribution)
   - [Gaussian Filter 高斯滤波器](/0021_Math_GaussianFilter)
@@ -17,6 +16,7 @@
 - [图论 (Graph theory)](/0022_图论)
   - [二分图(Bipartite Graph)](/0023_图论_二分图)
 - [线性代数](/0025_线性代数)
+  - [Determinant  行列式](/0003_线性代数_Determinant)
   - [矩阵](/0004_线性代数_Matrix)
   - [SVD](/0012_线性代数_SVD)
   - [向量](/0002_线性代数_Vector)
@@ -25,4 +25,4 @@
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@0921320102</sub></kbd>
+<kbd><sub>@0924250102</sub></kbd>
