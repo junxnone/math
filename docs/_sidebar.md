@@ -14,15 +14,15 @@
   - [RANSAC 随机抽样一致性](/0015_Math_RANSAC)
   - [Simulated annealing 模拟退火](/0014_Math_SA)
   - [Stochastic process 随机过程](/0013_Math_SC)
-  - [向量](/0002_Math_Vector)
   - [norm 范数](/0011_Math_norm)
 - [图论 (Graph theory)](/0022_图论)
   - [二分图(Bipartite Graph)](/0023_图论_二分图)
 - [线性代数](/0025_线性代数)
   - [矩阵](/0004_线性代数_Matrix)
   - [SVD](/0012_线性代数_SVD)
+  - [向量](/0002_线性代数_Vector)
   - [线性相关和线性无关](/0024_线性代数_线性相关无关)
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@0910110102</sub></kbd>
+<kbd><sub>@0920500102</sub></kbd>
