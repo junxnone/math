@@ -9,7 +9,6 @@
   - [Lagrange Multiplier Method 拉格朗日乘数法](/0019_Math_LMM)
   - [Least Squares 最小二乘法](/0006_Math_LeastSquares)
   - [马尔可夫过程](/0018_Math_MarkovProcess)
-  - [矩阵](/0004_Math_Matrix)
   - [QuadTree/OCTree - 四叉树/八叉树](/0017_Math_QuadTree)
   - [Quaternion 四元数](/0016_Math_Quaternion)
   - [RANSAC 随机抽样一致性](/0015_Math_RANSAC)
@@ -21,8 +20,9 @@
 - [图论 (Graph theory)](/0022_图论)
   - [二分图(Bipartite Graph)](/0023_图论_二分图)
 - [线性代数](/0025_线性代数)
+  - [矩阵](/0004_线性代数_Matrix)
   - [线性相关和线性无关](/0024_线性代数_线性相关无关)
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@1626000101</sub></kbd>
+<kbd><sub>@0848450102</sub></kbd>
