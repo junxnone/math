@@ -23,4 +23,4 @@
 - 2020-07-15&nbsp;&nbsp; [Gaussian Process 高斯过程](/0020_Math_GaussianProcess)&nbsp;&nbsp; :bookmark:Math :bookmark:GaussianProcess
 - 2020-07-14&nbsp;&nbsp; [贝叶斯定理](/0008_Math_BT)&nbsp;&nbsp; :bookmark:Math :bookmark:BT
 - 2019-08-05&nbsp;&nbsp; [norm 范数](/0011_Math_norm)&nbsp;&nbsp; :bookmark:Math :bookmark:norm
-- 2018-09-03&nbsp;&nbsp; [SVD](/0012_Math_SVD)&nbsp;&nbsp; :bookmark:Math :bookmark:SVD
+- 2018-09-03&nbsp;&nbsp; [SVD](/0012_线性代数_SVD)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:SVD
