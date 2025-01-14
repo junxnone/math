@@ -3,7 +3,7 @@
 | Title     | 线性代数 Matrix 正交矩阵                                   |
 | --------- | -------------------------------------------------- |
 | Created @ | `2025-01-14T08:36:28Z`                             |
-| Updated @ | `2025-01-14T08:36:28Z`                             |
+| Updated @ | `2025-01-14T08:40:39Z`                             |
 | Labels    | \`\`                                               |
 | Edit @    | [here](https://github.com/junxnone/math/issues/32) |
 
@@ -33,7 +33,7 @@ $$A^TA = \\begin{bmatrix} 1 & 0 & 0 & 0 \\ 0 & 1 & 0 & 0 \\ 0 & 0 & 1 &
   - 在二维空间中，正交矩阵代表旋转和反射变换。
       - 以旋转矩阵为例:
 
-$$$\\begin{pmatrix}\\cos\\theta&-\\sin\\theta\\
+$$\\begin{pmatrix}\\cos\\theta&-\\sin\\theta\\
 \\sin\\theta&\\cos\\theta\\end{pmatrix}$$
 
 表示将向量逆时针旋转 $\\theta$ 角度的变换。
