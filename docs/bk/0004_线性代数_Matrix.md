@@ -3,7 +3,7 @@
 | Title     | 线性代数 Matrix                                       |
 | --------- | ------------------------------------------------- |
 | Created @ | `2022-04-19T11:36:53Z`                            |
-| Updated @ | `2025-01-02T00:47:56Z`                            |
+| Updated @ | `2025-01-14T03:25:43Z`                            |
 | Labels    | \`\`                                              |
 | Edit @    | [here](https://github.com/junxnone/math/issues/4) |
 
@@ -63,6 +63,7 @@ $$A^TA = \\begin{bmatrix} 1 & 0 & 0 & 0 \\ 0 & 1 & 0 & 0 \\ 0 & 0 & 1 &
 
 #### Hadamard Product
 
+  - **Element-Wise Product**
   - $A \\circ B = B \\circ A$
   - $A \\circ (B \\circ C) = (A \\circ B) \\circ C$
   - $A \\circ (B + C) = A \\circ B + A \\circ C$
