@@ -1,6 +1,7 @@
 # Wiki History
 
 - 2025-01-14&nbsp;&nbsp; [矩阵乘积](/0027_线性代数_Matrix_矩阵乘积)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:矩阵乘积
+- 2025-01-14&nbsp;&nbsp; [哈达玛乘积](/0028_线性代数_Matrix_哈达玛乘积)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:哈达玛乘积
 - 2025-01-14&nbsp;&nbsp; [克罗内克积](/0026_线性代数_Matrix_克罗内克积)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:克罗内克积
 - 2024-12-30&nbsp;&nbsp; [线性相关和线性无关](/0024_线性代数_线性相关无关)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:线性相关无关
 - 2024-12-30&nbsp;&nbsp; [线性代数](/0025_线性代数)&nbsp;&nbsp; :bookmark:线性代数
