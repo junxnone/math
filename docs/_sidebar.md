@@ -19,6 +19,7 @@
   - [Determinant  行列式](/0003_线性代数_Determinant)
   - [矩阵](/0004_线性代数_Matrix)
     - [克罗内克积](/0026_线性代数_Matrix_克罗内克积)
+    - [矩阵乘积](/0027_线性代数_Matrix_矩阵乘积)
   - [SVD](/0012_线性代数_SVD)
   - [向量](/0002_线性代数_Vector)
   - [norm 范数](/0011_线性代数_norm)
@@ -26,4 +27,4 @@
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@1448020114</sub></kbd>
+<kbd><sub>@1503100114</sub></kbd>
