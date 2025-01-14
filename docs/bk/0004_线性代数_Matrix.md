@@ -3,7 +3,7 @@
 | Title     | 线性代数 Matrix                                       |
 | --------- | ------------------------------------------------- |
 | Created @ | `2022-04-19T11:36:53Z`                            |
-| Updated @ | `2025-01-14T05:35:44Z`                            |
+| Updated @ | `2025-01-14T07:54:00Z`                            |
 | Labels    | \`\`                                              |
 | Edit @    | [here](https://github.com/junxnone/math/issues/4) |
 
@@ -12,14 +12,55 @@
 # 矩阵
 
   - 行列变换
-  - 加减
   - 乘法
-  - 哈达玛乘积 - `Hadamard product`
   - 转置
   - 逆
   - 秩
   - 迹
   - 雅可比行列式 - Jacobi
+
+## 矩阵的秩
+
+  - 对于一个 $m\\times n$ 矩阵 $A$ ，其秩 $rank(A)$ 定义为矩阵 $A$
+    中线性无关的行向量（或列向量）的最大数目。
+
+对于一个简单的 $2\\times2$ 矩阵:
+
+$$A=\\begin{pmatrix}1&0\\ 0&1\\end{pmatrix}$$
+
+它的行向量
+
+$$\\vec{r}\_{1}=(1,0)$$
+
+$$\\vec{r}\_{2}=(0,1)$$
+
+是线性无关的
+
+列向量
+
+$$\\vec{c}\_{1}=\\begin{pmatrix}1\\ 0\\end{pmatrix}$$
+
+$$\\vec{c}\_{2}=\\begin{pmatrix}0\\ 1\\end{pmatrix}$$
+
+也是线性无关的。所以这个矩阵的秩为 $2$ 。
+
+### 秩的性质
+
+  - $rank(A)=rank(A^{T})$ ，即矩阵 $A$ 的秩等于其转置矩阵 $A^{T}$ 的秩。
+  - 如果 $A$ 是 $m\\times n$ 矩阵， $B$ 是 $n\\times p$ 矩阵，则
+    $rank(AB)\\leq\\min{rank(A),rank(B)}$ 。
+  - 对于 $n$ 阶方阵 $A$ ， $A$ 可逆的充分必要条件是 $rank(A)=n$ 。
+
+### 计算方法
+
+#### 初等变换法
+
+  - 可以通过对矩阵进行初等行变换（包括交换两行、某一行乘以一个非零常数、某一行加上另一行的倍数）将矩阵化为阶梯形矩阵。阶梯形矩阵中非零行的行数就是原矩阵的秩。
+
+#### 利用行列式计算
+
+  - 对于一个 $n$ 阶方阵 $A$ ，如果 $\\vert A\\vert\\neq0$ ，则 $rank(A) = n$ ；如果
+    $\\vert A\\vert = 0$ ，则 $rank(A)\<n$ 。
 
 ## 矩阵转置
 
@@ -61,76 +102,10 @@ $$A^TA = \\begin{bmatrix} 1 & 0 & 0 & 0 \\ 0 & 1 & 0 & 0 \\ 0 & 0 & 1 &
 
 ## 运算定义
 
-### 矩阵乘积
-
-  - **Matrix Product**
-  - $C = AB$
-      - 矩阵 A 的列数必须和矩 阵 B 的行数相等。
-      - $C\_{ij}=\\sum\_{k}A\_{ik}B\_{k j}$
-  - **交换律:** $A \\circ B = B \\circ A$ 的情况并非总是满足
-  - **结合律:** $A \\circ (B \\circ C) = (A \\circ B) \\circ C$
-  - **分配律:** $A \\circ (B + C) = A \\circ B + A \\circ C$
-
-#### 例子
-
-$$A=\\begin{pmatrix} a\_{11} & a\_{12} & \\cdots & a\_{1n}\\ a\_{21} &
-a\_{22} & \\cdots & a\_{2n}\\ \\vdots & \\vdots & \\ddots & \\vdots\\
-a\_{m1} & a\_{m2} & \\cdots & a\_{mn} \\end{pmatrix}$$
-
-$$B=\\begin{pmatrix} b\_{11} & b\_{12} & \\cdots & b\_{1k}\\ b\_{21} &
-b\_{22} & \\cdots & b\_{2k}\\ \\vdots & \\vdots & \\ddots & \\vdots\\
-b\_{n1} & b\_{n2} & \\cdots & b\_{nk} \\end{pmatrix}$$
-
-$$C=\\begin{pmatrix} c\_{11} & c\_{12} & \\cdots & c\_{1k}\\ c\_{21} &
-c\_{22} & \\cdots & c\_{2k}\\ \\vdots & \\vdots & \\ddots & \\vdots\\
-c\_{m1} & c\_{m2} & \\cdots & c\_{mk} \\end{pmatrix}$$
-
-$c\_{ik}=\\sum\_{j = 1}^{n}a\_{ij}b\_{jk}$
-
-$c\_{11}=a\_{11}b\_{11}+a\_{12}b\_{21}+\\cdots + a\_{1n}b\_{n1}$
-
-$c\_{12}=a\_{11}b\_{12}+a\_{12}b\_{22}+\\cdots + a\_{1n}b\_{n2}$
-
-$\\cdots$
-
-$c\_{1k}=a\_{11}b\_{1k}+a\_{12}b\_{2k}+\\cdots + a\_{1n}b\_{nk}$
-
-$c\_{21}=a\_{21}b\_{11}+a\_{22}b\_{21}+\\cdots + a\_{2n}b\_{n1}$
-
-$c\_{22}=a\_{21}b\_{12}+a\_{22}b\_{22}+\\cdots + a\_{2n}b\_{n2}$
-
-$\\cdots$
-
-$c\_{2k}=a\_{21}b\_{1k}+a\_{22}b\_{2k}+\\cdots + a\_{2n}b\_{nk}$
-
-$\\cdots$
-
-$c\_{m1}=a\_{m1}b\_{11}+a\_{m2}b\_{21}+\\cdots + a\_{mn}b\_{n1}$
-
-$c\_{m2}=a\_{m1}b\_{12}+a\_{m2}b\_{22}+\\cdots + a\_{mn}b\_{n2}$
-
-$\\cdots$
-
-$c\_{mk}=a\_{m1}b\_{1k}+a\_{m2}b\_{2k}+\\cdots + a\_{mn}b\_{nk}$
-
-### Hadamard Product
-
-  - **Hadamard Product**/**Element-Wise Product**
-  - **交换律:** $A \\circ B = B \\circ A$
-  - **结合律:** $A \\circ (B \\circ C) = (A \\circ B) \\circ C$
-  - **分配律:** $A \\circ (B + C) = A \\circ B + A \\circ C$
-
-> $\\circ$ 与 $\\odot$ 都可以表示点积
-
-$$\\left\[ \\begin{array}{ccc}  
-a\_{11} & a\_{12} & a\_{13}\\ a\_{21} & a\_{22} & a\_{23}\\ a\_{31} &
-a\_{32} & a\_{33} \\end{array} \\right\] \\circ \\left\[
-\\begin{array}{ccc} b\_{11} & b\_{12} & b\_{13}\\ b\_{21} & b\_{22} &
-b\_{23}\\ b\_{31} & b\_{32} & b\_{33} \\end{array} \\right\] = \\left\[
-\\begin{array}{ccc} a\_{11}\\times b\_{11} & a\_{12}\\times b\_{12} &
-a\_{13}\\times b\_{13}\\ a\_{21}\\times b\_{21} & a\_{22}\\times b\_{22}
-& a\_{23}\\times b\_{23}\\ a\_{31}\\times b\_{31} & a\_{32}\\times
-b\_{32} & a\_{33}\\times b\_{33} \\end{array} \\right\]$$
+  - 乘积
+      - 矩阵乘积
+      - 哈达玛乘积 Hadamard Product
+      - 克罗内克积 Kronecker Product
 
 ## Reference
 

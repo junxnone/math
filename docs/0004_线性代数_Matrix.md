@@ -2,7 +2,7 @@
 Title | 线性代数 Matrix
 -- | --
 Created @ | `2022-04-19T11:36:53Z`
-Updated @| `2025-01-14T05:35:44Z`
+Updated @| `2025-01-14T07:54:00Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/math/issues/4)
 
@@ -11,16 +11,51 @@ Edit @| [here](https://github.com/junxnone/math/issues/4)
 
 
 - 行列变换
-- 加减
 - 乘法
-- 哈达玛乘积 - `Hadamard product`
 - 转置
 - 逆
 - 秩
 - 迹
 - 雅可比行列式 - Jacobi
 
+## 矩阵的秩
+- 对于一个 $m\times n$ 矩阵 $A$ ，其秩 $rank(A)$ 定义为矩阵 $A$ 中线性无关的行向量（或列向量）的最大数目。
 
+对于一个简单的 $2\times2$ 矩阵:
+
+$$A=\begin{pmatrix}1&0\\
+0&1\end{pmatrix}$$
+
+它的行向量 
+
+$$\vec{r}_{1}=(1,0)$$
+
+$$\vec{r}_{2}=(0,1)$$
+
+ 是线性无关的
+
+列向量 
+
+$$\vec{c}_{1}=\begin{pmatrix}1\\
+0\end{pmatrix}$$
+
+$$\vec{c}_{2}=\begin{pmatrix}0\\
+1\end{pmatrix}$$
+
+也是线性无关的。所以这个矩阵的秩为 $2$ 。
+
+### 秩的性质
+ -  $rank(A)=rank(A^{T})$ ，即矩阵 $A$ 的秩等于其转置矩阵 $A^{T}$ 的秩。
+ - 如果 $A$ 是 $m\times n$ 矩阵， $B$ 是 $n\times p$ 矩阵，则 $rank(AB)\leq\min\{rank(A),rank(B)\}$ 。
+ - 对于 $n$ 阶方阵 $A$ ， $A$ 可逆的充分必要条件是 $rank(A)=n$ 。
+
+
+### 计算方法
+#### 初等变换法
+- 可以通过对矩阵进行初等行变换（包括交换两行、某一行乘以一个非零常数、某一行加上另一行的倍数）将矩阵化为阶梯形矩阵。阶梯形矩阵中非零行的行数就是原矩阵的秩。
+
+#### 利用行列式计算
+- 对于一个 $n$ 阶方阵 $A$ ，如果 $\vert A\vert\neq0$ ，则 $rank(A) = n$ ；如果 $\vert A\vert = 0$ ，则 $rank(A)<n$ 。
 
 ## 矩阵转置
 - **矩阵转置**: 矩阵 A 元素行列交换得到的转置矩阵 $A^{T}$ 
@@ -67,97 +102,11 @@ $$A^TA = \begin{bmatrix}
 \end{bmatrix}$$ 
 
 ## 运算定义 
+- 乘积
+  - 矩阵乘积
+  - 哈达玛乘积 Hadamard Product
+  - 克罗内克积 Kronecker Product
 
-### 矩阵乘积
-- **Matrix Product** 
-- $C = AB$ 
-  - 矩阵 A 的列数必须和矩 阵 B 的行数相等。
-  - $C_{ij}=\sum_{k}A_{ik}B_{k j}$
-- **交换律:** $A \circ B = B \circ A$ 的情况并非总是满足
-- **结合律:** $A \circ (B \circ C) = (A \circ B) \circ C$
-- **分配律:** $A \circ (B + C) = A \circ B + A \circ C$
-
-#### 例子
-
-$$A=\begin{pmatrix}
-a_{11} & a_{12} & \cdots & a_{1n}\\
-a_{21} & a_{22} & \cdots & a_{2n}\\
-\vdots & \vdots & \ddots & \vdots\\
-a_{m1} & a_{m2} & \cdots & a_{mn}
-\end{pmatrix}$$
-
-
-$$B=\begin{pmatrix}
-b_{11} & b_{12} & \cdots & b_{1k}\\
-b_{21} & b_{22} & \cdots & b_{2k}\\
-\vdots & \vdots & \ddots & \vdots\\
-b_{n1} & b_{n2} & \cdots & b_{nk}
-\end{pmatrix}$$
-
-$$C=\begin{pmatrix}
-c_{11} & c_{12} & \cdots & c_{1k}\\
-c_{21} & c_{22} & \cdots & c_{2k}\\
-\vdots & \vdots & \ddots & \vdots\\
-c_{m1} & c_{m2} & \cdots & c_{mk}
-\end{pmatrix}$$
-
-$c_{ik}=\sum_{j = 1}^{n}a_{ij}b_{jk}$
-
-$c_{11}=a_{11}b_{11}+a_{12}b_{21}+\cdots + a_{1n}b_{n1}$
-
-$c_{12}=a_{11}b_{12}+a_{12}b_{22}+\cdots + a_{1n}b_{n2}$
-
-$\cdots$
-
-$c_{1k}=a_{11}b_{1k}+a_{12}b_{2k}+\cdots + a_{1n}b_{nk}$
-
-
-$c_{21}=a_{21}b_{11}+a_{22}b_{21}+\cdots + a_{2n}b_{n1}$
-
-$c_{22}=a_{21}b_{12}+a_{22}b_{22}+\cdots + a_{2n}b_{n2}$
-
-$\cdots$
-
-$c_{2k}=a_{21}b_{1k}+a_{22}b_{2k}+\cdots + a_{2n}b_{nk}$
-
-
-$\cdots$
-
-
-$c_{m1}=a_{m1}b_{11}+a_{m2}b_{21}+\cdots + a_{mn}b_{n1}$
-
-$c_{m2}=a_{m1}b_{12}+a_{m2}b_{22}+\cdots + a_{mn}b_{n2}$
-
-$\cdots$
-
-$c_{mk}=a_{m1}b_{1k}+a_{m2}b_{2k}+\cdots + a_{mn}b_{nk}$
-
-
-
-
-### Hadamard Product
-
- - **Hadamard Product**/**Element-Wise Product**
-- **交换律:** $A \circ B = B \circ A$ 
-- **结合律:** $A \circ (B \circ C) = (A \circ B) \circ C$
-- **分配律:** $A \circ (B + C) = A \circ B + A \circ C$
-
-> $\circ$ 与 $\odot$ 都可以表示点积
-
-$$\left[ \begin{array}{ccc}    
- a_{11} & a_{12} & a_{13}\\ 
- a_{21} & a_{22} & a_{23}\\
- a_{31} & a_{32} & a_{33} 
-\end{array} \right] \circ 
-\left[ \begin{array}{ccc} 
-    b_{11} & b_{12} & b_{13}\\
-    b_{21} & b_{22} & b_{23}\\
-    b_{31} & b_{32} & b_{33} \end{array} \right] = 
-\left[ \begin{array}{ccc}
-     a_{11}\times b_{11} & a_{12}\times b_{12} & a_{13}\times b_{13}\\
-     a_{21}\times b_{21} & a_{22}\times b_{22} & a_{23}\times b_{23}\\
-     a_{31}\times b_{31} & a_{32}\times b_{32} & a_{33}\times b_{33}
- \end{array} \right]$$
 
 
 ## Reference
