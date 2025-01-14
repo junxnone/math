@@ -2,7 +2,7 @@
 Title | 线性代数 Matrix
 -- | --
 Created @ | `2022-04-19T11:36:53Z`
-Updated @| `2025-01-14T03:34:17Z`
+Updated @| `2025-01-14T03:37:27Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/math/issues/4)
 
@@ -68,12 +68,19 @@ $$A^TA = \begin{bmatrix}
 
 ## 运算定义 
 
-#### 矩阵乘积
-- **Matrix Product** / **Hadamard Product**/**Element-Wise Product**
+### 矩阵乘积
+- **Matrix Product** 
 - $C = AB$ 
   - 矩阵 A 的列数必须和矩 阵 B 的行数相等。
   - $C_{ij}=\sum_{k}A_{ik}B_{k j}$
 - **交换律:** $A \circ B = B \circ A$ 的情况并非总是满足
+- **结合律:** $A \circ (B \circ C) = (A \circ B) \circ C$
+- **分配律:** $A \circ (B + C) = A \circ B + A \circ C$
+
+### Hadamard Product
+
+ - **Hadamard Product**/**Element-Wise Product**
+- **交换律:** $A \circ B = B \circ A$ 
 - **结合律:** $A \circ (B \circ C) = (A \circ B) \circ C$
 - **分配律:** $A \circ (B + C) = A \circ B + A \circ C$
 
