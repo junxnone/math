@@ -1,5 +1,6 @@
 # Wiki History
 
+- 2025-01-14&nbsp;&nbsp; [矩阵的逆](/0031_线性代数_Matrix_逆)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:逆
 - 2025-01-14&nbsp;&nbsp; [矩阵的秩](/0029_线性代数_Matrix_秩)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:秩
 - 2025-01-14&nbsp;&nbsp; [哈达玛乘积](/0028_线性代数_Matrix_哈达玛乘积)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:哈达玛乘积
 - 2025-01-14&nbsp;&nbsp; [矩阵乘积](/0027_线性代数_Matrix_矩阵乘积)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:矩阵乘积
