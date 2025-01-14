@@ -3,7 +3,7 @@
 | Title     | 线性代数 Determinant                                  |
 | --------- | ------------------------------------------------- |
 | Created @ | `2022-03-19T09:29:27Z`                            |
-| Updated @ | `2025-01-14T06:13:23Z`                            |
+| Updated @ | `2025-01-14T06:23:05Z`                            |
 | Labels    | \`\`                                              |
 | Edit @    | [here](https://github.com/junxnone/math/issues/3) |
 
@@ -63,10 +63,10 @@ a\_{1n} \\ a\_{21} & a\_{22} & \\cdots & a\_{2n} \\ \\vdots & \\vdots &
 \\vdots & \\vdots \\ a\_{n1} & a\_{n2} & \\cdots & a\_{nn} \\
 \\end{vmatrix}$$
 
-$D\_{nn} = (-1)^{1+1}a\_{11}M\_{11} + (-1)^{1+2}a\_{12}M\_{12} + ... +
-(-1)^{i+j}a\_{ij}M\_{ij} + ... + (-1)^{n+n}a\_{nn}M\_{nn}$
+$$D\_{nn} = (-1)^{1+1}a\_{11}M\_{11} + (-1)^{1+2}a\_{12}M\_{12} + ... $$
+$$+ (-1)^{i+j}a\_{ij}M\_{ij} + ... + (-1)^{n+n}a\_{nn}M\_{nn}$$
 
-$$\\huge M\_{12} = \\begin{vmatrix} a\_{11} & a\_{12} & \\cdots &
+$$\\large M\_{12} = \\begin{vmatrix} a\_{11} & a\_{12} & \\cdots &
 a\_{1n} \\ {\\color{Red} a\_{21}} & a\_{22} & {\\color{Red} \\cdots} &
 {\\color{Red} a\_{2n}} \\ {\\color{Red} \\vdots} & \\vdots &
 {\\color{Red} \\vdots} & {\\color{Red} \\vdots} \\ {\\color{Red}
@@ -106,11 +106,11 @@ $$\\huge \\overrightarrow{r1=r1+r2+r3+r4} = \\begin{vmatrix} 6 & 6 & 6 &
 $$\\huge \\overrightarrow{r1=r1\\div 6} = 6\\begin{vmatrix} 1 & 1 & 1 &
 1 \\ 1 & 3 & 1 & 1 \\ 1 & 1 & 3 & 1 \\ 1 & 1 & 3 & 3 \\ \\end{vmatrix}$$
 
-$$\\huge \\overrightarrow{r2=r2-r1,r3=r3-r1,r4=r4-r1} =
+$$\\huge \\overrightarrow{r2=r2-r1,r3=r3-r1,r4=r4-r1}$$ $$\\huge =
 6\\begin{vmatrix} 1 & 1 & 1 & 1 \\ 0 & 2 & 0 & 0 \\ 0 & 0 & 2 & 0 \\ 0 &
 0 & 0 & 2 \\ \\end{vmatrix}$$
 
-$= 6 \\times (1 \\times 2 \\times 2 \\times 2) = 48$
+$$\\huge = 6 \\times (1 \\times 2 \\times 2 \\times 2) = 48$$
 
 ### 逆序数法
 

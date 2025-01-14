@@ -2,7 +2,7 @@
 Title | 线性代数 Determinant
 -- | --
 Created @ | `2022-03-19T09:29:27Z`
-Updated @| `2025-01-14T06:13:23Z`
+Updated @| `2025-01-14T06:23:05Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/math/issues/3)
 
@@ -76,9 +76,10 @@ a_{21} & a_{22} & \cdots & a_{2n} \\
 a_{n1} & a_{n2} & \cdots & a_{nn} \\
 \end{vmatrix}$$
 
-$D_{nn} = (-1)^{1+1}a_{11}M_{11} + (-1)^{1+2}a_{12}M_{12} + ... + (-1)^{i+j}a_{ij}M_{ij} + ... + (-1)^{n+n}a_{nn}M_{nn}$
+$$D_{nn} = (-1)^{1+1}a_{11}M_{11} + (-1)^{1+2}a_{12}M_{12} + ... $$
+$$+ (-1)^{i+j}a_{ij}M_{ij} + ... + (-1)^{n+n}a_{nn}M_{nn}$$
 
-$$\huge M_{12} = \begin{vmatrix}
+$$\large M_{12} = \begin{vmatrix}
 a_{11} & a_{12} & \cdots & a_{1n} \\
 {\color{Red} a_{21}} & a_{22} & {\color{Red} \cdots} & {\color{Red} a_{2n}} \\
 {\color{Red} \vdots}  & \vdots & {\color{Red} \vdots} & {\color{Red} \vdots} \\
@@ -141,15 +142,15 @@ $$\huge \overrightarrow{r1=r1\div 6}
 1 & 1 & 3 & 3 \\
 \end{vmatrix}$$  
 
-$$\huge \overrightarrow{r2=r2-r1,r3=r3-r1,r4=r4-r1}
-= 6\begin{vmatrix}
+$$\huge \overrightarrow{r2=r2-r1,r3=r3-r1,r4=r4-r1}$$ 
+$$\huge = 6\begin{vmatrix}
 1 & 1 & 1 & 1 \\
 0 & 2 & 0 & 0 \\
 0 & 0 & 2 & 0 \\
 0 & 0 & 0 & 2 \\
 \end{vmatrix}$$ 
 
-$= 6 \times (1 \times 2 \times 2 \times 2) = 48$
+$$\huge = 6 \times (1 \times 2 \times 2 \times 2) = 48$$
 
 ### 逆序数法
 
