@@ -4,6 +4,7 @@
 
 #### **Created**
 
+- 2026-11-24&nbsp;&nbsp; [曲线曲面积分与场论](/0056_微积分_曲线曲面积分与场论)&nbsp;&nbsp; :bookmark:微积分 :bookmark:曲线曲面积分与场论
 - 2026-11-24&nbsp;&nbsp; [重积分](/0055_微积分_重积分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:重积分
 - 2026-11-24&nbsp;&nbsp; [多元函数微分](/0054_微积分_多元函数微分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:多元函数微分
 - 2026-11-24&nbsp;&nbsp; [级数](/0053_微积分_级数)&nbsp;&nbsp; :bookmark:微积分 :bookmark:级数
@@ -60,6 +61,7 @@
 
 #### **Updated**
 
+- 2026-11-24&nbsp;&nbsp; [曲线曲面积分与场论](/0056_微积分_曲线曲面积分与场论)&nbsp;&nbsp; :bookmark:微积分 :bookmark:曲线曲面积分与场论
 - 2026-11-24&nbsp;&nbsp; [重积分](/0055_微积分_重积分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:重积分
 - 2026-11-24&nbsp;&nbsp; [多元函数微分](/0054_微积分_多元函数微分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:多元函数微分
 - 2026-11-24&nbsp;&nbsp; [级数](/0053_微积分_级数)&nbsp;&nbsp; :bookmark:微积分 :bookmark:级数
