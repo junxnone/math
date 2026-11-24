@@ -460,6 +460,15 @@
       "childLinks": []
     },
     {
+      "id": "math 概率论 随机过程初步",
+      "group": 2,
+      "title": "随机过程初步",
+      "url": "https://junxnone.github.io/math/#/0067_概率论_随机过程初步",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 优化理论 一阶方法与随机梯度",
       "group": 2,
       "title": "一阶方法与随机梯度",
@@ -951,6 +960,13 @@
     {
       "source": "math 概率论",
       "target": "math 概率论 大数定律与中心极限定理",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 概率论",
+      "target": "math 概率论 随机过程初步",
       "value": 2,
       "visible": true,
       "expand": true
