@@ -415,6 +415,15 @@
       "childLinks": []
     },
     {
+      "id": "math 概率论 随机变量与分布",
+      "group": 2,
+      "title": "随机变量与分布",
+      "url": "https://junxnone.github.io/math/#/0062_概率论_随机变量与分布",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 优化理论 一阶方法与随机梯度",
       "group": 2,
       "title": "一阶方法与随机梯度",
@@ -871,6 +880,13 @@
     {
       "source": "math 概率论",
       "target": "math 概率论 条件概率与贝叶斯",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 概率论",
+      "target": "math 概率论 随机变量与分布",
       "value": 2,
       "visible": true,
       "expand": true
