@@ -2,7 +2,7 @@
 Title | 线性代数 Matrix 逆
 -- | --
 Created @ | `2025-01-14T08:20:42Z`
-Updated @| `2025-01-14T08:20:42Z`
+Updated @| `2026-11-24T14:43:15Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/math/issues/31)
 
@@ -76,4 +76,13 @@ $$A^{-1}=\begin{pmatrix}-2&1\\
 ## 应用
    - 在线性方程组 $Ax = b$ （ $A$ 是 $n$ 阶方阵， $x$ 和 $b$ 是 $n$ 维向量）中，如果 $A$ 可逆，那么方程组的解为 $x = A^{-1}b$ 。这为求解线性方程组提供了一种有效的方法。
 
+
+
+## 相关文章
+
+- [初等变换](https://github.com/junxnone/math/issues/38)：用 $[A\mid I]\to[I\mid A^{-1}]$ 求逆的原理
+- [线性方程组](https://github.com/junxnone/math/issues/35)：解的判定与求解方法
+- [矩阵分解](https://github.com/junxnone/math/issues/40)：数值计算中通常用 LU / QR 分解代替显式求逆
+- [伪逆](https://github.com/junxnone/math/issues/43)：非方阵和奇异矩阵的广义逆
+- [范数与条件数](https://github.com/junxnone/math/issues/45)：$\kappa(A)=\|A\|\,\|A^{-1}\|$ 衡量求逆的数值稳定性
 
