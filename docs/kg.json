@@ -46,6 +46,15 @@
       "childLinks": []
     },
     {
+      "id": "math 概率论",
+      "group": 1,
+      "title": "概率论",
+      "url": "https://junxnone.github.io/math/#/0059_概率论",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Vector",
       "group": 2,
       "title": "向量",
@@ -539,6 +548,13 @@
     {
       "source": "math",
       "target": "math 微积分",
+      "value": 1,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math",
+      "target": "math 概率论",
       "value": 1,
       "visible": true,
       "expand": true
