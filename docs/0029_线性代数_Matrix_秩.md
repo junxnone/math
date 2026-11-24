@@ -2,7 +2,7 @@
 Title | 线性代数 Matrix 秩
 -- | --
 Created @ | `2025-01-14T08:09:57Z`
-Updated @| `2025-01-14T08:09:57Z`
+Updated @| `2026-11-24T14:43:13Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/math/issues/29)
 
@@ -45,4 +45,25 @@ $$\vec{c}_{2}=\begin{pmatrix}0\\
 
 ### 利用行列式计算
 - 对于一个 $n$ 阶方阵 $A$ ，如果 $\vert A\vert\neq0$ ，则 $rank(A) = n$ ；如果 $\vert A\vert = 0$ ，则 $rank(A)<n$ 。
+
+
+## 秩与子空间
+
+$$
+\operatorname{rank}(A)+\dim\operatorname{Null}(A)=n
+$$
+
+其中：
+
+- $A\in\mathbb{R}^{m\times n}$：矩阵，$n$ 为列数
+- $\operatorname{rank}(A)$：列空间（也是行空间）的维数
+- $\operatorname{Null}(A)=\{\mathbf{x}\mid A\mathbf{x}=\mathbf{0}\}$：零空间；该式称为秩-零化度定理
+
+## 相关文章
+
+- [向量空间](https://github.com/junxnone/math/issues/34)：列空间、行空间、零空间与秩的关系
+- [初等变换](https://github.com/junxnone/math/issues/38)：行阶梯形中主元个数即为秩
+- [线性方程组](https://github.com/junxnone/math/issues/35)：$\operatorname{rank}(A)$ 与 $\operatorname{rank}([A\mid\mathbf{b}])$ 决定解的情况
+- [线性变换](https://github.com/junxnone/math/issues/39)：秩是像空间的维数
+- [SVD](https://github.com/junxnone/math/issues/12)：非零奇异值的个数等于秩
 
