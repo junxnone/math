@@ -6,6 +6,7 @@
 
 - 2026-11-24&nbsp;&nbsp; [非凸优化](/0083_优化理论_非凸优化)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:非凸优化
 - 2026-11-24&nbsp;&nbsp; [一阶方法与随机梯度](/0081_优化理论_一阶方法与随机梯度)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:一阶方法与随机梯度
+- 2026-11-24&nbsp;&nbsp; [大数定律与中心极限定理](/0066_概率论_大数定律与中心极限定理)&nbsp;&nbsp; :bookmark:概率论 :bookmark:大数定律与中心极限定理
 - 2026-11-24&nbsp;&nbsp; [多维随机变量与协方差](/0065_概率论_多维随机变量与协方差)&nbsp;&nbsp; :bookmark:概率论 :bookmark:多维随机变量与协方差
 - 2026-11-24&nbsp;&nbsp; [期望方差与矩](/0064_概率论_期望方差与矩)&nbsp;&nbsp; :bookmark:概率论 :bookmark:期望方差与矩
 - 2026-11-24&nbsp;&nbsp; [常见分布](/0063_概率论_常见分布)&nbsp;&nbsp; :bookmark:概率论 :bookmark:常见分布
@@ -74,6 +75,7 @@
 
 - 2026-11-24&nbsp;&nbsp; [非凸优化](/0083_优化理论_非凸优化)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:非凸优化
 - 2026-11-24&nbsp;&nbsp; [一阶方法与随机梯度](/0081_优化理论_一阶方法与随机梯度)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:一阶方法与随机梯度
+- 2026-11-24&nbsp;&nbsp; [大数定律与中心极限定理](/0066_概率论_大数定律与中心极限定理)&nbsp;&nbsp; :bookmark:概率论 :bookmark:大数定律与中心极限定理
 - 2026-11-24&nbsp;&nbsp; [多维随机变量与协方差](/0065_概率论_多维随机变量与协方差)&nbsp;&nbsp; :bookmark:概率论 :bookmark:多维随机变量与协方差
 - 2026-11-24&nbsp;&nbsp; [期望方差与矩](/0064_概率论_期望方差与矩)&nbsp;&nbsp; :bookmark:概率论 :bookmark:期望方差与矩
 - 2026-11-24&nbsp;&nbsp; [常见分布](/0063_概率论_常见分布)&nbsp;&nbsp; :bookmark:概率论 :bookmark:常见分布

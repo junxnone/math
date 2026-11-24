@@ -451,6 +451,15 @@
       "childLinks": []
     },
     {
+      "id": "math 概率论 大数定律与中心极限定理",
+      "group": 2,
+      "title": "大数定律与中心极限定理",
+      "url": "https://junxnone.github.io/math/#/0066_概率论_大数定律与中心极限定理",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 优化理论 一阶方法与随机梯度",
       "group": 2,
       "title": "一阶方法与随机梯度",
@@ -935,6 +944,13 @@
     {
       "source": "math 概率论",
       "target": "math 概率论 多维随机变量与协方差",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 概率论",
+      "target": "math 概率论 大数定律与中心极限定理",
       "value": 2,
       "visible": true,
       "expand": true
