@@ -307,6 +307,15 @@
       "childLinks": []
     },
     {
+      "id": "math 微积分 导数与微分",
+      "group": 2,
+      "title": "导数与微分",
+      "url": "https://junxnone.github.io/math/#/0050_微积分_导数与微分",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Matrix 克罗内克积",
       "group": 3,
       "title": "克罗内克积",
@@ -661,6 +670,13 @@
     {
       "source": "math 微积分",
       "target": "math 微积分 极限与连续",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 微积分",
+      "target": "math 微积分 导数与微分",
       "value": 2,
       "visible": true,
       "expand": true

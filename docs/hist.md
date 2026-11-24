@@ -4,6 +4,7 @@
 
 #### **Created**
 
+- 2026-11-24&nbsp;&nbsp; [导数与微分](/0050_微积分_导数与微分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:导数与微分
 - 2026-11-24&nbsp;&nbsp; [极限与连续](/0049_微积分_极限与连续)&nbsp;&nbsp; :bookmark:微积分 :bookmark:极限与连续
 - 2026-11-24&nbsp;&nbsp; [微积分](/0048_微积分)&nbsp;&nbsp; :bookmark:微积分
 - 2026-11-24&nbsp;&nbsp; [张量基础](/0047_线性代数_张量基础)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:张量基础
@@ -54,6 +55,7 @@
 
 #### **Updated**
 
+- 2026-11-24&nbsp;&nbsp; [导数与微分](/0050_微积分_导数与微分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:导数与微分
 - 2026-11-24&nbsp;&nbsp; [极限与连续](/0049_微积分_极限与连续)&nbsp;&nbsp; :bookmark:微积分 :bookmark:极限与连续
 - 2026-11-24&nbsp;&nbsp; [微积分](/0048_微积分)&nbsp;&nbsp; :bookmark:微积分
 - 2026-11-24&nbsp;&nbsp; [张量基础](/0047_线性代数_张量基础)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:张量基础
