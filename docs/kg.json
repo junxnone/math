@@ -298,6 +298,15 @@
       "childLinks": []
     },
     {
+      "id": "math 微积分 极限与连续",
+      "group": 2,
+      "title": "极限与连续",
+      "url": "https://junxnone.github.io/math/#/0049_微积分_极限与连续",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Matrix 克罗内克积",
       "group": 3,
       "title": "克罗内克积",
@@ -645,6 +654,13 @@
     {
       "source": "math 线性代数",
       "target": "math 线性代数 张量基础",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 微积分",
+      "target": "math 微积分 极限与连续",
       "value": 2,
       "visible": true,
       "expand": true
