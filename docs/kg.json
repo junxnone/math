@@ -397,6 +397,15 @@
       "childLinks": []
     },
     {
+      "id": "math 概率论 概率空间与公理",
+      "group": 2,
+      "title": "概率空间与公理",
+      "url": "https://junxnone.github.io/math/#/0060_概率论_概率空间与公理",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Matrix 克罗内克积",
       "group": 3,
       "title": "克罗内克积",
@@ -821,6 +830,13 @@
     {
       "source": "math 微积分",
       "target": "math 微积分 极值与拉格朗日乘数",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 概率论",
+      "target": "math 概率论 概率空间与公理",
       "value": 2,
       "visible": true,
       "expand": true
