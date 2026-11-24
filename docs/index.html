@@ -10,7 +10,12 @@
     content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="assets/vue.css">
   <link rel="stylesheet" href="assets/docsify-sidebar-collapse.min.css">
-  <link rel="stylesheet" href="assets/gitalk.css">
+  <style>
+  .markmap {
+    width: 100%;
+    height: 500px;
+  }
+  </style>
 </head>
 
 <body>
@@ -38,7 +43,7 @@
       placeholder: '搜索',
       noData: '啥也没找到',
       namespace: 'math',
-      depth: 6
+      depth: 2
     },
     count: {
       countable: true,
@@ -57,14 +62,17 @@
 
 <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
 <script src="assets/docsify.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/junxnone/docsify-github-codeblock@v0.1.0/src/docsify-github-codeblock.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-tabs@1/dist/docsify-tabs.min.css">
+<script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
 <script src="assets/docsify-copy-code.min.js"></script>
 <script src="assets/search.min.js"></script>
 <script src="assets/countable.js"></script>
 <script src="assets/docsify-plugin-toc.min.js"></script>
+<link rel="stylesheet" href="assets/toc-toggle.css">
+<script src="assets/toc-toggle.js"></script>
 <script src="assets/docsify-sidebar-collapse.min.js"></script>
 <script src="assets/wikilink.min.js"></script>
-<script src="assets/docsify.gitalk.min.js"></script>
-<script src="assets/gitalk.min.js"></script>
 <link rel="stylesheet" href="assets/docsify-quick-page.css">
 <script src="assets/docsify-quick-page.js"></script>
 <link rel="stylesheet" href="assets/dark-mode.css">
@@ -75,8 +83,9 @@
 <script src="assets/edit.js"></script>
 <script src="assets/pdfobject.min.js"></script>
 <script src="assets/docsify-pdf-embed.js"></script>
-<script src="assets/mermaid.min.js"></script>
 <script src="assets/docsify-mermaid.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/markmap-autoloader@0.18.9"></script>
+<script src="https://cdn.jsdelivr.net/npm/docsify-markmap.js@1.0.0/docsify-markmap.min.js"></script>
 
 <!-- // docsify-katex conflict with search plugin -->
 <!-- <script src="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.js"></script>
@@ -88,6 +97,7 @@
 <script src="//cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 <script src="//cdn.jsdelivr.net/npm/docsify-latex@0"></script>
 
+<!--<script src="https://gllmar.github.io/docsify-alert/docsify-alerts.js"></script> -->
 
 <!-- //or use docsify-latex + katex -->
 <!-- <script src="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.js"></script>
@@ -95,25 +105,6 @@
   <script src="//cdn.jsdelivr.net/npm/docsify-latex@0"></script> -->
 
 
-<script>mermaid.initialize({ startOnLoad: true });</script>
-
-<script>
-  const gitalk = new Gitalk({
-    clientID: '91b46a4472ca8bff4fe6',
-    clientSecret: '4f97a59f21b6fc23798d6c3f2e0997fa61845e9d',
-    repo: 'gitalk_comment',
-    owner: 'junxnone',
-    admin: ['junxnone'],
-    id: location.href.split(/\/|\?/)[3] + '-' + location.href.split(/\/|\?/)[5],
-    // facebook-like distraction free mode
-    distractionFreeMode: true
-  })
-  window.onhashchange = function (event) {
-    if (event.newURL.split('?')[0] !== event.oldURL.split('?')[0]) {
-      location.reload()
-    }
-  }
-</script>
 
 <script>
   window.$docsify.plugins.push(
