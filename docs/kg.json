@@ -316,6 +316,15 @@
       "childLinks": []
     },
     {
+      "id": "math 微积分 中值定理与泰勒公式",
+      "group": 2,
+      "title": "中值定理与泰勒公式",
+      "url": "https://junxnone.github.io/math/#/0051_微积分_中值定理与泰勒公式",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Matrix 克罗内克积",
       "group": 3,
       "title": "克罗内克积",
@@ -677,6 +686,13 @@
     {
       "source": "math 微积分",
       "target": "math 微积分 导数与微分",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 微积分",
+      "target": "math 微积分 中值定理与泰勒公式",
       "value": 2,
       "visible": true,
       "expand": true
