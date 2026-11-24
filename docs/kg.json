@@ -226,6 +226,33 @@
       "childLinks": []
     },
     {
+      "id": "math 线性代数 向量空间",
+      "group": 2,
+      "title": "向量空间",
+      "url": "https://junxnone.github.io/math/#/0034_线性代数_向量空间",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 线性代数 线性方程组",
+      "group": 2,
+      "title": "线性方程组",
+      "url": "https://junxnone.github.io/math/#/0035_线性代数_线性方程组",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 线性代数 特征值与特征向量",
+      "group": 2,
+      "title": "特征值与特征向量",
+      "url": "https://junxnone.github.io/math/#/0036_线性代数_特征值与特征向量",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Matrix 克罗内克积",
       "group": 3,
       "title": "克罗内克积",
@@ -284,6 +311,24 @@
       "group": 3,
       "title": "正交矩阵",
       "url": "https://junxnone.github.io/math/#/0032_线性代数_Matrix_正交矩阵",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 线性代数 Matrix 迹",
+      "group": 3,
+      "title": "矩阵的迹",
+      "url": "https://junxnone.github.io/math/#/0037_线性代数_Matrix_迹",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 线性代数 Matrix 初等变换",
+      "group": 3,
+      "title": "初等变换",
+      "url": "https://junxnone.github.io/math/#/0038_线性代数_Matrix_初等变换",
       "visible": true,
       "expand": true,
       "childLinks": []
@@ -459,6 +504,27 @@
       "expand": true
     },
     {
+      "source": "math 线性代数",
+      "target": "math 线性代数 向量空间",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 线性代数",
+      "target": "math 线性代数 线性方程组",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 线性代数",
+      "target": "math 线性代数 特征值与特征向量",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
       "source": "math 线性代数 Matrix",
       "target": "math 线性代数 Matrix 克罗内克积",
       "value": 3,
@@ -503,6 +569,20 @@
     {
       "source": "math 线性代数 Matrix",
       "target": "math 线性代数 Matrix 正交矩阵",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 线性代数 Matrix",
+      "target": "math 线性代数 Matrix 迹",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 线性代数 Matrix",
+      "target": "math 线性代数 Matrix 初等变换",
       "value": 3,
       "visible": true,
       "expand": true
