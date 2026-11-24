@@ -442,6 +442,15 @@
       "childLinks": []
     },
     {
+      "id": "math 概率论 多维随机变量与协方差",
+      "group": 2,
+      "title": "多维随机变量与协方差",
+      "url": "https://junxnone.github.io/math/#/0065_概率论_多维随机变量与协方差",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 优化理论 一阶方法与随机梯度",
       "group": 2,
       "title": "一阶方法与随机梯度",
@@ -919,6 +928,13 @@
     {
       "source": "math 概率论",
       "target": "math 概率论 期望方差与矩",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 概率论",
+      "target": "math 概率论 多维随机变量与协方差",
       "value": 2,
       "visible": true,
       "expand": true
