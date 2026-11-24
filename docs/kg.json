@@ -370,6 +370,15 @@
       "childLinks": []
     },
     {
+      "id": "math 微积分 常微分方程",
+      "group": 2,
+      "title": "常微分方程",
+      "url": "https://junxnone.github.io/math/#/0057_微积分_常微分方程",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Matrix 克罗内克积",
       "group": 3,
       "title": "克罗内克积",
@@ -773,6 +782,13 @@
     {
       "source": "math 微积分",
       "target": "math 微积分 曲线曲面积分与场论",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 微积分",
+      "target": "math 微积分 常微分方程",
       "value": 2,
       "visible": true,
       "expand": true
