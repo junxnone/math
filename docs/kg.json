@@ -343,6 +343,15 @@
       "childLinks": []
     },
     {
+      "id": "math 微积分 多元函数微分",
+      "group": 2,
+      "title": "多元函数微分",
+      "url": "https://junxnone.github.io/math/#/0054_微积分_多元函数微分",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Matrix 克罗内克积",
       "group": 3,
       "title": "克罗内克积",
@@ -725,6 +734,13 @@
     {
       "source": "math 微积分",
       "target": "math 微积分 级数",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 微积分",
+      "target": "math 微积分 多元函数微分",
       "value": 2,
       "visible": true,
       "expand": true
