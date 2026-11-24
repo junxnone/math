@@ -55,6 +55,15 @@
       "childLinks": []
     },
     {
+      "id": "math 数理统计",
+      "group": 1,
+      "title": "数理统计",
+      "url": "https://junxnone.github.io/math/#/0068_数理统计",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Vector",
       "group": 2,
       "title": "向量",
@@ -645,6 +654,13 @@
     {
       "source": "math",
       "target": "math 概率论",
+      "value": 1,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math",
+      "target": "math 数理统计",
       "value": 1,
       "visible": true,
       "expand": true
