@@ -66,17 +66,17 @@
 - 2026-11-24&nbsp;&nbsp; [特征值与特征向量](/0036_线性代数_特征值与特征向量)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:特征值与特征向量
 - 2026-11-24&nbsp;&nbsp; [线性方程组](/0035_线性代数_线性方程组)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:线性方程组
 - 2026-11-24&nbsp;&nbsp; [向量空间](/0034_线性代数_向量空间)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:向量空间
+- 2026-11-24&nbsp;&nbsp; [矩阵的逆](/0031_线性代数_Matrix_逆)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:逆
+- 2026-11-24&nbsp;&nbsp; [矩阵的秩](/0029_线性代数_Matrix_秩)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:秩
 - 2026-11-24&nbsp;&nbsp; [线性代数](/0025_线性代数)&nbsp;&nbsp; :bookmark:线性代数
+- 2026-11-24&nbsp;&nbsp; [SVD](/0012_线性代数_SVD)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:SVD
+- 2026-11-24&nbsp;&nbsp; [矩阵](/0004_线性代数_Matrix)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix
 - 2025-01-14&nbsp;&nbsp; [正交矩阵](/0032_线性代数_Matrix_正交矩阵)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:正交矩阵
-- 2025-01-14&nbsp;&nbsp; [矩阵的逆](/0031_线性代数_Matrix_逆)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:逆
 - 2025-01-14&nbsp;&nbsp; [矩阵转置](/0030_线性代数_Matrix_转置)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:转置
-- 2025-01-14&nbsp;&nbsp; [矩阵的秩](/0029_线性代数_Matrix_秩)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:秩
 - 2025-01-14&nbsp;&nbsp; [哈达玛乘积](/0028_线性代数_Matrix_哈达玛乘积)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:哈达玛乘积
 - 2025-01-14&nbsp;&nbsp; [矩阵乘积](/0027_线性代数_Matrix_矩阵乘积)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:矩阵乘积
 - 2025-01-14&nbsp;&nbsp; [克罗内克积](/0026_线性代数_Matrix_克罗内克积)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:克罗内克积
-- 2025-01-14&nbsp;&nbsp; [矩阵](/0004_线性代数_Matrix)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix
 - 2025-01-14&nbsp;&nbsp; [Determinant  行列式](/0003_线性代数_Determinant)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Determinant
-- 2025-01-02&nbsp;&nbsp; [SVD](/0012_线性代数_SVD)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:SVD
 - 2025-01-02&nbsp;&nbsp; [norm 范数](/0011_线性代数_norm)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:norm
 - 2025-01-02&nbsp;&nbsp; [向量](/0002_线性代数_Vector)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Vector
 - 2024-12-30&nbsp;&nbsp; [线性相关和线性无关](/0024_线性代数_线性相关无关)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:线性相关无关
