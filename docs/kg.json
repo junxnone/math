@@ -406,6 +406,33 @@
       "childLinks": []
     },
     {
+      "id": "math 概率论 条件概率与贝叶斯",
+      "group": 2,
+      "title": "条件概率与贝叶斯",
+      "url": "https://junxnone.github.io/math/#/0061_概率论_条件概率与贝叶斯",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 优化理论 一阶方法与随机梯度",
+      "group": 2,
+      "title": "一阶方法与随机梯度",
+      "url": "https://junxnone.github.io/math/#/0081_优化理论_一阶方法与随机梯度",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 优化理论 非凸优化",
+      "group": 2,
+      "title": "非凸优化",
+      "url": "https://junxnone.github.io/math/#/0083_优化理论_非凸优化",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Matrix 克罗内克积",
       "group": 3,
       "title": "克罗内克积",
@@ -837,6 +864,13 @@
     {
       "source": "math 概率论",
       "target": "math 概率论 概率空间与公理",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 概率论",
+      "target": "math 概率论 条件概率与贝叶斯",
       "value": 2,
       "visible": true,
       "expand": true

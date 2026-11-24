@@ -4,6 +4,9 @@
 
 #### **Created**
 
+- 2026-11-24&nbsp;&nbsp; [非凸优化](/0083_优化理论_非凸优化)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:非凸优化
+- 2026-11-24&nbsp;&nbsp; [一阶方法与随机梯度](/0081_优化理论_一阶方法与随机梯度)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:一阶方法与随机梯度
+- 2026-11-24&nbsp;&nbsp; [条件概率与贝叶斯](/0061_概率论_条件概率与贝叶斯)&nbsp;&nbsp; :bookmark:概率论 :bookmark:条件概率与贝叶斯
 - 2026-11-24&nbsp;&nbsp; [概率空间与公理](/0060_概率论_概率空间与公理)&nbsp;&nbsp; :bookmark:概率论 :bookmark:概率空间与公理
 - 2026-11-24&nbsp;&nbsp; [概率论](/0059_概率论)&nbsp;&nbsp; :bookmark:概率论
 - 2026-11-24&nbsp;&nbsp; [极值与拉格朗日乘数](/0058_微积分_极值与拉格朗日乘数)&nbsp;&nbsp; :bookmark:微积分 :bookmark:极值与拉格朗日乘数
@@ -65,6 +68,9 @@
 
 #### **Updated**
 
+- 2026-11-24&nbsp;&nbsp; [非凸优化](/0083_优化理论_非凸优化)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:非凸优化
+- 2026-11-24&nbsp;&nbsp; [一阶方法与随机梯度](/0081_优化理论_一阶方法与随机梯度)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:一阶方法与随机梯度
+- 2026-11-24&nbsp;&nbsp; [条件概率与贝叶斯](/0061_概率论_条件概率与贝叶斯)&nbsp;&nbsp; :bookmark:概率论 :bookmark:条件概率与贝叶斯
 - 2026-11-24&nbsp;&nbsp; [概率空间与公理](/0060_概率论_概率空间与公理)&nbsp;&nbsp; :bookmark:概率论 :bookmark:概率空间与公理
 - 2026-11-24&nbsp;&nbsp; [概率论](/0059_概率论)&nbsp;&nbsp; :bookmark:概率论
 - 2026-11-24&nbsp;&nbsp; [极值与拉格朗日乘数](/0058_微积分_极值与拉格朗日乘数)&nbsp;&nbsp; :bookmark:微积分 :bookmark:极值与拉格朗日乘数
