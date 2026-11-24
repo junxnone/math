@@ -4,6 +4,7 @@
 
 #### **Created**
 
+- 2026-11-24&nbsp;&nbsp; [级数](/0053_微积分_级数)&nbsp;&nbsp; :bookmark:微积分 :bookmark:级数
 - 2026-11-24&nbsp;&nbsp; [积分](/0052_微积分_积分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:积分
 - 2026-11-24&nbsp;&nbsp; [中值定理与泰勒公式](/0051_微积分_中值定理与泰勒公式)&nbsp;&nbsp; :bookmark:微积分 :bookmark:中值定理与泰勒公式
 - 2026-11-24&nbsp;&nbsp; [导数与微分](/0050_微积分_导数与微分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:导数与微分
@@ -57,6 +58,7 @@
 
 #### **Updated**
 
+- 2026-11-24&nbsp;&nbsp; [级数](/0053_微积分_级数)&nbsp;&nbsp; :bookmark:微积分 :bookmark:级数
 - 2026-11-24&nbsp;&nbsp; [积分](/0052_微积分_积分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:积分
 - 2026-11-24&nbsp;&nbsp; [中值定理与泰勒公式](/0051_微积分_中值定理与泰勒公式)&nbsp;&nbsp; :bookmark:微积分 :bookmark:中值定理与泰勒公式
 - 2026-11-24&nbsp;&nbsp; [导数与微分](/0050_微积分_导数与微分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:导数与微分

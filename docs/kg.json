@@ -334,6 +334,15 @@
       "childLinks": []
     },
     {
+      "id": "math 微积分 级数",
+      "group": 2,
+      "title": "级数",
+      "url": "https://junxnone.github.io/math/#/0053_微积分_级数",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Matrix 克罗内克积",
       "group": 3,
       "title": "克罗内克积",
@@ -709,6 +718,13 @@
     {
       "source": "math 微积分",
       "target": "math 微积分 积分",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 微积分",
+      "target": "math 微积分 级数",
       "value": 2,
       "visible": true,
       "expand": true
