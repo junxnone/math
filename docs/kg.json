@@ -379,6 +379,15 @@
       "childLinks": []
     },
     {
+      "id": "math 微积分 极值与拉格朗日乘数",
+      "group": 2,
+      "title": "极值与拉格朗日乘数",
+      "url": "https://junxnone.github.io/math/#/0058_微积分_极值与拉格朗日乘数",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Matrix 克罗内克积",
       "group": 3,
       "title": "克罗内克积",
@@ -789,6 +798,13 @@
     {
       "source": "math 微积分",
       "target": "math 微积分 常微分方程",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 微积分",
+      "target": "math 微积分 极值与拉格朗日乘数",
       "value": 2,
       "visible": true,
       "expand": true

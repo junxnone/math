@@ -4,6 +4,7 @@
 
 #### **Created**
 
+- 2026-11-24&nbsp;&nbsp; [极值与拉格朗日乘数](/0058_微积分_极值与拉格朗日乘数)&nbsp;&nbsp; :bookmark:微积分 :bookmark:极值与拉格朗日乘数
 - 2026-11-24&nbsp;&nbsp; [常微分方程](/0057_微积分_常微分方程)&nbsp;&nbsp; :bookmark:微积分 :bookmark:常微分方程
 - 2026-11-24&nbsp;&nbsp; [曲线曲面积分与场论](/0056_微积分_曲线曲面积分与场论)&nbsp;&nbsp; :bookmark:微积分 :bookmark:曲线曲面积分与场论
 - 2026-11-24&nbsp;&nbsp; [重积分](/0055_微积分_重积分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:重积分
@@ -62,6 +63,7 @@
 
 #### **Updated**
 
+- 2026-11-24&nbsp;&nbsp; [极值与拉格朗日乘数](/0058_微积分_极值与拉格朗日乘数)&nbsp;&nbsp; :bookmark:微积分 :bookmark:极值与拉格朗日乘数
 - 2026-11-24&nbsp;&nbsp; [常微分方程](/0057_微积分_常微分方程)&nbsp;&nbsp; :bookmark:微积分 :bookmark:常微分方程
 - 2026-11-24&nbsp;&nbsp; [曲线曲面积分与场论](/0056_微积分_曲线曲面积分与场论)&nbsp;&nbsp; :bookmark:微积分 :bookmark:曲线曲面积分与场论
 - 2026-11-24&nbsp;&nbsp; [重积分](/0055_微积分_重积分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:重积分
