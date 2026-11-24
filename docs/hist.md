@@ -4,6 +4,7 @@
 
 #### **Created**
 
+- 2026-11-24&nbsp;&nbsp; [重积分](/0055_微积分_重积分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:重积分
 - 2026-11-24&nbsp;&nbsp; [多元函数微分](/0054_微积分_多元函数微分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:多元函数微分
 - 2026-11-24&nbsp;&nbsp; [级数](/0053_微积分_级数)&nbsp;&nbsp; :bookmark:微积分 :bookmark:级数
 - 2026-11-24&nbsp;&nbsp; [积分](/0052_微积分_积分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:积分
@@ -59,6 +60,7 @@
 
 #### **Updated**
 
+- 2026-11-24&nbsp;&nbsp; [重积分](/0055_微积分_重积分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:重积分
 - 2026-11-24&nbsp;&nbsp; [多元函数微分](/0054_微积分_多元函数微分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:多元函数微分
 - 2026-11-24&nbsp;&nbsp; [级数](/0053_微积分_级数)&nbsp;&nbsp; :bookmark:微积分 :bookmark:级数
 - 2026-11-24&nbsp;&nbsp; [积分](/0052_微积分_积分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:积分
