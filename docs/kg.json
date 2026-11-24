@@ -253,6 +253,42 @@
       "childLinks": []
     },
     {
+      "id": "math 线性代数 线性变换",
+      "group": 2,
+      "title": "线性变换",
+      "url": "https://junxnone.github.io/math/#/0039_线性代数_线性变换",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 线性代数 投影",
+      "group": 2,
+      "title": "投影",
+      "url": "https://junxnone.github.io/math/#/0042_线性代数_投影",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 线性代数 PCA",
+      "group": 2,
+      "title": "PCA",
+      "url": "https://junxnone.github.io/math/#/0046_线性代数_PCA",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 线性代数 张量基础",
+      "group": 2,
+      "title": "张量基础",
+      "url": "https://junxnone.github.io/math/#/0047_线性代数_张量基础",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Matrix 克罗内克积",
       "group": 3,
       "title": "克罗内克积",
@@ -329,6 +365,51 @@
       "group": 3,
       "title": "初等变换",
       "url": "https://junxnone.github.io/math/#/0038_线性代数_Matrix_初等变换",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 线性代数 Matrix 矩阵分解",
+      "group": 3,
+      "title": "矩阵分解",
+      "url": "https://junxnone.github.io/math/#/0040_线性代数_Matrix_矩阵分解",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 线性代数 Matrix 对称正定与二次型",
+      "group": 3,
+      "title": "对称正定与二次型",
+      "url": "https://junxnone.github.io/math/#/0041_线性代数_Matrix_对称正定与二次型",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 线性代数 Matrix 伪逆",
+      "group": 3,
+      "title": "伪逆",
+      "url": "https://junxnone.github.io/math/#/0043_线性代数_Matrix_伪逆",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 线性代数 Matrix 雅可比矩阵",
+      "group": 3,
+      "title": "雅可比矩阵",
+      "url": "https://junxnone.github.io/math/#/0044_线性代数_Matrix_雅可比矩阵",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 线性代数 Matrix 范数与条件数",
+      "group": 3,
+      "title": "范数与条件数",
+      "url": "https://junxnone.github.io/math/#/0045_线性代数_Matrix_范数与条件数",
       "visible": true,
       "expand": true,
       "childLinks": []
@@ -525,6 +606,34 @@
       "expand": true
     },
     {
+      "source": "math 线性代数",
+      "target": "math 线性代数 线性变换",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 线性代数",
+      "target": "math 线性代数 投影",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 线性代数",
+      "target": "math 线性代数 PCA",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 线性代数",
+      "target": "math 线性代数 张量基础",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
       "source": "math 线性代数 Matrix",
       "target": "math 线性代数 Matrix 克罗内克积",
       "value": 3,
@@ -583,6 +692,41 @@
     {
       "source": "math 线性代数 Matrix",
       "target": "math 线性代数 Matrix 初等变换",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 线性代数 Matrix",
+      "target": "math 线性代数 Matrix 矩阵分解",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 线性代数 Matrix",
+      "target": "math 线性代数 Matrix 对称正定与二次型",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 线性代数 Matrix",
+      "target": "math 线性代数 Matrix 伪逆",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 线性代数 Matrix",
+      "target": "math 线性代数 Matrix 雅可比矩阵",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 线性代数 Matrix",
+      "target": "math 线性代数 Matrix 范数与条件数",
       "value": 3,
       "visible": true,
       "expand": true

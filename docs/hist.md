@@ -1,5 +1,18 @@
 # Wiki History
 
+<!-- tabs:start -->
+
+#### **Created**
+
+- 2026-11-24&nbsp;&nbsp; [张量基础](/0047_线性代数_张量基础)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:张量基础
+- 2026-11-24&nbsp;&nbsp; [PCA](/0046_线性代数_PCA)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:PCA
+- 2026-11-24&nbsp;&nbsp; [范数与条件数](/0045_线性代数_Matrix_范数与条件数)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:范数与条件数
+- 2026-11-24&nbsp;&nbsp; [雅可比矩阵](/0044_线性代数_Matrix_雅可比矩阵)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:雅可比矩阵
+- 2026-11-24&nbsp;&nbsp; [伪逆](/0043_线性代数_Matrix_伪逆)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:伪逆
+- 2026-11-24&nbsp;&nbsp; [投影](/0042_线性代数_投影)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:投影
+- 2026-11-24&nbsp;&nbsp; [对称正定与二次型](/0041_线性代数_Matrix_对称正定与二次型)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:对称正定与二次型
+- 2026-11-24&nbsp;&nbsp; [矩阵分解](/0040_线性代数_Matrix_矩阵分解)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:矩阵分解
+- 2026-11-24&nbsp;&nbsp; [线性变换](/0039_线性代数_线性变换)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:线性变换
 - 2026-11-24&nbsp;&nbsp; [初等变换](/0038_线性代数_Matrix_初等变换)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:初等变换
 - 2026-11-24&nbsp;&nbsp; [矩阵的迹](/0037_线性代数_Matrix_迹)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:迹
 - 2026-11-24&nbsp;&nbsp; [特征值与特征向量](/0036_线性代数_特征值与特征向量)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:特征值与特征向量
@@ -36,3 +49,53 @@
 - 2020-07-14&nbsp;&nbsp; [贝叶斯定理](/0008_Math_BT)&nbsp;&nbsp; :bookmark:Math :bookmark:BT
 - 2019-08-05&nbsp;&nbsp; [norm 范数](/0011_线性代数_norm)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:norm
 - 2018-09-03&nbsp;&nbsp; [SVD](/0012_线性代数_SVD)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:SVD
+
+#### **Updated**
+
+- 2026-11-24&nbsp;&nbsp; [张量基础](/0047_线性代数_张量基础)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:张量基础
+- 2026-11-24&nbsp;&nbsp; [PCA](/0046_线性代数_PCA)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:PCA
+- 2026-11-24&nbsp;&nbsp; [范数与条件数](/0045_线性代数_Matrix_范数与条件数)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:范数与条件数
+- 2026-11-24&nbsp;&nbsp; [雅可比矩阵](/0044_线性代数_Matrix_雅可比矩阵)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:雅可比矩阵
+- 2026-11-24&nbsp;&nbsp; [伪逆](/0043_线性代数_Matrix_伪逆)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:伪逆
+- 2026-11-24&nbsp;&nbsp; [投影](/0042_线性代数_投影)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:投影
+- 2026-11-24&nbsp;&nbsp; [对称正定与二次型](/0041_线性代数_Matrix_对称正定与二次型)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:对称正定与二次型
+- 2026-11-24&nbsp;&nbsp; [矩阵分解](/0040_线性代数_Matrix_矩阵分解)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:矩阵分解
+- 2026-11-24&nbsp;&nbsp; [线性变换](/0039_线性代数_线性变换)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:线性变换
+- 2026-11-24&nbsp;&nbsp; [初等变换](/0038_线性代数_Matrix_初等变换)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:初等变换
+- 2026-11-24&nbsp;&nbsp; [矩阵的迹](/0037_线性代数_Matrix_迹)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:迹
+- 2026-11-24&nbsp;&nbsp; [特征值与特征向量](/0036_线性代数_特征值与特征向量)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:特征值与特征向量
+- 2026-11-24&nbsp;&nbsp; [线性方程组](/0035_线性代数_线性方程组)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:线性方程组
+- 2026-11-24&nbsp;&nbsp; [向量空间](/0034_线性代数_向量空间)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:向量空间
+- 2026-11-24&nbsp;&nbsp; [线性代数](/0025_线性代数)&nbsp;&nbsp; :bookmark:线性代数
+- 2025-01-14&nbsp;&nbsp; [正交矩阵](/0032_线性代数_Matrix_正交矩阵)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:正交矩阵
+- 2025-01-14&nbsp;&nbsp; [矩阵的逆](/0031_线性代数_Matrix_逆)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:逆
+- 2025-01-14&nbsp;&nbsp; [矩阵转置](/0030_线性代数_Matrix_转置)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:转置
+- 2025-01-14&nbsp;&nbsp; [矩阵的秩](/0029_线性代数_Matrix_秩)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:秩
+- 2025-01-14&nbsp;&nbsp; [哈达玛乘积](/0028_线性代数_Matrix_哈达玛乘积)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:哈达玛乘积
+- 2025-01-14&nbsp;&nbsp; [矩阵乘积](/0027_线性代数_Matrix_矩阵乘积)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:矩阵乘积
+- 2025-01-14&nbsp;&nbsp; [克罗内克积](/0026_线性代数_Matrix_克罗内克积)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:克罗内克积
+- 2025-01-14&nbsp;&nbsp; [矩阵](/0004_线性代数_Matrix)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix
+- 2025-01-14&nbsp;&nbsp; [Determinant  行列式](/0003_线性代数_Determinant)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Determinant
+- 2025-01-02&nbsp;&nbsp; [SVD](/0012_线性代数_SVD)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:SVD
+- 2025-01-02&nbsp;&nbsp; [norm 范数](/0011_线性代数_norm)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:norm
+- 2025-01-02&nbsp;&nbsp; [向量](/0002_线性代数_Vector)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Vector
+- 2024-12-30&nbsp;&nbsp; [线性相关和线性无关](/0024_线性代数_线性相关无关)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:线性相关无关
+- 2024-10-15&nbsp;&nbsp; [二分图(Bipartite Graph)](/0023_图论_二分图)&nbsp;&nbsp; :bookmark:图论 :bookmark:二分图
+- 2024-10-15&nbsp;&nbsp; [图论 (Graph theory)](/0022_图论)&nbsp;&nbsp; :bookmark:图论
+- 2024-10-15&nbsp;&nbsp; [数学基础](/0001_Math)&nbsp;&nbsp; :bookmark:Math
+- 2024-09-16&nbsp;&nbsp; [Gaussian Filter 高斯滤波器](/0021_Math_GaussianFilter)&nbsp;&nbsp; :bookmark:Math :bookmark:GaussianFilter
+- 2024-09-16&nbsp;&nbsp; [Gaussian Process 高斯过程](/0020_Math_GaussianProcess)&nbsp;&nbsp; :bookmark:Math :bookmark:GaussianProcess
+- 2024-09-16&nbsp;&nbsp; [Lagrange Multiplier Method 拉格朗日乘数法](/0019_Math_LMM)&nbsp;&nbsp; :bookmark:Math :bookmark:LMM
+- 2024-09-16&nbsp;&nbsp; [马尔可夫过程](/0018_Math_MarkovProcess)&nbsp;&nbsp; :bookmark:Math :bookmark:MarkovProcess
+- 2024-09-16&nbsp;&nbsp; [QuadTree/OCTree - 四叉树/八叉树](/0017_Math_QuadTree)&nbsp;&nbsp; :bookmark:Math :bookmark:QuadTree
+- 2024-09-16&nbsp;&nbsp; [Quaternion 四元数](/0016_Math_Quaternion)&nbsp;&nbsp; :bookmark:Math :bookmark:Quaternion
+- 2024-09-16&nbsp;&nbsp; [RANSAC 随机抽样一致性](/0015_Math_RANSAC)&nbsp;&nbsp; :bookmark:Math :bookmark:RANSAC
+- 2024-09-16&nbsp;&nbsp; [Simulated annealing 模拟退火](/0014_Math_SA)&nbsp;&nbsp; :bookmark:Math :bookmark:SA
+- 2024-09-16&nbsp;&nbsp; [Stochastic process 随机过程](/0013_Math_SC)&nbsp;&nbsp; :bookmark:Math :bookmark:SC
+- 2024-09-16&nbsp;&nbsp; [Dynamic Programming 动态规划](/0010_Math_DynamicProgramming)&nbsp;&nbsp; :bookmark:Math :bookmark:DynamicProgramming
+- 2024-09-16&nbsp;&nbsp; [Derivative 导数](/0009_Math_Derivative)&nbsp;&nbsp; :bookmark:Math :bookmark:Derivative
+- 2024-09-16&nbsp;&nbsp; [贝叶斯定理](/0008_Math_BT)&nbsp;&nbsp; :bookmark:Math :bookmark:BT
+- 2024-09-16&nbsp;&nbsp; [Least Squares 最小二乘法](/0006_Math_LeastSquares)&nbsp;&nbsp; :bookmark:Math :bookmark:LeastSquares
+- 2024-09-16&nbsp;&nbsp; [Gaussian Distribution 高斯分布](/0005_Math_GaussianDistribution)&nbsp;&nbsp; :bookmark:Math :bookmark:GaussianDistribution
+
+<!-- tabs:end -->
