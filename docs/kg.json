@@ -37,6 +37,15 @@
       "childLinks": []
     },
     {
+      "id": "math 微积分",
+      "group": 1,
+      "title": "微积分",
+      "url": "https://junxnone.github.io/math/#/0048_微积分",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Vector",
       "group": 2,
       "title": "向量",
@@ -433,6 +442,13 @@
     {
       "source": "math",
       "target": "math 线性代数",
+      "value": 1,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math",
+      "target": "math 微积分",
       "value": 1,
       "visible": true,
       "expand": true

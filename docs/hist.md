@@ -4,6 +4,7 @@
 
 #### **Created**
 
+- 2026-11-24&nbsp;&nbsp; [微积分](/0048_微积分)&nbsp;&nbsp; :bookmark:微积分
 - 2026-11-24&nbsp;&nbsp; [张量基础](/0047_线性代数_张量基础)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:张量基础
 - 2026-11-24&nbsp;&nbsp; [PCA](/0046_线性代数_PCA)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:PCA
 - 2026-11-24&nbsp;&nbsp; [范数与条件数](/0045_线性代数_Matrix_范数与条件数)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:范数与条件数
@@ -52,6 +53,7 @@
 
 #### **Updated**
 
+- 2026-11-24&nbsp;&nbsp; [微积分](/0048_微积分)&nbsp;&nbsp; :bookmark:微积分
 - 2026-11-24&nbsp;&nbsp; [张量基础](/0047_线性代数_张量基础)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:张量基础
 - 2026-11-24&nbsp;&nbsp; [PCA](/0046_线性代数_PCA)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:PCA
 - 2026-11-24&nbsp;&nbsp; [范数与条件数](/0045_线性代数_Matrix_范数与条件数)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:范数与条件数
