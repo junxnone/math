@@ -694,6 +694,15 @@
       "childLinks": []
     },
     {
+      "id": "math 离散数学 命题逻辑",
+      "group": 2,
+      "title": "命题逻辑",
+      "url": "https://junxnone.github.io/math/#/0093_离散数学_命题逻辑",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Matrix 克罗内克积",
       "group": 3,
       "title": "克罗内克积",
@@ -1349,6 +1358,13 @@
     {
       "source": "math 离散数学",
       "target": "math 离散数学 集合与关系",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 离散数学",
+      "target": "math 离散数学 命题逻辑",
       "value": 2,
       "visible": true,
       "expand": true
