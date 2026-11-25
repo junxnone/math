@@ -4,6 +4,7 @@
 
 #### **Created**
 
+- 2026-11-25&nbsp;&nbsp; [图的表示与遍历](/0114_图论_图的表示与遍历)&nbsp;&nbsp; :bookmark:图论 :bookmark:图的表示与遍历
 - 2026-11-24&nbsp;&nbsp; [特征值数值算法](/0113_数值计算_特征值数值算法)&nbsp;&nbsp; :bookmark:数值计算 :bookmark:特征值数值算法
 - 2026-11-24&nbsp;&nbsp; [常微分方程数值解](/0112_数值计算_常微分方程数值解)&nbsp;&nbsp; :bookmark:数值计算 :bookmark:常微分方程数值解
 - 2026-11-24&nbsp;&nbsp; [数值微分与积分](/0111_数值计算_数值微分与积分)&nbsp;&nbsp; :bookmark:数值计算 :bookmark:数值微分与积分
@@ -118,6 +119,7 @@
 
 #### **Updated**
 
+- 2026-11-25&nbsp;&nbsp; [图的表示与遍历](/0114_图论_图的表示与遍历)&nbsp;&nbsp; :bookmark:图论 :bookmark:图的表示与遍历
 - 2026-11-25&nbsp;&nbsp; [二分图(Bipartite Graph)](/0023_图论_二分图)&nbsp;&nbsp; :bookmark:图论 :bookmark:二分图
 - 2026-11-25&nbsp;&nbsp; [图论 (Graph theory)](/0022_图论)&nbsp;&nbsp; :bookmark:图论
 - 2026-11-24&nbsp;&nbsp; [特征值数值算法](/0113_数值计算_特征值数值算法)&nbsp;&nbsp; :bookmark:数值计算 :bookmark:特征值数值算法

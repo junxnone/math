@@ -883,6 +883,15 @@
       "childLinks": []
     },
     {
+      "id": "math 图论 图的表示与遍历",
+      "group": 2,
+      "title": "图的表示与遍历",
+      "url": "https://junxnone.github.io/math/#/0114_图论_图的表示与遍历",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Matrix 克罗内克积",
       "group": 3,
       "title": "克罗内克积",
@@ -1188,6 +1197,13 @@
     {
       "source": "math 图论",
       "target": "math 图论 二分图",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 图论",
+      "target": "math 图论 图的表示与遍历",
       "value": 2,
       "visible": true,
       "expand": true
