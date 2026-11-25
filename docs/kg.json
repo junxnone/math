@@ -532,6 +532,15 @@
       "childLinks": []
     },
     {
+      "id": "math 数理统计 重采样与非参数方法",
+      "group": 2,
+      "title": "重采样与非参数方法",
+      "url": "https://junxnone.github.io/math/#/0075_数理统计_重采样与非参数方法",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 优化理论 一阶方法与随机梯度",
       "group": 2,
       "title": "一阶方法与随机梯度",
@@ -1079,6 +1088,13 @@
     {
       "source": "math 数理统计",
       "target": "math 数理统计 贝叶斯统计",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 数理统计",
+      "target": "math 数理统计 重采样与非参数方法",
       "value": 2,
       "visible": true,
       "expand": true
