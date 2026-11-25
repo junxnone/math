@@ -766,6 +766,15 @@
       "childLinks": []
     },
     {
+      "id": "math 信号与傅里叶变换 连续傅里叶变换",
+      "group": 2,
+      "title": "连续傅里叶变换",
+      "url": "https://junxnone.github.io/math/#/0101_信号与傅里叶变换_连续傅里叶变换",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Matrix 克罗内克积",
       "group": 3,
       "title": "克罗内克积",
@@ -1477,6 +1486,13 @@
     {
       "source": "math 信号与傅里叶变换",
       "target": "math 信号与傅里叶变换 卷积",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 信号与傅里叶变换",
+      "target": "math 信号与傅里叶变换 连续傅里叶变换",
       "value": 2,
       "visible": true,
       "expand": true
