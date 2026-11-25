@@ -892,6 +892,15 @@
       "childLinks": []
     },
     {
+      "id": "math 图论 最短路径",
+      "group": 2,
+      "title": "最短路径",
+      "url": "https://junxnone.github.io/math/#/0115_图论_最短路径",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Matrix 克罗内克积",
       "group": 3,
       "title": "克罗内克积",
@@ -1204,6 +1213,13 @@
     {
       "source": "math 图论",
       "target": "math 图论 图的表示与遍历",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 图论",
+      "target": "math 图论 最短路径",
       "value": 2,
       "visible": true,
       "expand": true
