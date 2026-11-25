@@ -146,6 +146,7 @@
 - 2026-11-25&nbsp;&nbsp; [最小生成树](/0116_图论_最小生成树)&nbsp;&nbsp; :bookmark:图论 :bookmark:最小生成树
 - 2026-11-25&nbsp;&nbsp; [最短路径](/0115_图论_最短路径)&nbsp;&nbsp; :bookmark:图论 :bookmark:最短路径
 - 2026-11-25&nbsp;&nbsp; [图的表示与遍历](/0114_图论_图的表示与遍历)&nbsp;&nbsp; :bookmark:图论 :bookmark:图的表示与遍历
+- 2026-11-25&nbsp;&nbsp; [矩阵的迹](/0037_线性代数_Matrix_迹)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:迹
 - 2026-11-25&nbsp;&nbsp; [特征值与特征向量](/0036_线性代数_特征值与特征向量)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:特征值与特征向量
 - 2026-11-25&nbsp;&nbsp; [线性方程组](/0035_线性代数_线性方程组)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:线性方程组
 - 2026-11-25&nbsp;&nbsp; [向量空间](/0034_线性代数_向量空间)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:向量空间
@@ -233,7 +234,6 @@
 - 2026-11-24&nbsp;&nbsp; [矩阵分解](/0040_线性代数_Matrix_矩阵分解)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:矩阵分解
 - 2026-11-24&nbsp;&nbsp; [线性变换](/0039_线性代数_线性变换)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:线性变换
 - 2026-11-24&nbsp;&nbsp; [初等变换](/0038_线性代数_Matrix_初等变换)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:初等变换
-- 2026-11-24&nbsp;&nbsp; [矩阵的迹](/0037_线性代数_Matrix_迹)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:迹
 - 2025-01-14&nbsp;&nbsp; [正交矩阵](/0032_线性代数_Matrix_正交矩阵)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:正交矩阵
 - 2025-01-14&nbsp;&nbsp; [矩阵转置](/0030_线性代数_Matrix_转置)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:转置
 - 2025-01-14&nbsp;&nbsp; [哈达玛乘积](/0028_线性代数_Matrix_哈达玛乘积)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:哈达玛乘积
