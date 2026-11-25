@@ -4,6 +4,7 @@
 
 #### **Created**
 
+- 2026-11-24&nbsp;&nbsp; [非线性方程求根](/0108_数值计算_非线性方程求根)&nbsp;&nbsp; :bookmark:数值计算 :bookmark:非线性方程求根
 - 2026-11-24&nbsp;&nbsp; [误差与浮点数](/0107_数值计算_误差与浮点数)&nbsp;&nbsp; :bookmark:数值计算 :bookmark:误差与浮点数
 - 2026-11-24&nbsp;&nbsp; [数值计算](/0106_数值计算)&nbsp;&nbsp; :bookmark:数值计算
 - 2026-11-24&nbsp;&nbsp; [短时傅里叶与小波](/0105_信号与傅里叶变换_短时傅里叶与小波)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:短时傅里叶与小波
@@ -112,6 +113,7 @@
 
 #### **Updated**
 
+- 2026-11-24&nbsp;&nbsp; [非线性方程求根](/0108_数值计算_非线性方程求根)&nbsp;&nbsp; :bookmark:数值计算 :bookmark:非线性方程求根
 - 2026-11-24&nbsp;&nbsp; [误差与浮点数](/0107_数值计算_误差与浮点数)&nbsp;&nbsp; :bookmark:数值计算 :bookmark:误差与浮点数
 - 2026-11-24&nbsp;&nbsp; [数值计算](/0106_数值计算)&nbsp;&nbsp; :bookmark:数值计算
 - 2026-11-24&nbsp;&nbsp; [短时傅里叶与小波](/0105_信号与傅里叶变换_短时傅里叶与小波)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:短时傅里叶与小波

@@ -829,6 +829,15 @@
       "childLinks": []
     },
     {
+      "id": "math 数值计算 非线性方程求根",
+      "group": 2,
+      "title": "非线性方程求根",
+      "url": "https://junxnone.github.io/math/#/0108_数值计算_非线性方程求根",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Matrix 克罗内克积",
       "group": 3,
       "title": "克罗内克积",
@@ -1589,6 +1598,13 @@
     {
       "source": "math 数值计算",
       "target": "math 数值计算 误差与浮点数",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 数值计算",
+      "target": "math 数值计算 非线性方程求根",
       "value": 2,
       "visible": true,
       "expand": true
