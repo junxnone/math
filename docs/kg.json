@@ -91,6 +91,15 @@
       "childLinks": []
     },
     {
+      "id": "math 信号与傅里叶变换",
+      "group": 1,
+      "title": "信号与傅里叶变换",
+      "url": "https://junxnone.github.io/math/#/0098_信号与傅里叶变换",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Vector",
       "group": 2,
       "title": "向量",
@@ -925,6 +934,13 @@
     {
       "source": "math",
       "target": "math 离散数学",
+      "value": 1,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math",
+      "target": "math 信号与傅里叶变换",
       "value": 1,
       "visible": true,
       "expand": true
