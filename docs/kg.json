@@ -937,6 +937,15 @@
       "childLinks": []
     },
     {
+      "id": "math 图论 匹配",
+      "group": 2,
+      "title": "匹配",
+      "url": "https://junxnone.github.io/math/#/0120_图论_匹配",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Matrix 克罗内克积",
       "group": 3,
       "title": "克罗内克积",
@@ -1284,6 +1293,13 @@
     {
       "source": "math 图论",
       "target": "math 图论 网络流",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 图论",
+      "target": "math 图论 匹配",
       "value": 2,
       "visible": true,
       "expand": true
