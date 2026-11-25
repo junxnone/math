@@ -919,6 +919,15 @@
       "childLinks": []
     },
     {
+      "id": "math 图论 连通性",
+      "group": 2,
+      "title": "连通性",
+      "url": "https://junxnone.github.io/math/#/0118_图论_连通性",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Matrix 克罗内克积",
       "group": 3,
       "title": "克罗内克积",
@@ -1252,6 +1261,13 @@
     {
       "source": "math 图论",
       "target": "math 图论 树",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 图论",
+      "target": "math 图论 连通性",
       "value": 2,
       "visible": true,
       "expand": true
