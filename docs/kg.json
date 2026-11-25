@@ -487,6 +487,15 @@
       "childLinks": []
     },
     {
+      "id": "math 数理统计 点估计",
+      "group": 2,
+      "title": "点估计",
+      "url": "https://junxnone.github.io/math/#/0070_数理统计_点估计",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 优化理论 一阶方法与随机梯度",
       "group": 2,
       "title": "一阶方法与随机梯度",
@@ -999,6 +1008,13 @@
     {
       "source": "math 数理统计",
       "target": "math 数理统计 抽样与统计量",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 数理统计",
+      "target": "math 数理统计 点估计",
       "value": 2,
       "visible": true,
       "expand": true
