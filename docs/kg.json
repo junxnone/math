@@ -550,6 +550,15 @@
       "childLinks": []
     },
     {
+      "id": "math 优化理论 凸集与凸函数",
+      "group": 2,
+      "title": "凸集与凸函数",
+      "url": "https://junxnone.github.io/math/#/0077_优化理论_凸集与凸函数",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 优化理论 一阶方法与随机梯度",
       "group": 2,
       "title": "一阶方法与随机梯度",
@@ -1111,6 +1120,13 @@
     {
       "source": "math 数理统计",
       "target": "math 数理统计 重采样与非参数方法",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 优化理论",
+      "target": "math 优化理论 凸集与凸函数",
       "value": 2,
       "visible": true,
       "expand": true
