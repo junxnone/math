@@ -9,10 +9,6 @@ jobs:
     outputs:
       commit_hash: ${{ steps.backup-last-commit.outputs.commit_hash }}
     steps:
-      - name: wait for predecessor runs to finish
-        uses: softprops/turnstyle@v3
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: actions/checkout@v4
       - name: print github event action
         run: |
@@ -37,11 +33,6 @@ jobs:
   update_sidebar:
     needs: issue2md
     runs-on: ubuntu-latest
-    concurrency:
-      # never interrupt a sidebar push; extra triggers collapse into the single
-      # pending slot, so only the newest one runs after the current finishes
-      group: sync-issues-update-sidebar-${{ github.repository }}
-      cancel-in-progress: false
     steps:
       - uses: junxnone/autosidebar@main
         with:
