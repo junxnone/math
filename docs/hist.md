@@ -6,6 +6,7 @@
 
 - 2026-11-24&nbsp;&nbsp; [非凸优化](/0083_优化理论_非凸优化)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:非凸优化
 - 2026-11-24&nbsp;&nbsp; [一阶方法与随机梯度](/0081_优化理论_一阶方法与随机梯度)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:一阶方法与随机梯度
+- 2026-11-24&nbsp;&nbsp; [约束优化与对偶](/0079_优化理论_约束优化与对偶)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:约束优化与对偶
 - 2026-11-24&nbsp;&nbsp; [无约束优化](/0078_优化理论_无约束优化)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:无约束优化
 - 2026-11-24&nbsp;&nbsp; [凸集与凸函数](/0077_优化理论_凸集与凸函数)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:凸集与凸函数
 - 2026-11-24&nbsp;&nbsp; [优化理论](/0076_优化理论)&nbsp;&nbsp; :bookmark:优化理论
@@ -87,6 +88,7 @@
 
 - 2026-11-24&nbsp;&nbsp; [非凸优化](/0083_优化理论_非凸优化)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:非凸优化
 - 2026-11-24&nbsp;&nbsp; [一阶方法与随机梯度](/0081_优化理论_一阶方法与随机梯度)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:一阶方法与随机梯度
+- 2026-11-24&nbsp;&nbsp; [约束优化与对偶](/0079_优化理论_约束优化与对偶)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:约束优化与对偶
 - 2026-11-24&nbsp;&nbsp; [无约束优化](/0078_优化理论_无约束优化)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:无约束优化
 - 2026-11-24&nbsp;&nbsp; [凸集与凸函数](/0077_优化理论_凸集与凸函数)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:凸集与凸函数
 - 2026-11-24&nbsp;&nbsp; [优化理论](/0076_优化理论)&nbsp;&nbsp; :bookmark:优化理论
