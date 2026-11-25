@@ -4,6 +4,7 @@
 
 #### **Created**
 
+- 2026-11-24&nbsp;&nbsp; [递推与生成函数](/0097_离散数学_递推与生成函数)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:递推与生成函数
 - 2026-11-24&nbsp;&nbsp; [数论基础](/0096_离散数学_数论基础)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:数论基础
 - 2026-11-24&nbsp;&nbsp; [代数结构](/0095_离散数学_代数结构)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:代数结构
 - 2026-11-24&nbsp;&nbsp; [组合计数](/0094_离散数学_组合计数)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:组合计数
@@ -101,6 +102,7 @@
 
 #### **Updated**
 
+- 2026-11-24&nbsp;&nbsp; [递推与生成函数](/0097_离散数学_递推与生成函数)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:递推与生成函数
 - 2026-11-24&nbsp;&nbsp; [数论基础](/0096_离散数学_数论基础)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:数论基础
 - 2026-11-24&nbsp;&nbsp; [代数结构](/0095_离散数学_代数结构)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:代数结构
 - 2026-11-24&nbsp;&nbsp; [组合计数](/0094_离散数学_组合计数)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:组合计数
