@@ -73,6 +73,15 @@
       "childLinks": []
     },
     {
+      "id": "math 信息论",
+      "group": 1,
+      "title": "信息论",
+      "url": "https://junxnone.github.io/math/#/0084_信息论",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Vector",
       "group": 2,
       "title": "向量",
@@ -785,6 +794,13 @@
     {
       "source": "math",
       "target": "math 优化理论",
+      "value": 1,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math",
+      "target": "math 信息论",
       "value": 1,
       "visible": true,
       "expand": true
