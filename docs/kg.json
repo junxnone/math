@@ -982,6 +982,15 @@
       "childLinks": []
     },
     {
+      "id": "math 图论 NP难问题",
+      "group": 2,
+      "title": "NP难问题",
+      "url": "https://junxnone.github.io/math/#/0125_图论_NP难问题",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Matrix 克罗内克积",
       "group": 3,
       "title": "克罗内克积",
@@ -1364,6 +1373,13 @@
     {
       "source": "math 图论",
       "target": "math 图论 谱图论",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 图论",
+      "target": "math 图论 NP难问题",
       "value": 2,
       "visible": true,
       "expand": true
