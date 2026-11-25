@@ -146,6 +146,7 @@
 - 2026-11-25&nbsp;&nbsp; [最小生成树](/0116_图论_最小生成树)&nbsp;&nbsp; :bookmark:图论 :bookmark:最小生成树
 - 2026-11-25&nbsp;&nbsp; [最短路径](/0115_图论_最短路径)&nbsp;&nbsp; :bookmark:图论 :bookmark:最短路径
 - 2026-11-25&nbsp;&nbsp; [图的表示与遍历](/0114_图论_图的表示与遍历)&nbsp;&nbsp; :bookmark:图论 :bookmark:图的表示与遍历
+- 2026-11-25&nbsp;&nbsp; [线性代数](/0025_线性代数)&nbsp;&nbsp; :bookmark:线性代数
 - 2026-11-25&nbsp;&nbsp; [二分图(Bipartite Graph)](/0023_图论_二分图)&nbsp;&nbsp; :bookmark:图论 :bookmark:二分图
 - 2026-11-25&nbsp;&nbsp; [图论 (Graph theory)](/0022_图论)&nbsp;&nbsp; :bookmark:图论
 - 2026-11-25&nbsp;&nbsp; [SVD](/0012_线性代数_SVD)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:SVD
@@ -233,7 +234,6 @@
 - 2026-11-24&nbsp;&nbsp; [向量空间](/0034_线性代数_向量空间)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:向量空间
 - 2026-11-24&nbsp;&nbsp; [矩阵的逆](/0031_线性代数_Matrix_逆)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:逆
 - 2026-11-24&nbsp;&nbsp; [矩阵的秩](/0029_线性代数_Matrix_秩)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:秩
-- 2026-11-24&nbsp;&nbsp; [线性代数](/0025_线性代数)&nbsp;&nbsp; :bookmark:线性代数
 - 2025-01-14&nbsp;&nbsp; [正交矩阵](/0032_线性代数_Matrix_正交矩阵)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:正交矩阵
 - 2025-01-14&nbsp;&nbsp; [矩阵转置](/0030_线性代数_Matrix_转置)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:转置
 - 2025-01-14&nbsp;&nbsp; [哈达玛乘积](/0028_线性代数_Matrix_哈达玛乘积)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:哈达玛乘积
