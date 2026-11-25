@@ -2,7 +2,7 @@
 Title | 线性代数 Matrix 伪逆
 -- | --
 Created @ | `2026-11-24T14:42:23Z`
-Updated @| `2026-11-24T14:42:23Z`
+Updated @| `2026-11-25T09:33:36Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/math/issues/43)
 
@@ -22,12 +22,12 @@ $$
 其中：
 
 - 前两条说明 $A^+$ 在 $A$ 的“有效部分”上起逆的作用
-- 后两条说明 $AA^+$ 与 $A^+A$ 是对称矩阵，即正交投影矩阵（见 [投影](https://github.com/junxnone/math/issues/42)）：$AA^+$ 投影到 $\operatorname{Col}(A)$，$A^+A$ 投影到 $\operatorname{Row}(A)$
+- 后两条说明 $AA^+$ 与 $A^+A$ 是对称矩阵，即正交投影矩阵（见 [投影](/0042_线性代数_投影)）：$AA^+$ 投影到 $\operatorname{Col}(A)$，$A^+A$ 投影到 $\operatorname{Row}(A)$
 - $A$ 可逆时 $A^+=A^{-1}$
 
 ## 由 SVD 计算
 
-设 $A=U\Sigma V^\top$（见 [SVD](https://github.com/junxnone/math/issues/12)），则：
+设 $A=U\Sigma V^\top$（见 [SVD](/0012_线性代数_SVD)），则：
 
 $$
 A^+=V\Sigma^+U^\top,\qquad \Sigma^+_{ii}=\begin{cases}1/\sigma_i&\sigma_i>0\\0&\sigma_i=0\end{cases}
@@ -49,7 +49,7 @@ $$
 | 列满秩（高瘦） | $\operatorname{rank}(A)=n<m$ | $(A^\top A)^{-1}A^\top$ |
 | 行满秩（矮胖） | $\operatorname{rank}(A)=m<n$ | $A^\top(AA^\top)^{-1}$ |
 
-表中列依次为情形、秩条件和伪逆公式。例：$A=\begin{bmatrix}1\\1\end{bmatrix}$ 列满秩，$A^+=\tfrac12\begin{bmatrix}1&1\end{bmatrix}$，$A^+A=1$。列满秩的公式即最小二乘的正规方程解（见 [线性方程组](https://github.com/junxnone/math/issues/35)）。
+表中列依次为情形、秩条件和伪逆公式。例：$A=\begin{bmatrix}1\\1\end{bmatrix}$ 列满秩，$A^+=\tfrac12\begin{bmatrix}1&1\end{bmatrix}$，$A^+A=1$。列满秩的公式即最小二乘的正规方程解（见 [线性方程组](/0035_线性代数_线性方程组)）。
 
 ## 解的意义
 
@@ -66,11 +66,12 @@ $$
 
 ## 应用
 
-- 欠定/病态方程组的稳健求解；机器人逆运动学中用雅可比伪逆求关节速度（见 [雅可比矩阵](https://github.com/junxnone/math/issues/44)）
+- 欠定/病态方程组的稳健求解；机器人逆运动学中用雅可比伪逆求关节速度（见 [雅可比矩阵](/0044_线性代数_Matrix_雅可比矩阵)）
 - 线性回归的闭式解；带正则化的岭回归可看作对小奇异值做平滑：$\sigma_i/(\sigma_i^2+\lambda)$ 替代 $1/\sigma_i$
 - 低秩近似：保留 $k$ 个最大奇异值得到最佳秩 $k$ 逼近
 
 ## Reference
 
 - [Moore-Penrose inverse - Wikipedia](https://en.wikipedia.org/wiki/Moore%E2%80%93Penrose_inverse)
+
 
