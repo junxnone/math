@@ -4,6 +4,7 @@
 
 #### **Created**
 
+- 2026-11-24&nbsp;&nbsp; [插值与拟合](/0110_数值计算_插值与拟合)&nbsp;&nbsp; :bookmark:数值计算 :bookmark:插值与拟合
 - 2026-11-24&nbsp;&nbsp; [非线性方程求根](/0108_数值计算_非线性方程求根)&nbsp;&nbsp; :bookmark:数值计算 :bookmark:非线性方程求根
 - 2026-11-24&nbsp;&nbsp; [误差与浮点数](/0107_数值计算_误差与浮点数)&nbsp;&nbsp; :bookmark:数值计算 :bookmark:误差与浮点数
 - 2026-11-24&nbsp;&nbsp; [数值计算](/0106_数值计算)&nbsp;&nbsp; :bookmark:数值计算
@@ -113,6 +114,7 @@
 
 #### **Updated**
 
+- 2026-11-24&nbsp;&nbsp; [插值与拟合](/0110_数值计算_插值与拟合)&nbsp;&nbsp; :bookmark:数值计算 :bookmark:插值与拟合
 - 2026-11-24&nbsp;&nbsp; [非线性方程求根](/0108_数值计算_非线性方程求根)&nbsp;&nbsp; :bookmark:数值计算 :bookmark:非线性方程求根
 - 2026-11-24&nbsp;&nbsp; [误差与浮点数](/0107_数值计算_误差与浮点数)&nbsp;&nbsp; :bookmark:数值计算 :bookmark:误差与浮点数
 - 2026-11-24&nbsp;&nbsp; [数值计算](/0106_数值计算)&nbsp;&nbsp; :bookmark:数值计算
