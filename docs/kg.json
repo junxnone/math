@@ -496,6 +496,15 @@
       "childLinks": []
     },
     {
+      "id": "math 数理统计 区间估计",
+      "group": 2,
+      "title": "区间估计",
+      "url": "https://junxnone.github.io/math/#/0071_数理统计_区间估计",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 优化理论 一阶方法与随机梯度",
       "group": 2,
       "title": "一阶方法与随机梯度",
@@ -1015,6 +1024,13 @@
     {
       "source": "math 数理统计",
       "target": "math 数理统计 点估计",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 数理统计",
+      "target": "math 数理统计 区间估计",
       "value": 2,
       "visible": true,
       "expand": true

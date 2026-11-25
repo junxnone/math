@@ -6,6 +6,7 @@
 
 - 2026-11-24&nbsp;&nbsp; [非凸优化](/0083_优化理论_非凸优化)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:非凸优化
 - 2026-11-24&nbsp;&nbsp; [一阶方法与随机梯度](/0081_优化理论_一阶方法与随机梯度)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:一阶方法与随机梯度
+- 2026-11-24&nbsp;&nbsp; [区间估计](/0071_数理统计_区间估计)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:区间估计
 - 2026-11-24&nbsp;&nbsp; [点估计](/0070_数理统计_点估计)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:点估计
 - 2026-11-24&nbsp;&nbsp; [抽样与统计量](/0069_数理统计_抽样与统计量)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:抽样与统计量
 - 2026-11-24&nbsp;&nbsp; [数理统计](/0068_数理统计)&nbsp;&nbsp; :bookmark:数理统计
@@ -79,6 +80,7 @@
 
 - 2026-11-24&nbsp;&nbsp; [非凸优化](/0083_优化理论_非凸优化)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:非凸优化
 - 2026-11-24&nbsp;&nbsp; [一阶方法与随机梯度](/0081_优化理论_一阶方法与随机梯度)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:一阶方法与随机梯度
+- 2026-11-24&nbsp;&nbsp; [区间估计](/0071_数理统计_区间估计)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:区间估计
 - 2026-11-24&nbsp;&nbsp; [点估计](/0070_数理统计_点估计)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:点估计
 - 2026-11-24&nbsp;&nbsp; [抽样与统计量](/0069_数理统计_抽样与统计量)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:抽样与统计量
 - 2026-11-24&nbsp;&nbsp; [数理统计](/0068_数理统计)&nbsp;&nbsp; :bookmark:数理统计
