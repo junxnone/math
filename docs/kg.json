@@ -874,6 +874,15 @@
       "childLinks": []
     },
     {
+      "id": "math 数值计算 特征值数值算法",
+      "group": 2,
+      "title": "特征值数值算法",
+      "url": "https://junxnone.github.io/math/#/0113_数值计算_特征值数值算法",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Matrix 克罗内克积",
       "group": 3,
       "title": "克罗内克积",
@@ -1669,6 +1678,13 @@
     {
       "source": "math 数值计算",
       "target": "math 数值计算 常微分方程数值解",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 数值计算",
+      "target": "math 数值计算 特征值数值算法",
       "value": 2,
       "visible": true,
       "expand": true

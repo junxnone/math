@@ -4,6 +4,7 @@
 
 #### **Created**
 
+- 2026-11-24&nbsp;&nbsp; [特征值数值算法](/0113_数值计算_特征值数值算法)&nbsp;&nbsp; :bookmark:数值计算 :bookmark:特征值数值算法
 - 2026-11-24&nbsp;&nbsp; [常微分方程数值解](/0112_数值计算_常微分方程数值解)&nbsp;&nbsp; :bookmark:数值计算 :bookmark:常微分方程数值解
 - 2026-11-24&nbsp;&nbsp; [数值微分与积分](/0111_数值计算_数值微分与积分)&nbsp;&nbsp; :bookmark:数值计算 :bookmark:数值微分与积分
 - 2026-11-24&nbsp;&nbsp; [插值与拟合](/0110_数值计算_插值与拟合)&nbsp;&nbsp; :bookmark:数值计算 :bookmark:插值与拟合
@@ -117,6 +118,7 @@
 
 #### **Updated**
 
+- 2026-11-24&nbsp;&nbsp; [特征值数值算法](/0113_数值计算_特征值数值算法)&nbsp;&nbsp; :bookmark:数值计算 :bookmark:特征值数值算法
 - 2026-11-24&nbsp;&nbsp; [常微分方程数值解](/0112_数值计算_常微分方程数值解)&nbsp;&nbsp; :bookmark:数值计算 :bookmark:常微分方程数值解
 - 2026-11-24&nbsp;&nbsp; [数值微分与积分](/0111_数值计算_数值微分与积分)&nbsp;&nbsp; :bookmark:数值计算 :bookmark:数值微分与积分
 - 2026-11-24&nbsp;&nbsp; [插值与拟合](/0110_数值计算_插值与拟合)&nbsp;&nbsp; :bookmark:数值计算 :bookmark:插值与拟合
