@@ -991,6 +991,15 @@
       "childLinks": []
     },
     {
+      "id": "math 图论 随机图与复杂网络",
+      "group": 2,
+      "title": "随机图与复杂网络",
+      "url": "https://junxnone.github.io/math/#/0126_图论_随机图与复杂网络",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Matrix 克罗内克积",
       "group": 3,
       "title": "克罗内克积",
@@ -1380,6 +1389,13 @@
     {
       "source": "math 图论",
       "target": "math 图论 NP难问题",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 图论",
+      "target": "math 图论 随机图与复杂网络",
       "value": 2,
       "visible": true,
       "expand": true
