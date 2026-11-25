@@ -146,6 +146,11 @@
 - 2026-11-25&nbsp;&nbsp; [最小生成树](/0116_图论_最小生成树)&nbsp;&nbsp; :bookmark:图论 :bookmark:最小生成树
 - 2026-11-25&nbsp;&nbsp; [最短路径](/0115_图论_最短路径)&nbsp;&nbsp; :bookmark:图论 :bookmark:最短路径
 - 2026-11-25&nbsp;&nbsp; [图的表示与遍历](/0114_图论_图的表示与遍历)&nbsp;&nbsp; :bookmark:图论 :bookmark:图的表示与遍历
+- 2026-11-25&nbsp;&nbsp; [张量基础](/0047_线性代数_张量基础)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:张量基础
+- 2026-11-25&nbsp;&nbsp; [PCA](/0046_线性代数_PCA)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:PCA
+- 2026-11-25&nbsp;&nbsp; [范数与条件数](/0045_线性代数_Matrix_范数与条件数)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:范数与条件数
+- 2026-11-25&nbsp;&nbsp; [雅可比矩阵](/0044_线性代数_Matrix_雅可比矩阵)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:雅可比矩阵
+- 2026-11-25&nbsp;&nbsp; [伪逆](/0043_线性代数_Matrix_伪逆)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:伪逆
 - 2026-11-25&nbsp;&nbsp; [投影](/0042_线性代数_投影)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:投影
 - 2026-11-25&nbsp;&nbsp; [对称正定与二次型](/0041_线性代数_Matrix_对称正定与二次型)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:对称正定与二次型
 - 2026-11-25&nbsp;&nbsp; [矩阵分解](/0040_线性代数_Matrix_矩阵分解)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:矩阵分解
@@ -229,11 +234,6 @@
 - 2026-11-24&nbsp;&nbsp; [导数与微分](/0050_微积分_导数与微分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:导数与微分
 - 2026-11-24&nbsp;&nbsp; [极限与连续](/0049_微积分_极限与连续)&nbsp;&nbsp; :bookmark:微积分 :bookmark:极限与连续
 - 2026-11-24&nbsp;&nbsp; [微积分](/0048_微积分)&nbsp;&nbsp; :bookmark:微积分
-- 2026-11-24&nbsp;&nbsp; [张量基础](/0047_线性代数_张量基础)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:张量基础
-- 2026-11-24&nbsp;&nbsp; [PCA](/0046_线性代数_PCA)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:PCA
-- 2026-11-24&nbsp;&nbsp; [范数与条件数](/0045_线性代数_Matrix_范数与条件数)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:范数与条件数
-- 2026-11-24&nbsp;&nbsp; [雅可比矩阵](/0044_线性代数_Matrix_雅可比矩阵)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:雅可比矩阵
-- 2026-11-24&nbsp;&nbsp; [伪逆](/0043_线性代数_Matrix_伪逆)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:伪逆
 - 2025-01-14&nbsp;&nbsp; [正交矩阵](/0032_线性代数_Matrix_正交矩阵)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:正交矩阵
 - 2025-01-14&nbsp;&nbsp; [矩阵转置](/0030_线性代数_Matrix_转置)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:转置
 - 2025-01-14&nbsp;&nbsp; [哈达玛乘积](/0028_线性代数_Matrix_哈达玛乘积)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:哈达玛乘积
