@@ -946,6 +946,15 @@
       "childLinks": []
     },
     {
+      "id": "math 图论 图着色",
+      "group": 2,
+      "title": "图着色",
+      "url": "https://junxnone.github.io/math/#/0121_图论_图着色",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Matrix 克罗内克积",
       "group": 3,
       "title": "克罗内克积",
@@ -1300,6 +1309,13 @@
     {
       "source": "math 图论",
       "target": "math 图论 匹配",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 图论",
+      "target": "math 图论 图着色",
       "value": 2,
       "visible": true,
       "expand": true

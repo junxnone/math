@@ -4,6 +4,7 @@
 
 #### **Created**
 
+- 2026-11-25&nbsp;&nbsp; [图着色](/0121_图论_图着色)&nbsp;&nbsp; :bookmark:图论 :bookmark:图着色
 - 2026-11-25&nbsp;&nbsp; [匹配](/0120_图论_匹配)&nbsp;&nbsp; :bookmark:图论 :bookmark:匹配
 - 2026-11-25&nbsp;&nbsp; [网络流](/0119_图论_网络流)&nbsp;&nbsp; :bookmark:图论 :bookmark:网络流
 - 2026-11-25&nbsp;&nbsp; [连通性](/0118_图论_连通性)&nbsp;&nbsp; :bookmark:图论 :bookmark:连通性
@@ -125,6 +126,7 @@
 
 #### **Updated**
 
+- 2026-11-25&nbsp;&nbsp; [图着色](/0121_图论_图着色)&nbsp;&nbsp; :bookmark:图论 :bookmark:图着色
 - 2026-11-25&nbsp;&nbsp; [匹配](/0120_图论_匹配)&nbsp;&nbsp; :bookmark:图论 :bookmark:匹配
 - 2026-11-25&nbsp;&nbsp; [网络流](/0119_图论_网络流)&nbsp;&nbsp; :bookmark:图论 :bookmark:网络流
 - 2026-11-25&nbsp;&nbsp; [连通性](/0118_图论_连通性)&nbsp;&nbsp; :bookmark:图论 :bookmark:连通性
