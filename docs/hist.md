@@ -6,6 +6,7 @@
 
 - 2026-11-24&nbsp;&nbsp; [非凸优化](/0083_优化理论_非凸优化)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:非凸优化
 - 2026-11-24&nbsp;&nbsp; [一阶方法与随机梯度](/0081_优化理论_一阶方法与随机梯度)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:一阶方法与随机梯度
+- 2026-11-24&nbsp;&nbsp; [回归分析](/0073_数理统计_回归分析)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:回归分析
 - 2026-11-24&nbsp;&nbsp; [假设检验](/0072_数理统计_假设检验)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:假设检验
 - 2026-11-24&nbsp;&nbsp; [区间估计](/0071_数理统计_区间估计)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:区间估计
 - 2026-11-24&nbsp;&nbsp; [点估计](/0070_数理统计_点估计)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:点估计
@@ -81,6 +82,7 @@
 
 - 2026-11-24&nbsp;&nbsp; [非凸优化](/0083_优化理论_非凸优化)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:非凸优化
 - 2026-11-24&nbsp;&nbsp; [一阶方法与随机梯度](/0081_优化理论_一阶方法与随机梯度)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:一阶方法与随机梯度
+- 2026-11-24&nbsp;&nbsp; [回归分析](/0073_数理统计_回归分析)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:回归分析
 - 2026-11-24&nbsp;&nbsp; [假设检验](/0072_数理统计_假设检验)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:假设检验
 - 2026-11-24&nbsp;&nbsp; [区间估计](/0071_数理统计_区间估计)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:区间估计
 - 2026-11-24&nbsp;&nbsp; [点估计](/0070_数理统计_点估计)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:点估计
