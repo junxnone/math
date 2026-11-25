@@ -793,6 +793,15 @@
       "childLinks": []
     },
     {
+      "id": "math 信号与傅里叶变换 滤波器",
+      "group": 2,
+      "title": "滤波器",
+      "url": "https://junxnone.github.io/math/#/0104_信号与傅里叶变换_滤波器",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Matrix 克罗内克积",
       "group": 3,
       "title": "克罗内克积",
@@ -1525,6 +1534,13 @@
     {
       "source": "math 信号与傅里叶变换",
       "target": "math 信号与傅里叶变换 采样定理",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 信号与傅里叶变换",
+      "target": "math 信号与傅里叶变换 滤波器",
       "value": 2,
       "visible": true,
       "expand": true
