@@ -4,6 +4,7 @@
 
 #### **Created**
 
+- 2026-11-24&nbsp;&nbsp; [交叉熵与损失函数](/0087_信息论_交叉熵与损失函数)&nbsp;&nbsp; :bookmark:信息论 :bookmark:交叉熵与损失函数
 - 2026-11-24&nbsp;&nbsp; [互信息与 KL 散度](/0086_信息论_互信息与KL散度)&nbsp;&nbsp; :bookmark:信息论 :bookmark:互信息与KL散度
 - 2026-11-24&nbsp;&nbsp; [熵](/0085_信息论_熵)&nbsp;&nbsp; :bookmark:信息论 :bookmark:熵
 - 2026-11-24&nbsp;&nbsp; [信息论](/0084_信息论)&nbsp;&nbsp; :bookmark:信息论
@@ -91,6 +92,7 @@
 
 #### **Updated**
 
+- 2026-11-24&nbsp;&nbsp; [交叉熵与损失函数](/0087_信息论_交叉熵与损失函数)&nbsp;&nbsp; :bookmark:信息论 :bookmark:交叉熵与损失函数
 - 2026-11-24&nbsp;&nbsp; [互信息与 KL 散度](/0086_信息论_互信息与KL散度)&nbsp;&nbsp; :bookmark:信息论 :bookmark:互信息与KL散度
 - 2026-11-24&nbsp;&nbsp; [熵](/0085_信息论_熵)&nbsp;&nbsp; :bookmark:信息论 :bookmark:熵
 - 2026-11-24&nbsp;&nbsp; [信息论](/0084_信息论)&nbsp;&nbsp; :bookmark:信息论

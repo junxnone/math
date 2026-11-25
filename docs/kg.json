@@ -640,6 +640,15 @@
       "childLinks": []
     },
     {
+      "id": "math 信息论 交叉熵与损失函数",
+      "group": 2,
+      "title": "交叉熵与损失函数",
+      "url": "https://junxnone.github.io/math/#/0087_信息论_交叉熵与损失函数",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Matrix 克罗内克积",
       "group": 3,
       "title": "克罗内克积",
@@ -1253,6 +1262,13 @@
     {
       "source": "math 信息论",
       "target": "math 信息论 互信息与KL散度",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 信息论",
+      "target": "math 信息论 交叉熵与损失函数",
       "value": 2,
       "visible": true,
       "expand": true
