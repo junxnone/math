@@ -622,6 +622,15 @@
       "childLinks": []
     },
     {
+      "id": "math 信息论 熵",
+      "group": 2,
+      "title": "熵",
+      "url": "https://junxnone.github.io/math/#/0085_信息论_熵",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Matrix 克罗内克积",
       "group": 3,
       "title": "克罗内克积",
@@ -1221,6 +1230,13 @@
     {
       "source": "math 优化理论",
       "target": "math 优化理论 非凸优化",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 信息论",
+      "target": "math 信息论 熵",
       "value": 2,
       "visible": true,
       "expand": true

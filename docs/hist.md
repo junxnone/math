@@ -4,6 +4,7 @@
 
 #### **Created**
 
+- 2026-11-24&nbsp;&nbsp; [熵](/0085_信息论_熵)&nbsp;&nbsp; :bookmark:信息论 :bookmark:熵
 - 2026-11-24&nbsp;&nbsp; [信息论](/0084_信息论)&nbsp;&nbsp; :bookmark:信息论
 - 2026-11-24&nbsp;&nbsp; [非凸优化](/0083_优化理论_非凸优化)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:非凸优化
 - 2026-11-24&nbsp;&nbsp; [二阶方法与拟牛顿](/0082_优化理论_二阶方法与拟牛顿)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:二阶方法与拟牛顿
@@ -89,6 +90,7 @@
 
 #### **Updated**
 
+- 2026-11-24&nbsp;&nbsp; [熵](/0085_信息论_熵)&nbsp;&nbsp; :bookmark:信息论 :bookmark:熵
 - 2026-11-24&nbsp;&nbsp; [信息论](/0084_信息论)&nbsp;&nbsp; :bookmark:信息论
 - 2026-11-24&nbsp;&nbsp; [非凸优化](/0083_优化理论_非凸优化)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:非凸优化
 - 2026-11-24&nbsp;&nbsp; [二阶方法与拟牛顿](/0082_优化理论_二阶方法与拟牛顿)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:二阶方法与拟牛顿
