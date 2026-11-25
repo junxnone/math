@@ -3,7 +3,7 @@
 | Title     | 线性代数 Matrix 雅可比矩阵                                  |
 | --------- | -------------------------------------------------- |
 | Created @ | `2026-11-24T14:42:25Z`                             |
-| Updated @ | `2026-11-24T14:42:25Z`                             |
+| Updated @ | `2026-11-25T09:33:39Z`                             |
 | Labels    | \`\`                                               |
 | Edit @    | [here](https://github.com/junxnone/math/issues/44) |
 
@@ -42,8 +42,7 @@ $$
 
   - $\\boldsymbol\\delta$：输入的微小扰动
   - $J(\\mathbf{x})\\boldsymbol\\delta$：输出的一阶变化；因此在 $\\mathbf{x}$
-    附近，非线性函数表现得像线性变换 $J$（见
-    [线性变换](https://github.com/junxnone/math/issues/39)）
+    附近，非线性函数表现得像线性变换 $J$（见 [线性变换](/0039_线性代数_线性变换)）
   - 近似的精度随 $|\\boldsymbol\\delta|$ 减小而提高
 
 ## 雅可比行列式与变量替换
@@ -80,15 +79,13 @@ $$
     法：$\\mathbf{x}\_{k+1}=\\mathbf{x}\_k-J^{-1}\\mathbf{f}(\\mathbf{x}\_k)$
   - 非线性最小二乘（Gauss-Newton）：残差 $\\mathbf{r}(\\mathbf{x})$ 的雅可比 $J$ 给出更新量
     $\\boldsymbol\\delta=-(J^\\top J)^{-1}J^\\top\\mathbf{r}$，即解线性最小二乘（见
-    [投影](https://github.com/junxnone/math/issues/42)）；SLAM、Bundle
-    Adjustment 都基于此
+    [投影](/0042_线性代数_投影)）；SLAM、Bundle Adjustment 都基于此
   - 机器人：关节速度与末端速度之间 $\\dot{\\mathbf{p}}=J\\dot{\\mathbf{q}}$；奇异位形即 $J$
-    降秩（见 [秩](https://github.com/junxnone/math/issues/29)）
-  - 分析数值稳定性：$J$ 的条件数衡量输入误差的放大（见
-    [范数与条件数](https://github.com/junxnone/math/issues/45)）
+    降秩（见 [秩](/0029_线性代数_Matrix_秩)）
+  - 分析数值稳定性：$J$ 的条件数衡量输入误差的放大（见 [范数与条件数](/0045_线性代数_Matrix_范数与条件数)）
 
 ## Reference
 
   - [Jacobian matrix and determinant -
     Wikipedia](https://en.wikipedia.org/wiki/Jacobian_matrix_and_determinant)
-  - [导数](https://github.com/junxnone/math/issues/9)
+  - [导数](/0009_Math_Derivative)
