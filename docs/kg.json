@@ -784,6 +784,15 @@
       "childLinks": []
     },
     {
+      "id": "math 信号与傅里叶变换 采样定理",
+      "group": 2,
+      "title": "采样定理",
+      "url": "https://junxnone.github.io/math/#/0103_信号与傅里叶变换_采样定理",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Matrix 克罗内克积",
       "group": 3,
       "title": "克罗内克积",
@@ -1509,6 +1518,13 @@
     {
       "source": "math 信号与傅里叶变换",
       "target": "math 信号与傅里叶变换 离散傅里叶变换与FFT",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 信号与傅里叶变换",
+      "target": "math 信号与傅里叶变换 采样定理",
       "value": 2,
       "visible": true,
       "expand": true
