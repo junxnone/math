@@ -3,7 +3,7 @@
 | Title     | 线性代数 Matrix                                       |
 | --------- | ------------------------------------------------- |
 | Created @ | `2022-04-19T11:36:53Z`                            |
-| Updated @ | `2026-11-24T14:43:09Z`                            |
+| Updated @ | `2026-11-25T09:07:44Z`                            |
 | Labels    | \`\`                                              |
 | Edit @    | [here](https://github.com/junxnone/math/issues/4) |
 
@@ -30,13 +30,12 @@
 
 ## 相关文章
 
-  - [迹](https://github.com/junxnone/math/issues/37)：主对角线元素之和，等于特征值之和
-  - [初等变换](https://github.com/junxnone/math/issues/38)：行变换、行阶梯形，用于求秩与求逆
-  - [线性变换](https://github.com/junxnone/math/issues/39)：矩阵是线性变换在选定基下的表示，矩阵乘积对应变换复合
-  - [矩阵分解](https://github.com/junxnone/math/issues/40)：LU / QR /
-    Cholesky
-  - [对称正定与二次型](https://github.com/junxnone/math/issues/41)、[伪逆](https://github.com/junxnone/math/issues/43)、[范数与条件数](https://github.com/junxnone/math/issues/45)
-  - [雅可比矩阵](https://github.com/junxnone/math/issues/44)：多元向量函数的局部线性化
+  - [迹](/0037_线性代数_Matrix_迹)：主对角线元素之和，等于特征值之和
+  - [初等变换](/0038_线性代数_Matrix_初等变换)：行变换、行阶梯形，用于求秩与求逆
+  - [线性变换](/0039_线性代数_线性变换)：矩阵是线性变换在选定基下的表示，矩阵乘积对应变换复合
+  - [矩阵分解](/0040_线性代数_Matrix_矩阵分解)：LU / QR / Cholesky
+  - [对称正定与二次型](/0041_线性代数_Matrix_对称正定与二次型)、[伪逆](/0043_线性代数_Matrix_伪逆)、[范数与条件数](/0045_线性代数_Matrix_范数与条件数)
+  - [雅可比矩阵](/0044_线性代数_Matrix_雅可比矩阵)：多元向量函数的局部线性化
 
 ## Reference
 
