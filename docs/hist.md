@@ -146,6 +146,11 @@
 - 2026-11-25&nbsp;&nbsp; [最小生成树](/0116_图论_最小生成树)&nbsp;&nbsp; :bookmark:图论 :bookmark:最小生成树
 - 2026-11-25&nbsp;&nbsp; [最短路径](/0115_图论_最短路径)&nbsp;&nbsp; :bookmark:图论 :bookmark:最短路径
 - 2026-11-25&nbsp;&nbsp; [图的表示与遍历](/0114_图论_图的表示与遍历)&nbsp;&nbsp; :bookmark:图论 :bookmark:图的表示与遍历
+- 2026-11-25&nbsp;&nbsp; [随机变量与分布](/0062_概率论_随机变量与分布)&nbsp;&nbsp; :bookmark:概率论 :bookmark:随机变量与分布
+- 2026-11-25&nbsp;&nbsp; [条件概率与贝叶斯](/0061_概率论_条件概率与贝叶斯)&nbsp;&nbsp; :bookmark:概率论 :bookmark:条件概率与贝叶斯
+- 2026-11-25&nbsp;&nbsp; [概率空间与公理](/0060_概率论_概率空间与公理)&nbsp;&nbsp; :bookmark:概率论 :bookmark:概率空间与公理
+- 2026-11-25&nbsp;&nbsp; [概率论](/0059_概率论)&nbsp;&nbsp; :bookmark:概率论
+- 2026-11-25&nbsp;&nbsp; [极值与拉格朗日乘数](/0058_微积分_极值与拉格朗日乘数)&nbsp;&nbsp; :bookmark:微积分 :bookmark:极值与拉格朗日乘数
 - 2026-11-25&nbsp;&nbsp; [常微分方程](/0057_微积分_常微分方程)&nbsp;&nbsp; :bookmark:微积分 :bookmark:常微分方程
 - 2026-11-25&nbsp;&nbsp; [曲线曲面积分与场论](/0056_微积分_曲线曲面积分与场论)&nbsp;&nbsp; :bookmark:微积分 :bookmark:曲线曲面积分与场论
 - 2026-11-25&nbsp;&nbsp; [重积分](/0055_微积分_重积分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:重积分
@@ -229,11 +234,6 @@
 - 2026-11-24&nbsp;&nbsp; [多维随机变量与协方差](/0065_概率论_多维随机变量与协方差)&nbsp;&nbsp; :bookmark:概率论 :bookmark:多维随机变量与协方差
 - 2026-11-24&nbsp;&nbsp; [期望方差与矩](/0064_概率论_期望方差与矩)&nbsp;&nbsp; :bookmark:概率论 :bookmark:期望方差与矩
 - 2026-11-24&nbsp;&nbsp; [常见分布](/0063_概率论_常见分布)&nbsp;&nbsp; :bookmark:概率论 :bookmark:常见分布
-- 2026-11-24&nbsp;&nbsp; [随机变量与分布](/0062_概率论_随机变量与分布)&nbsp;&nbsp; :bookmark:概率论 :bookmark:随机变量与分布
-- 2026-11-24&nbsp;&nbsp; [条件概率与贝叶斯](/0061_概率论_条件概率与贝叶斯)&nbsp;&nbsp; :bookmark:概率论 :bookmark:条件概率与贝叶斯
-- 2026-11-24&nbsp;&nbsp; [概率空间与公理](/0060_概率论_概率空间与公理)&nbsp;&nbsp; :bookmark:概率论 :bookmark:概率空间与公理
-- 2026-11-24&nbsp;&nbsp; [概率论](/0059_概率论)&nbsp;&nbsp; :bookmark:概率论
-- 2026-11-24&nbsp;&nbsp; [极值与拉格朗日乘数](/0058_微积分_极值与拉格朗日乘数)&nbsp;&nbsp; :bookmark:微积分 :bookmark:极值与拉格朗日乘数
 - 2025-01-14&nbsp;&nbsp; [正交矩阵](/0032_线性代数_Matrix_正交矩阵)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:正交矩阵
 - 2025-01-14&nbsp;&nbsp; [矩阵转置](/0030_线性代数_Matrix_转置)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:转置
 - 2025-01-14&nbsp;&nbsp; [哈达玛乘积](/0028_线性代数_Matrix_哈达玛乘积)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:哈达玛乘积
