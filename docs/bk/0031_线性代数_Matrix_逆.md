@@ -3,7 +3,7 @@
 | Title     | 线性代数 Matrix 逆                                      |
 | --------- | -------------------------------------------------- |
 | Created @ | `2025-01-14T08:20:42Z`                             |
-| Updated @ | `2026-11-24T14:43:15Z`                             |
+| Updated @ | `2026-11-25T09:14:53Z`                             |
 | Labels    | \`\`                                               |
 | Edit @    | [here](https://github.com/junxnone/math/issues/31) |
 
@@ -82,11 +82,10 @@ $$A^{-1}=\\begin{pmatrix}-2&1\\
 
 ## 相关文章
 
-  - [初等变换](https://github.com/junxnone/math/issues/38)：用 $\[A\\mid
-    I\]\\to\[I\\mid A^{-1}\]$ 求逆的原理
-  - [线性方程组](https://github.com/junxnone/math/issues/35)：解的判定与求解方法
-  - [矩阵分解](https://github.com/junxnone/math/issues/40)：数值计算中通常用 LU / QR
-    分解代替显式求逆
-  - [伪逆](https://github.com/junxnone/math/issues/43)：非方阵和奇异矩阵的广义逆
-  - [范数与条件数](https://github.com/junxnone/math/issues/45)：$\\kappa(A)=|A|,|A^{-1}|$
+  - [初等变换](/0038_线性代数_Matrix_初等变换)：用 $\[A\\mid I\]\\to\[I\\mid A^{-1}\]$
+    求逆的原理
+  - [线性方程组](/0035_线性代数_线性方程组)：解的判定与求解方法
+  - [矩阵分解](/0040_线性代数_Matrix_矩阵分解)：数值计算中通常用 LU / QR 分解代替显式求逆
+  - [伪逆](/0043_线性代数_Matrix_伪逆)：非方阵和奇异矩阵的广义逆
+  - [范数与条件数](/0045_线性代数_Matrix_范数与条件数)：$\\kappa(A)=|A|,|A^{-1}|$
     衡量求逆的数值稳定性
