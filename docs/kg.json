@@ -955,6 +955,15 @@
       "childLinks": []
     },
     {
+      "id": "math 图论 欧拉图与哈密顿图",
+      "group": 2,
+      "title": "欧拉图与哈密顿图",
+      "url": "https://junxnone.github.io/math/#/0122_图论_欧拉图与哈密顿图",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Matrix 克罗内克积",
       "group": 3,
       "title": "克罗内克积",
@@ -1316,6 +1325,13 @@
     {
       "source": "math 图论",
       "target": "math 图论 图着色",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 图论",
+      "target": "math 图论 欧拉图与哈密顿图",
       "value": 2,
       "visible": true,
       "expand": true
