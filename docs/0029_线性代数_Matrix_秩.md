@@ -2,7 +2,7 @@
 Title | 线性代数 Matrix 秩
 -- | --
 Created @ | `2025-01-14T08:09:57Z`
-Updated @| `2026-11-24T14:43:13Z`
+Updated @| `2026-11-25T09:09:15Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/math/issues/29)
 
@@ -61,9 +61,10 @@ $$
 
 ## 相关文章
 
-- [向量空间](https://github.com/junxnone/math/issues/34)：列空间、行空间、零空间与秩的关系
-- [初等变换](https://github.com/junxnone/math/issues/38)：行阶梯形中主元个数即为秩
-- [线性方程组](https://github.com/junxnone/math/issues/35)：$\operatorname{rank}(A)$ 与 $\operatorname{rank}([A\mid\mathbf{b}])$ 决定解的情况
-- [线性变换](https://github.com/junxnone/math/issues/39)：秩是像空间的维数
-- [SVD](https://github.com/junxnone/math/issues/12)：非零奇异值的个数等于秩
+- [向量空间](/0034_线性代数_向量空间)：列空间、行空间、零空间与秩的关系
+- [初等变换](/0038_线性代数_Matrix_初等变换)：行阶梯形中主元个数即为秩
+- [线性方程组](/0035_线性代数_线性方程组)：$\operatorname{rank}(A)$ 与 $\operatorname{rank}([A\mid\mathbf{b}])$ 决定解的情况
+- [线性变换](/0039_线性代数_线性变换)：秩是像空间的维数
+- [SVD](/0012_线性代数_SVD)：非零奇异值的个数等于秩
+
 
