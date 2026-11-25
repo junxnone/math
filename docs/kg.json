@@ -595,6 +595,15 @@
       "childLinks": []
     },
     {
+      "id": "math 优化理论 二阶方法与拟牛顿",
+      "group": 2,
+      "title": "二阶方法与拟牛顿",
+      "url": "https://junxnone.github.io/math/#/0082_优化理论_二阶方法与拟牛顿",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 优化理论 非凸优化",
       "group": 2,
       "title": "非凸优化",
@@ -1182,6 +1191,13 @@
     {
       "source": "math 优化理论",
       "target": "math 优化理论 一阶方法与随机梯度",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 优化理论",
+      "target": "math 优化理论 二阶方法与拟牛顿",
       "value": 2,
       "visible": true,
       "expand": true

@@ -5,6 +5,7 @@
 #### **Created**
 
 - 2026-11-24&nbsp;&nbsp; [非凸优化](/0083_优化理论_非凸优化)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:非凸优化
+- 2026-11-24&nbsp;&nbsp; [二阶方法与拟牛顿](/0082_优化理论_二阶方法与拟牛顿)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:二阶方法与拟牛顿
 - 2026-11-24&nbsp;&nbsp; [一阶方法与随机梯度](/0081_优化理论_一阶方法与随机梯度)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:一阶方法与随机梯度
 - 2026-11-24&nbsp;&nbsp; [线性规划](/0080_优化理论_线性规划)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:线性规划
 - 2026-11-24&nbsp;&nbsp; [约束优化与对偶](/0079_优化理论_约束优化与对偶)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:约束优化与对偶
@@ -88,6 +89,7 @@
 #### **Updated**
 
 - 2026-11-24&nbsp;&nbsp; [非凸优化](/0083_优化理论_非凸优化)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:非凸优化
+- 2026-11-24&nbsp;&nbsp; [二阶方法与拟牛顿](/0082_优化理论_二阶方法与拟牛顿)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:二阶方法与拟牛顿
 - 2026-11-24&nbsp;&nbsp; [一阶方法与随机梯度](/0081_优化理论_一阶方法与随机梯度)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:一阶方法与随机梯度
 - 2026-11-24&nbsp;&nbsp; [线性规划](/0080_优化理论_线性规划)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:线性规划
 - 2026-11-24&nbsp;&nbsp; [约束优化与对偶](/0079_优化理论_约束优化与对偶)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:约束优化与对偶
