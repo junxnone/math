@@ -146,6 +146,11 @@
 - 2026-11-25&nbsp;&nbsp; [最小生成树](/0116_图论_最小生成树)&nbsp;&nbsp; :bookmark:图论 :bookmark:最小生成树
 - 2026-11-25&nbsp;&nbsp; [最短路径](/0115_图论_最短路径)&nbsp;&nbsp; :bookmark:图论 :bookmark:最短路径
 - 2026-11-25&nbsp;&nbsp; [图的表示与遍历](/0114_图论_图的表示与遍历)&nbsp;&nbsp; :bookmark:图论 :bookmark:图的表示与遍历
+- 2026-11-25&nbsp;&nbsp; [交叉熵与损失函数](/0087_信息论_交叉熵与损失函数)&nbsp;&nbsp; :bookmark:信息论 :bookmark:交叉熵与损失函数
+- 2026-11-25&nbsp;&nbsp; [互信息与 KL 散度](/0086_信息论_互信息与KL散度)&nbsp;&nbsp; :bookmark:信息论 :bookmark:互信息与KL散度
+- 2026-11-25&nbsp;&nbsp; [熵](/0085_信息论_熵)&nbsp;&nbsp; :bookmark:信息论 :bookmark:熵
+- 2026-11-25&nbsp;&nbsp; [信息论](/0084_信息论)&nbsp;&nbsp; :bookmark:信息论
+- 2026-11-25&nbsp;&nbsp; [非凸优化](/0083_优化理论_非凸优化)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:非凸优化
 - 2026-11-25&nbsp;&nbsp; [二阶方法与拟牛顿](/0082_优化理论_二阶方法与拟牛顿)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:二阶方法与拟牛顿
 - 2026-11-25&nbsp;&nbsp; [一阶方法与随机梯度](/0081_优化理论_一阶方法与随机梯度)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:一阶方法与随机梯度
 - 2026-11-25&nbsp;&nbsp; [线性规划](/0080_优化理论_线性规划)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:线性规划
@@ -229,11 +234,6 @@
 - 2026-11-24&nbsp;&nbsp; [最大熵原理](/0090_信息论_最大熵原理)&nbsp;&nbsp; :bookmark:信息论 :bookmark:最大熵原理
 - 2026-11-24&nbsp;&nbsp; [信道容量](/0089_信息论_信道容量)&nbsp;&nbsp; :bookmark:信息论 :bookmark:信道容量
 - 2026-11-24&nbsp;&nbsp; [信源编码](/0088_信息论_信源编码)&nbsp;&nbsp; :bookmark:信息论 :bookmark:信源编码
-- 2026-11-24&nbsp;&nbsp; [交叉熵与损失函数](/0087_信息论_交叉熵与损失函数)&nbsp;&nbsp; :bookmark:信息论 :bookmark:交叉熵与损失函数
-- 2026-11-24&nbsp;&nbsp; [互信息与 KL 散度](/0086_信息论_互信息与KL散度)&nbsp;&nbsp; :bookmark:信息论 :bookmark:互信息与KL散度
-- 2026-11-24&nbsp;&nbsp; [熵](/0085_信息论_熵)&nbsp;&nbsp; :bookmark:信息论 :bookmark:熵
-- 2026-11-24&nbsp;&nbsp; [信息论](/0084_信息论)&nbsp;&nbsp; :bookmark:信息论
-- 2026-11-24&nbsp;&nbsp; [非凸优化](/0083_优化理论_非凸优化)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:非凸优化
 - 2025-01-14&nbsp;&nbsp; [正交矩阵](/0032_线性代数_Matrix_正交矩阵)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:正交矩阵
 - 2025-01-14&nbsp;&nbsp; [矩阵转置](/0030_线性代数_Matrix_转置)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:转置
 - 2025-01-14&nbsp;&nbsp; [哈达玛乘积](/0028_线性代数_Matrix_哈达玛乘积)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:哈达玛乘积
