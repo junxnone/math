@@ -667,6 +667,15 @@
       "childLinks": []
     },
     {
+      "id": "math 信息论 最大熵原理",
+      "group": 2,
+      "title": "最大熵原理",
+      "url": "https://junxnone.github.io/math/#/0090_信息论_最大熵原理",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Matrix 克罗内克积",
       "group": 3,
       "title": "克罗内克积",
@@ -1301,6 +1310,13 @@
     {
       "source": "math 信息论",
       "target": "math 信息论 信道容量",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 信息论",
+      "target": "math 信息论 最大熵原理",
       "value": 2,
       "visible": true,
       "expand": true
