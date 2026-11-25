@@ -685,6 +685,15 @@
       "childLinks": []
     },
     {
+      "id": "math 离散数学 集合与关系",
+      "group": 2,
+      "title": "集合与关系",
+      "url": "https://junxnone.github.io/math/#/0092_离散数学_集合与关系",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Matrix 克罗内克积",
       "group": 3,
       "title": "克罗内克积",
@@ -1333,6 +1342,13 @@
     {
       "source": "math 信息论",
       "target": "math 信息论 最大熵原理",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 离散数学",
+      "target": "math 离散数学 集合与关系",
       "value": 2,
       "visible": true,
       "expand": true
