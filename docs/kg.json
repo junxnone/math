@@ -559,6 +559,15 @@
       "childLinks": []
     },
     {
+      "id": "math 优化理论 无约束优化",
+      "group": 2,
+      "title": "无约束优化",
+      "url": "https://junxnone.github.io/math/#/0078_优化理论_无约束优化",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 优化理论 一阶方法与随机梯度",
       "group": 2,
       "title": "一阶方法与随机梯度",
@@ -1127,6 +1136,13 @@
     {
       "source": "math 优化理论",
       "target": "math 优化理论 凸集与凸函数",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 优化理论",
+      "target": "math 优化理论 无约束优化",
       "value": 2,
       "visible": true,
       "expand": true
