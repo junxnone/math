@@ -146,6 +146,11 @@
 - 2026-11-25&nbsp;&nbsp; [最小生成树](/0116_图论_最小生成树)&nbsp;&nbsp; :bookmark:图论 :bookmark:最小生成树
 - 2026-11-25&nbsp;&nbsp; [最短路径](/0115_图论_最短路径)&nbsp;&nbsp; :bookmark:图论 :bookmark:最短路径
 - 2026-11-25&nbsp;&nbsp; [图的表示与遍历](/0114_图论_图的表示与遍历)&nbsp;&nbsp; :bookmark:图论 :bookmark:图的表示与遍历
+- 2026-11-25&nbsp;&nbsp; [假设检验](/0072_数理统计_假设检验)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:假设检验
+- 2026-11-25&nbsp;&nbsp; [区间估计](/0071_数理统计_区间估计)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:区间估计
+- 2026-11-25&nbsp;&nbsp; [点估计](/0070_数理统计_点估计)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:点估计
+- 2026-11-25&nbsp;&nbsp; [抽样与统计量](/0069_数理统计_抽样与统计量)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:抽样与统计量
+- 2026-11-25&nbsp;&nbsp; [数理统计](/0068_数理统计)&nbsp;&nbsp; :bookmark:数理统计
 - 2026-11-25&nbsp;&nbsp; [随机过程初步](/0067_概率论_随机过程初步)&nbsp;&nbsp; :bookmark:概率论 :bookmark:随机过程初步
 - 2026-11-25&nbsp;&nbsp; [大数定律与中心极限定理](/0066_概率论_大数定律与中心极限定理)&nbsp;&nbsp; :bookmark:概率论 :bookmark:大数定律与中心极限定理
 - 2026-11-25&nbsp;&nbsp; [多维随机变量与协方差](/0065_概率论_多维随机变量与协方差)&nbsp;&nbsp; :bookmark:概率论 :bookmark:多维随机变量与协方差
@@ -229,11 +234,6 @@
 - 2026-11-24&nbsp;&nbsp; [重采样与非参数方法](/0075_数理统计_重采样与非参数方法)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:重采样与非参数方法
 - 2026-11-24&nbsp;&nbsp; [贝叶斯统计](/0074_数理统计_贝叶斯统计)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:贝叶斯统计
 - 2026-11-24&nbsp;&nbsp; [回归分析](/0073_数理统计_回归分析)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:回归分析
-- 2026-11-24&nbsp;&nbsp; [假设检验](/0072_数理统计_假设检验)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:假设检验
-- 2026-11-24&nbsp;&nbsp; [区间估计](/0071_数理统计_区间估计)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:区间估计
-- 2026-11-24&nbsp;&nbsp; [点估计](/0070_数理统计_点估计)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:点估计
-- 2026-11-24&nbsp;&nbsp; [抽样与统计量](/0069_数理统计_抽样与统计量)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:抽样与统计量
-- 2026-11-24&nbsp;&nbsp; [数理统计](/0068_数理统计)&nbsp;&nbsp; :bookmark:数理统计
 - 2025-01-14&nbsp;&nbsp; [正交矩阵](/0032_线性代数_Matrix_正交矩阵)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:正交矩阵
 - 2025-01-14&nbsp;&nbsp; [矩阵转置](/0030_线性代数_Matrix_转置)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:转置
 - 2025-01-14&nbsp;&nbsp; [哈达玛乘积](/0028_线性代数_Matrix_哈达玛乘积)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:哈达玛乘积
