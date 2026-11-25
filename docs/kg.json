@@ -658,6 +658,15 @@
       "childLinks": []
     },
     {
+      "id": "math 信息论 信道容量",
+      "group": 2,
+      "title": "信道容量",
+      "url": "https://junxnone.github.io/math/#/0089_信息论_信道容量",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Matrix 克罗内克积",
       "group": 3,
       "title": "克罗内克积",
@@ -1285,6 +1294,13 @@
     {
       "source": "math 信息论",
       "target": "math 信息论 信源编码",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 信息论",
+      "target": "math 信息论 信道容量",
       "value": 2,
       "visible": true,
       "expand": true

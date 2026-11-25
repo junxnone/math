@@ -4,6 +4,7 @@
 
 #### **Created**
 
+- 2026-11-24&nbsp;&nbsp; [信道容量](/0089_信息论_信道容量)&nbsp;&nbsp; :bookmark:信息论 :bookmark:信道容量
 - 2026-11-24&nbsp;&nbsp; [信源编码](/0088_信息论_信源编码)&nbsp;&nbsp; :bookmark:信息论 :bookmark:信源编码
 - 2026-11-24&nbsp;&nbsp; [交叉熵与损失函数](/0087_信息论_交叉熵与损失函数)&nbsp;&nbsp; :bookmark:信息论 :bookmark:交叉熵与损失函数
 - 2026-11-24&nbsp;&nbsp; [互信息与 KL 散度](/0086_信息论_互信息与KL散度)&nbsp;&nbsp; :bookmark:信息论 :bookmark:互信息与KL散度
@@ -93,6 +94,7 @@
 
 #### **Updated**
 
+- 2026-11-24&nbsp;&nbsp; [信道容量](/0089_信息论_信道容量)&nbsp;&nbsp; :bookmark:信息论 :bookmark:信道容量
 - 2026-11-24&nbsp;&nbsp; [信源编码](/0088_信息论_信源编码)&nbsp;&nbsp; :bookmark:信息论 :bookmark:信源编码
 - 2026-11-24&nbsp;&nbsp; [交叉熵与损失函数](/0087_信息论_交叉熵与损失函数)&nbsp;&nbsp; :bookmark:信息论 :bookmark:交叉熵与损失函数
 - 2026-11-24&nbsp;&nbsp; [互信息与 KL 散度](/0086_信息论_互信息与KL散度)&nbsp;&nbsp; :bookmark:信息论 :bookmark:互信息与KL散度
