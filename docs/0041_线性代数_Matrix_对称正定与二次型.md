@@ -2,7 +2,7 @@
 Title | 线性代数 Matrix 对称正定与二次型
 -- | --
 Created @ | `2026-11-24T14:42:18Z`
-Updated @| `2026-11-24T14:42:18Z`
+Updated @| `2026-11-25T09:20:48Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/math/issues/41)
 
@@ -32,13 +32,13 @@ $$
 | 负定 | $\mathbf{x}^\top A\mathbf{x}<0\ (\mathbf{x}\ne\mathbf{0})$ | 全部 $<0$ |
 | 不定 | 取值有正有负 | 有正有负 |
 
-表中列依次为类型、定义条件和对应的特征值符号。对称矩阵的特征值都是实数（见 [特征值与特征向量](https://github.com/junxnone/math/issues/36)），由此可以判定正定性。
+表中列依次为类型、定义条件和对应的特征值符号。对称矩阵的特征值都是实数（见 [特征值与特征向量](/0036_线性代数_特征值与特征向量)），由此可以判定正定性。
 
 ## 正定的判定
 
 - 特征值法：所有特征值 $\lambda_i>0$。
 - 顺序主子式（Sylvester 准则）：各阶顺序主子式 $\Delta_k=\det A_{1:k,1:k}>0\ (k=1,\dots,n)$。
-- Cholesky 法：能做 Cholesky 分解 $A=LL^\top$ 且对角线为正（见 [矩阵分解](https://github.com/junxnone/math/issues/40)）。
+- Cholesky 法：能做 Cholesky 分解 $A=LL^\top$ 且对角线为正（见 [矩阵分解](/0040_线性代数_Matrix_矩阵分解)）。
 - 必要条件：对角线元素全为正；$\det A>0$。
 
 例：$A=\begin{bmatrix}2&-1\\-1&2\end{bmatrix}$，特征值 $1,3>0$；顺序主子式 $2>0$，$\det A=3>0$，所以正定。
@@ -65,7 +65,7 @@ $$
 
 ## 应用
 
-- 协方差矩阵：$\mathbf{w}^\top\Sigma\mathbf{w}=\operatorname{Var}(\mathbf{w}^\top\mathbf{X})\ge0$，所以协方差矩阵半正定；高斯分布要求 $\Sigma$ 正定（见 [Gaussian Distribution](https://github.com/junxnone/math/issues/5)）
+- 协方差矩阵：$\mathbf{w}^\top\Sigma\mathbf{w}=\operatorname{Var}(\mathbf{w}^\top\mathbf{X})\ge0$，所以协方差矩阵半正定；高斯分布要求 $\Sigma$ 正定（见 [Gaussian Distribution](/0005_Math_GaussianDistribution)）
 - 优化：Hessian 矩阵 $H$ 在驻点处正定 $\Rightarrow$ 严格局部极小；负定 $\Rightarrow$ 极大；不定 $\Rightarrow$ 鞍点。凸二次函数 $\tfrac12\mathbf{x}^\top A\mathbf{x}-\mathbf{b}^\top\mathbf{x}$ 的最小点满足 $A\mathbf{x}=\mathbf{b}$
 - 距离度量：马氏距离 $d^2=(\mathbf{x}-\boldsymbol\mu)^\top\Sigma^{-1}(\mathbf{x}-\boldsymbol\mu)$ 即以 $\Sigma^{-1}$ 为核的二次型
 
@@ -73,4 +73,5 @@ $$
 
 - [Definite matrix - Wikipedia](https://en.wikipedia.org/wiki/Definite_matrix)
 - Gilbert Strang, *Introduction to Linear Algebra*, Chapter 6
+
 
