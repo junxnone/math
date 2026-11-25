@@ -100,6 +100,15 @@
       "childLinks": []
     },
     {
+      "id": "math 数值计算",
+      "group": 1,
+      "title": "数值计算",
+      "url": "https://junxnone.github.io/math/#/0106_数值计算",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Vector",
       "group": 2,
       "title": "向量",
@@ -1004,6 +1013,13 @@
     {
       "source": "math",
       "target": "math 信号与傅里叶变换",
+      "value": 1,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math",
+      "target": "math 数值计算",
       "value": 1,
       "visible": true,
       "expand": true
