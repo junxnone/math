@@ -3,7 +3,7 @@
 | Title     | 线性代数 Matrix 范数与条件数                                 |
 | --------- | -------------------------------------------------- |
 | Created @ | `2026-11-24T14:42:27Z`                             |
-| Updated @ | `2026-11-24T14:42:27Z`                             |
+| Updated @ | `2026-11-25T09:33:41Z`                             |
 | Labels    | \`\`                                               |
 | Edit @    | [here](https://github.com/junxnone/math/issues/45) |
 
@@ -12,7 +12,7 @@
 # 范数与条件数
 
 向量范数度量“长度”（见
-[norm](https://github.com/junxnone/math/issues/11)）；矩阵范数度量“变换最多能把向量放大多少”。在此基础上，条件数衡量线性问题对误差有多敏感，决定了数值结果可信不可信。
+[norm](/0011_线性代数_norm)）；矩阵范数度量“变换最多能把向量放大多少”。在此基础上，条件数衡量线性问题对误差有多敏感，决定了数值结果可信不可信。
 
 ## 矩阵范数
 
@@ -25,9 +25,8 @@
 | 核范数 $\\lVert A\\rVert\_\*$               | 奇异值之和                                                                               | $\\sum\_i\\sigma\_i$                                                 |
 
 表中列依次为名称、定义和计算方法，其中 $\\sigma\_i$ 是 $A$ 的奇异值（见
-[SVD](https://github.com/junxnone/math/issues/12)），$\\operatorname{tr}$
-是迹（见 [迹](https://github.com/junxnone/math/issues/37)）。除 Frobenius
-范数和核范数外，其余是由向量范数诱导的算子范数，满足：
+[SVD](/0012_线性代数_SVD)），$\\operatorname{tr}$ 是迹（见
+[迹](/0037_线性代数_Matrix_迹)）。除 Frobenius 范数和核范数外，其余是由向量范数诱导的算子范数，满足：
 
 $$ |A\\mathbf{x}|\\le|A|,|\\mathbf{x}|,\\qquad |AB|\\le|A|,|B| $$
 
@@ -42,8 +41,7 @@ $$ \\kappa(A)=|A|,|A^{-1}|,\\qquad
 
 其中：
 
-  - $\\kappa(A)\\ge1$，$A$ 为正交矩阵时取最小值 1（见
-    [正交矩阵](https://github.com/junxnone/math/issues/32)）
+  - $\\kappa(A)\\ge1$，$A$ 为正交矩阵时取最小值 1（见 [正交矩阵](/0032_线性代数_Matrix_正交矩阵)）
   - 谱范数下 $\\kappa\_2$ 等于最大与最小奇异值之比，即变换在最“拉伸”与最“压扁”方向的差距
   - $\\sigma\_{\\min}\\to0$ 时 $A$ 接近奇异，$\\kappa\\to\\infty$（病态）
 
@@ -72,16 +70,15 @@ $0.00005$，所以 $\\kappa\_2\\approx4\\times10^4$：两列几乎共线，求�
 $$ \\kappa\_2(A^\\top A)=\\kappa\_2(A)^2 $$
 
 其中 $A$ 为列满秩矩阵。因此病态问题应当用 QR 或 SVD 直接求解，而不是解 $A^\\top
-A\\mathbf{x}=A^\\top\\mathbf{b}$（见
-[矩阵分解](https://github.com/junxnone/math/issues/40)）。
+A\\mathbf{x}=A^\\top\\mathbf{b}$（见 [矩阵分解](/0040_线性代数_Matrix_矩阵分解)）。
 
 ## 应用
 
   - 判断线性系统、特征值问题的数值可靠性；条件数大时加正则化（岭回归、截断 SVD，见
-    [伪逆](https://github.com/junxnone/math/issues/43)）
+    [伪逆](/0043_线性代数_Matrix_伪逆)）
   - 正则化项：$|W|\_F^2$（权重衰减）、核范数（低秩约束）
   - 优化：Hessian 条件数大时梯度下降收敛慢（等值线为细长椭圆，见
-    [对称正定与二次型](https://github.com/junxnone/math/issues/41)）
+    [对称正定与二次型](/0041_线性代数_Matrix_对称正定与二次型)）
   - 神经网络：谱范数约束用于稳定训练（如 Spectral Normalization）
 
 ## Reference
