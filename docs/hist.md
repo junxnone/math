@@ -4,6 +4,7 @@
 
 #### **Created**
 
+- 2026-11-24&nbsp;&nbsp; [互信息与 KL 散度](/0086_信息论_互信息与KL散度)&nbsp;&nbsp; :bookmark:信息论 :bookmark:互信息与KL散度
 - 2026-11-24&nbsp;&nbsp; [熵](/0085_信息论_熵)&nbsp;&nbsp; :bookmark:信息论 :bookmark:熵
 - 2026-11-24&nbsp;&nbsp; [信息论](/0084_信息论)&nbsp;&nbsp; :bookmark:信息论
 - 2026-11-24&nbsp;&nbsp; [非凸优化](/0083_优化理论_非凸优化)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:非凸优化
@@ -90,6 +91,7 @@
 
 #### **Updated**
 
+- 2026-11-24&nbsp;&nbsp; [互信息与 KL 散度](/0086_信息论_互信息与KL散度)&nbsp;&nbsp; :bookmark:信息论 :bookmark:互信息与KL散度
 - 2026-11-24&nbsp;&nbsp; [熵](/0085_信息论_熵)&nbsp;&nbsp; :bookmark:信息论 :bookmark:熵
 - 2026-11-24&nbsp;&nbsp; [信息论](/0084_信息论)&nbsp;&nbsp; :bookmark:信息论
 - 2026-11-24&nbsp;&nbsp; [非凸优化](/0083_优化理论_非凸优化)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:非凸优化
