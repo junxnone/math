@@ -6,6 +6,7 @@
 
 - 2026-11-24&nbsp;&nbsp; [非凸优化](/0083_优化理论_非凸优化)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:非凸优化
 - 2026-11-24&nbsp;&nbsp; [一阶方法与随机梯度](/0081_优化理论_一阶方法与随机梯度)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:一阶方法与随机梯度
+- 2026-11-24&nbsp;&nbsp; [优化理论](/0076_优化理论)&nbsp;&nbsp; :bookmark:优化理论
 - 2026-11-24&nbsp;&nbsp; [重采样与非参数方法](/0075_数理统计_重采样与非参数方法)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:重采样与非参数方法
 - 2026-11-24&nbsp;&nbsp; [贝叶斯统计](/0074_数理统计_贝叶斯统计)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:贝叶斯统计
 - 2026-11-24&nbsp;&nbsp; [回归分析](/0073_数理统计_回归分析)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:回归分析
@@ -84,6 +85,7 @@
 
 - 2026-11-24&nbsp;&nbsp; [非凸优化](/0083_优化理论_非凸优化)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:非凸优化
 - 2026-11-24&nbsp;&nbsp; [一阶方法与随机梯度](/0081_优化理论_一阶方法与随机梯度)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:一阶方法与随机梯度
+- 2026-11-24&nbsp;&nbsp; [优化理论](/0076_优化理论)&nbsp;&nbsp; :bookmark:优化理论
 - 2026-11-24&nbsp;&nbsp; [重采样与非参数方法](/0075_数理统计_重采样与非参数方法)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:重采样与非参数方法
 - 2026-11-24&nbsp;&nbsp; [贝叶斯统计](/0074_数理统计_贝叶斯统计)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:贝叶斯统计
 - 2026-11-24&nbsp;&nbsp; [回归分析](/0073_数理统计_回归分析)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:回归分析

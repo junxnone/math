@@ -64,6 +64,15 @@
       "childLinks": []
     },
     {
+      "id": "math 优化理论",
+      "group": 1,
+      "title": "优化理论",
+      "url": "https://junxnone.github.io/math/#/0076_优化理论",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Vector",
       "group": 2,
       "title": "向量",
@@ -729,6 +738,13 @@
       "expand": true
     },
     {
+      "source": "math",
+      "target": "math 优化理论",
+      "value": 1,
+      "visible": true,
+      "expand": true
+    },
+    {
       "source": "math Math",
       "target": "math Math GaussianDistribution",
       "value": 2,
@@ -1095,6 +1111,20 @@
     {
       "source": "math 数理统计",
       "target": "math 数理统计 重采样与非参数方法",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 优化理论",
+      "target": "math 优化理论 一阶方法与随机梯度",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 优化理论",
+      "target": "math 优化理论 非凸优化",
       "value": 2,
       "visible": true,
       "expand": true
