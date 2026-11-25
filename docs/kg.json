@@ -1000,6 +1000,15 @@
       "childLinks": []
     },
     {
+      "id": "math 图论 图神经网络基础",
+      "group": 2,
+      "title": "图神经网络基础",
+      "url": "https://junxnone.github.io/math/#/0127_图论_图神经网络基础",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Matrix 克罗内克积",
       "group": 3,
       "title": "克罗内克积",
@@ -1396,6 +1405,13 @@
     {
       "source": "math 图论",
       "target": "math 图论 随机图与复杂网络",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 图论",
+      "target": "math 图论 图神经网络基础",
       "value": 2,
       "visible": true,
       "expand": true

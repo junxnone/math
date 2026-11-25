@@ -4,6 +4,7 @@
 
 #### **Created**
 
+- 2026-11-25&nbsp;&nbsp; [图神经网络基础](/0127_图论_图神经网络基础)&nbsp;&nbsp; :bookmark:图论 :bookmark:图神经网络基础
 - 2026-11-25&nbsp;&nbsp; [随机图与复杂网络](/0126_图论_随机图与复杂网络)&nbsp;&nbsp; :bookmark:图论 :bookmark:随机图与复杂网络
 - 2026-11-25&nbsp;&nbsp; [NP难问题](/0125_图论_NP难问题)&nbsp;&nbsp; :bookmark:图论 :bookmark:NP难问题
 - 2026-11-25&nbsp;&nbsp; [谱图论](/0124_图论_谱图论)&nbsp;&nbsp; :bookmark:图论 :bookmark:谱图论
@@ -131,6 +132,7 @@
 
 #### **Updated**
 
+- 2026-11-25&nbsp;&nbsp; [图神经网络基础](/0127_图论_图神经网络基础)&nbsp;&nbsp; :bookmark:图论 :bookmark:图神经网络基础
 - 2026-11-25&nbsp;&nbsp; [随机图与复杂网络](/0126_图论_随机图与复杂网络)&nbsp;&nbsp; :bookmark:图论 :bookmark:随机图与复杂网络
 - 2026-11-25&nbsp;&nbsp; [NP难问题](/0125_图论_NP难问题)&nbsp;&nbsp; :bookmark:图论 :bookmark:NP难问题
 - 2026-11-25&nbsp;&nbsp; [谱图论](/0124_图论_谱图论)&nbsp;&nbsp; :bookmark:图论 :bookmark:谱图论
