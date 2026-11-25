@@ -703,6 +703,15 @@
       "childLinks": []
     },
     {
+      "id": "math 离散数学 组合计数",
+      "group": 2,
+      "title": "组合计数",
+      "url": "https://junxnone.github.io/math/#/0094_离散数学_组合计数",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Matrix 克罗内克积",
       "group": 3,
       "title": "克罗内克积",
@@ -1365,6 +1374,13 @@
     {
       "source": "math 离散数学",
       "target": "math 离散数学 命题逻辑",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 离散数学",
+      "target": "math 离散数学 组合计数",
       "value": 2,
       "visible": true,
       "expand": true
