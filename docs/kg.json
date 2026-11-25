@@ -577,6 +577,15 @@
       "childLinks": []
     },
     {
+      "id": "math 优化理论 线性规划",
+      "group": 2,
+      "title": "线性规划",
+      "url": "https://junxnone.github.io/math/#/0080_优化理论_线性规划",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 优化理论 一阶方法与随机梯度",
       "group": 2,
       "title": "一阶方法与随机梯度",
@@ -1159,6 +1168,13 @@
     {
       "source": "math 优化理论",
       "target": "math 优化理论 约束优化与对偶",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 优化理论",
+      "target": "math 优化理论 线性规划",
       "value": 2,
       "visible": true,
       "expand": true
