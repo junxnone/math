@@ -3,7 +3,7 @@
 | Title     | 线性代数 Matrix 迹                                      |
 | --------- | -------------------------------------------------- |
 | Created @ | `2026-11-24T10:06:42Z`                             |
-| Updated @ | `2026-11-24T10:06:42Z`                             |
+| Updated @ | `2026-11-25T09:15:03Z`                             |
 | Labels    | \`\`                                               |
 | Edit @    | [here](https://github.com/junxnone/math/issues/37) |
 
@@ -60,7 +60,7 @@ $$
 $$ \\operatorname{tr}(A)=\\sum\_{i=1}^{n}\\lambda\_i $$
 
 其中 $\\lambda\_i$ 是 $A$ 的全部特征值（计重数，见
-[特征值与特征向量](https://github.com/junxnone/math/issues/36)）。推导思路：对角化
+[特征值与特征向量](/0036_线性代数_特征值与特征向量)）。推导思路：对角化
 $A=P\\Lambda P^{-1}$ 后，由相似不变性
 $\\operatorname{tr}(A)=\\operatorname{tr}(\\Lambda)=\\sum\\lambda\_i$；对不可对角化的矩阵，通过特征多项式的系数同样成立。
 
@@ -70,8 +70,7 @@ $$ |A|*F^2=\\sum*{i,j}a\_{ij}^2=\\operatorname{tr}(A^\\top A) $$
 
 其中：
 
-  - $|A|\_F$：Frobenius 范数，把矩阵拉直后的 $L\_2$ 范数（范数见
-    [norm](https://github.com/junxnone/math/issues/11)）
+  - $|A|\_F$：Frobenius 范数，把矩阵拉直后的 $L\_2$ 范数（范数见 [norm](/0011_线性代数_norm)）
   - $A\\in\\mathbb{R}^{m\\times n}$：任意矩阵
   - 证明：$(A^\\top A)*{jj}=\\sum\_i a*{ij}^2$，对 $j$ 求和即得
   - 因此 $|A|\_F^2$ 也等于 $A^\\top A$ 的全部特征值之和，即所有奇异值平方和
@@ -90,7 +89,7 @@ A\\mathbf{x})=\\operatorname{tr}(A\\mathbf{x}\\mathbf{x}^\\top) $$
   - $\\mathbf{x}^\\top A\\mathbf{x}$：一个标量
   - $\\mathbf{x}\\mathbf{x}^\\top$：外积，$n\\times n$ 的矩阵
   - 该技巧常用于把对样本求和的式子转化为协方差矩阵的迹，例如高斯分布的对数似然（见 [Gaussian
-    Distribution](https://github.com/junxnone/math/issues/5)）
+    Distribution](/0005_Math_GaussianDistribution)）
 
 迹的常用矩阵求导公式（梯度与 $X$ 同形）：
 
@@ -107,7 +106,7 @@ X}=(A+A^\\top)X $$
   - 协方差矩阵的迹等于总方差，PCA 中用“保留特征值之和 / 迹”衡量信息保留比例
   - 旋转矩阵 $R$ 的迹与旋转角满足
     $\\operatorname{tr}(R)=1+2\\cos\\theta$（三维），可由旋转矩阵反求旋转角（见
-    [Quaternion](https://github.com/junxnone/math/issues/16)）
+    [Quaternion](/0016_Math_Quaternion)）
 
 ## Reference
 
