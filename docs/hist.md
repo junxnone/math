@@ -132,6 +132,13 @@
 
 #### **Updated**
 
+- 2026-11-27 09:58&nbsp;&nbsp; [递推与生成函数](/0097_离散数学_递推与生成函数)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:递推与生成函数
+- 2026-11-27 09:58&nbsp;&nbsp; [数论基础](/0096_离散数学_数论基础)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:数论基础
+- 2026-11-27 09:58&nbsp;&nbsp; [组合计数](/0094_离散数学_组合计数)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:组合计数
+- 2026-11-27 09:58&nbsp;&nbsp; [命题逻辑](/0093_离散数学_命题逻辑)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:命题逻辑
+- 2026-11-27 09:58&nbsp;&nbsp; [集合与关系](/0092_离散数学_集合与关系)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:集合与关系
+- 2026-11-27 09:58&nbsp;&nbsp; [信道容量](/0089_信息论_信道容量)&nbsp;&nbsp; :bookmark:信息论 :bookmark:信道容量
+- 2026-11-27 09:57&nbsp;&nbsp; [信源编码](/0088_信息论_信源编码)&nbsp;&nbsp; :bookmark:信息论 :bookmark:信源编码
 - 2026-11-27 09:56&nbsp;&nbsp; [最大熵原理](/0090_信息论_最大熵原理)&nbsp;&nbsp; :bookmark:信息论 :bookmark:最大熵原理
 - 2026-11-27 09:56&nbsp;&nbsp; [交叉熵与损失函数](/0087_信息论_交叉熵与损失函数)&nbsp;&nbsp; :bookmark:信息论 :bookmark:交叉熵与损失函数
 - 2026-11-27 09:56&nbsp;&nbsp; [互信息与 KL 散度](/0086_信息论_互信息与KL散度)&nbsp;&nbsp; :bookmark:信息论 :bookmark:互信息与KL散度
@@ -192,8 +199,6 @@
 - 2026-11-27 09:44&nbsp;&nbsp; [插值与拟合](/0110_数值计算_插值与拟合)&nbsp;&nbsp; :bookmark:数值计算 :bookmark:插值与拟合
 - 2026-11-27 09:44&nbsp;&nbsp; [滤波器](/0104_信号与傅里叶变换_滤波器)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:滤波器
 - 2026-11-27 09:44&nbsp;&nbsp; [卷积](/0100_信号与傅里叶变换_卷积)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:卷积
-- 2026-11-27 09:44&nbsp;&nbsp; [递推与生成函数](/0097_离散数学_递推与生成函数)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:递推与生成函数
-- 2026-11-27 09:44&nbsp;&nbsp; [组合计数](/0094_离散数学_组合计数)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:组合计数
 - 2026-11-27 09:44&nbsp;&nbsp; [离散数学](/0091_离散数学)&nbsp;&nbsp; :bookmark:离散数学
 - 2026-11-27 09:43&nbsp;&nbsp; [优化理论](/0076_优化理论)&nbsp;&nbsp; :bookmark:优化理论
 - 2026-11-27 09:43&nbsp;&nbsp; [概率论](/0059_概率论)&nbsp;&nbsp; :bookmark:概率论
@@ -246,12 +251,7 @@
 - 2026-11-25 17:50&nbsp;&nbsp; [连续傅里叶变换](/0101_信号与傅里叶变换_连续傅里叶变换)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:连续傅里叶变换
 - 2026-11-25 17:50&nbsp;&nbsp; [信号与线性系统](/0099_信号与傅里叶变换_信号与线性系统)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:信号与线性系统
 - 2026-11-25 17:50&nbsp;&nbsp; [信号与傅里叶变换](/0098_信号与傅里叶变换)&nbsp;&nbsp; :bookmark:信号与傅里叶变换
-- 2026-11-25 17:49&nbsp;&nbsp; [数论基础](/0096_离散数学_数论基础)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:数论基础
 - 2026-11-25 17:49&nbsp;&nbsp; [代数结构](/0095_离散数学_代数结构)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:代数结构
-- 2026-11-25 17:49&nbsp;&nbsp; [命题逻辑](/0093_离散数学_命题逻辑)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:命题逻辑
-- 2026-11-25 17:47&nbsp;&nbsp; [集合与关系](/0092_离散数学_集合与关系)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:集合与关系
-- 2026-11-25 17:47&nbsp;&nbsp; [信道容量](/0089_信息论_信道容量)&nbsp;&nbsp; :bookmark:信息论 :bookmark:信道容量
-- 2026-11-25 17:47&nbsp;&nbsp; [信源编码](/0088_信息论_信源编码)&nbsp;&nbsp; :bookmark:信息论 :bookmark:信源编码
 - 2026-11-25 17:46&nbsp;&nbsp; [信息论](/0084_信息论)&nbsp;&nbsp; :bookmark:信息论
 - 2026-11-25 17:41&nbsp;&nbsp; [数理统计](/0068_数理统计)&nbsp;&nbsp; :bookmark:数理统计
 - 2026-11-25 17:09&nbsp;&nbsp; [二分图(Bipartite Graph)](/0023_图论_二分图)&nbsp;&nbsp; :bookmark:图论 :bookmark:二分图
