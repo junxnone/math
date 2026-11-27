@@ -3,7 +3,7 @@
 | Title     | 线性代数 Matrix 矩阵分解                                   |
 | --------- | -------------------------------------------------- |
 | Created @ | `2026-11-24T14:42:16Z`                             |
-| Updated @ | `2026-11-25T09:20:45Z`                             |
+| Updated @ | `2026-11-27T01:42:40Z`                             |
 | Labels    | \`\`                                               |
 | Edit @    | [here](https://github.com/junxnone/math/issues/40) |
 
@@ -74,7 +74,7 @@ $$
 验证：$1\\cdot2=2$，$1^2+(\\sqrt2)^2=3$。
 
 应用：协方差矩阵的求解、高斯分布采样（$\\mathbf{x}=\\boldsymbol\\mu+L\\mathbf{z}$，$\\mathbf{z}\\sim\\mathcal
-N(0,I)$，见 [Gaussian Distribution](/0005_Math_GaussianDistribution)）。
+N(0,I)$，见 [Gaussian Distribution](/0005_概率论_常见分布_高斯分布进阶)）。
 
 ## 特征分解与 SVD
 
