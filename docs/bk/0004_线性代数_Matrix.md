@@ -3,13 +3,33 @@
 | Title     | 线性代数 Matrix                                       |
 | --------- | ------------------------------------------------- |
 | Created @ | `2022-04-19T11:36:53Z`                            |
-| Updated @ | `2026-11-25T09:07:44Z`                            |
+| Updated @ | `2026-11-27T01:46:11Z`                            |
 | Labels    | \`\`                                              |
 | Edit @    | [here](https://github.com/junxnone/math/issues/4) |
 
 -----
 
 # 矩阵
+
+矩阵是按行列排成的矩形数表，既是数据的容器（表格、图像、特征），也是**线性变换**的表示。线性代数的大部分内容都围绕矩阵展开。
+
+$$
+A=\\begin{bmatrix}a\_{11}\&a\_{12}&\\cdots\&a\_{1n}\\a\_{21}\&a\_{22}&\\cdots\&a\_{2n}\\\\vdots&\\vdots&\\ddots&\\vdots\\a\_{m1}\&a\_{m2}&\\cdots\&a\_{mn}\\end{bmatrix}\\in\\mathbb{R}^{m\\times
+n} $$
+
+其中：$m$ 为行数，$n$ 为列数；$a\_{ij}$ 为第 $i$ 行第 $j$ 列的元素；$m=n$ 时称为方阵。
+
+## 知识地图
+
+``` mermaid
+flowchart LR
+    M[矩阵] --> D[定义与基本量 转置 逆 秩 迹 行列式]
+    M --> O[运算 加减 乘积 哈达玛积 克罗内克积]
+    M --> F[性质与结构 对称 正交 正定]
+    M --> A[分解与应用 LU QR 特征值 SVD]
+```
+
+图中：矩阵相关的文章按「基本量、运算、特殊结构、分解与应用」四条线组织，下面各节给出对应链接。
 
 ## 定义
 
@@ -20,6 +40,18 @@
   - 迹
   - 雅可比行列式 - Jacobi
 
+| 基本量   | 记号                        | 含义              | 文章                                                  |
+| ----- | ------------------------- | --------------- | --------------------------------------------------- |
+| 转置    | $A^\\top$                 | 行列互换            | [矩阵转置](https://github.com/junxnone/math/issues/30)  |
+| 逆     | $A^{-1}$                  | $AA^{-1}=I$     | [矩阵的逆](https://github.com/junxnone/math/issues/31)  |
+| 秩     | $\\operatorname{rank}(A)$ | 线性无关行（列）的最大个数   | [矩阵的秩](https://github.com/junxnone/math/issues/29)  |
+| 迹     | $\\operatorname{tr}(A)$   | 对角线元素之和，等于特征值之和 | [迹](https://github.com/junxnone/math/issues/37)     |
+| 行列式   | $\\det A$                 | 变换的体积缩放因子       | [行列式](https://github.com/junxnone/math/issues/3)    |
+| 雅可比矩阵 | $J$                       | 多元向量函数的局部线性化    | [雅可比矩阵](https://github.com/junxnone/math/issues/44) |
+
+表中：对比结论：这些量从不同侧面刻画矩阵，可逆性可以由行列式非零、满秩、特征值非零等价地判断，见
+[矩阵的逆](https://github.com/junxnone/math/issues/31)。
+
 ## 运算
 
   - 加减
@@ -27,6 +59,37 @@
       - 矩阵乘积
       - 哈达玛乘积 Hadamard Product
       - 克罗内克积 Kronecker Product
+
+| 运算    | 符号            | 要求              | 结果             | 文章                                                  |
+| ----- | ------------- | --------------- | -------------- | --------------------------------------------------- |
+| 加减    | $A\\pm B$     | 同形              | 同形，逐元素         |                                                     |
+| 数乘    | $kA$          | 无               | 同形             |                                                     |
+| 矩阵乘积  | $AB$          | $A$ 列数 = $B$ 行数 | $m\\times p$   | [矩阵乘积](https://github.com/junxnone/math/issues/27)  |
+| 哈达玛积  | $A\\circ B$   | 同形              | 同形，逐元素相乘       | [哈达玛乘积](https://github.com/junxnone/math/issues/28) |
+| 克罗内克积 | $A\\otimes B$ | 任意              | $mp\\times nq$ | [克罗内克积](https://github.com/junxnone/math/issues/26) |
+
+表中：对比结论：只有矩阵乘积对应线性变换的复合，其余是「逐元素」或「分块放大」的运算。
+
+## 特殊矩阵
+
+| 类型   | 条件                         | 性质                                                                  |
+| ---- | -------------------------- | ------------------------------------------------------------------- |
+| 对称矩阵 | $A=A^\\top$                | 特征值为实数，可正交对角化                                                       |
+| 正交矩阵 | $A^\\top A=I$              | 保长度、保夹角，见 [正交矩阵](https://github.com/junxnone/math/issues/32)        |
+| 对角矩阵 | 非对角元素为 0                   | 乘法、求逆、幂都很简单                                                         |
+| 三角矩阵 | 对角线以下（或以上）为 0              | 行列式为对角线元素之积；LU 分解的基本形状                                              |
+| 正定矩阵 | $x^\\top Ax\>0\\ (x\\ne0)$ | 对应二次型的「碗形」，见 [对称正定与二次型](https://github.com/junxnone/math/issues/41) |
+| 置换矩阵 | 每行每列恰有一个 1                 | 交换行或列，是正交矩阵                                                         |
+| 幂等矩阵 | $A^2=A$                    | 投影矩阵，见 [投影](https://github.com/junxnone/math/issues/42)             |
+
+表中：对比结论：特殊结构让计算更简单、性质更好，矩阵分解的目标就是把一般矩阵化为这些特殊形式的乘积，见
+[矩阵分解](https://github.com/junxnone/math/issues/40)。
+
+## 矩阵的两种角色
+
+  - **数据**：$m$ 个样本、$n$ 个特征的数据矩阵；图像是像素矩阵；邻接矩阵表示图
+  - **变换**：$x\\mapsto Ax$ 把向量线性地映射到另一个空间，矩阵乘积就是变换的复合，见
+    [线性变换](https://github.com/junxnone/math/issues/39)
 
 ## 相关文章
 
