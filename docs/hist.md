@@ -132,6 +132,16 @@
 
 #### **Updated**
 
+- 2026-11-27 09:54&nbsp;&nbsp; [凸集与凸函数](/0077_优化理论_凸集与凸函数)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:凸集与凸函数
+- 2026-11-27 09:54&nbsp;&nbsp; [重采样与非参数方法](/0075_数理统计_重采样与非参数方法)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:重采样与非参数方法
+- 2026-11-27 09:54&nbsp;&nbsp; [贝叶斯统计](/0074_数理统计_贝叶斯统计)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:贝叶斯统计
+- 2026-11-27 09:54&nbsp;&nbsp; [回归分析](/0073_数理统计_回归分析)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:回归分析
+- 2026-11-27 09:54&nbsp;&nbsp; [假设检验](/0072_数理统计_假设检验)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:假设检验
+- 2026-11-27 09:54&nbsp;&nbsp; [区间估计](/0071_数理统计_区间估计)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:区间估计
+- 2026-11-27 09:54&nbsp;&nbsp; [点估计](/0070_数理统计_点估计)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:点估计
+- 2026-11-27 09:54&nbsp;&nbsp; [抽样与统计量](/0069_数理统计_抽样与统计量)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:抽样与统计量
+- 2026-11-27 09:54&nbsp;&nbsp; [随机过程初步](/0067_概率论_随机过程初步)&nbsp;&nbsp; :bookmark:概率论 :bookmark:随机过程初步
+- 2026-11-27 09:54&nbsp;&nbsp; [大数定律与中心极限定理](/0066_概率论_大数定律与中心极限定理)&nbsp;&nbsp; :bookmark:概率论 :bookmark:大数定律与中心极限定理
 - 2026-11-27 09:53&nbsp;&nbsp; [多维随机变量与协方差](/0065_概率论_多维随机变量与协方差)&nbsp;&nbsp; :bookmark:概率论 :bookmark:多维随机变量与协方差
 - 2026-11-27 09:53&nbsp;&nbsp; [期望方差与矩](/0064_概率论_期望方差与矩)&nbsp;&nbsp; :bookmark:概率论 :bookmark:期望方差与矩
 - 2026-11-27 09:53&nbsp;&nbsp; [常见分布](/0063_概率论_常见分布)&nbsp;&nbsp; :bookmark:概率论 :bookmark:常见分布
@@ -180,10 +190,6 @@
 - 2026-11-27 09:43&nbsp;&nbsp; [非凸优化](/0083_优化理论_非凸优化)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:非凸优化
 - 2026-11-27 09:43&nbsp;&nbsp; [约束优化与对偶](/0079_优化理论_约束优化与对偶)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:约束优化与对偶
 - 2026-11-27 09:43&nbsp;&nbsp; [优化理论](/0076_优化理论)&nbsp;&nbsp; :bookmark:优化理论
-- 2026-11-27 09:43&nbsp;&nbsp; [贝叶斯统计](/0074_数理统计_贝叶斯统计)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:贝叶斯统计
-- 2026-11-27 09:43&nbsp;&nbsp; [回归分析](/0073_数理统计_回归分析)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:回归分析
-- 2026-11-27 09:43&nbsp;&nbsp; [抽样与统计量](/0069_数理统计_抽样与统计量)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:抽样与统计量
-- 2026-11-27 09:43&nbsp;&nbsp; [随机过程初步](/0067_概率论_随机过程初步)&nbsp;&nbsp; :bookmark:概率论 :bookmark:随机过程初步
 - 2026-11-27 09:43&nbsp;&nbsp; [概率论](/0059_概率论)&nbsp;&nbsp; :bookmark:概率论
 - 2026-11-27 09:42&nbsp;&nbsp; [微积分](/0048_微积分)&nbsp;&nbsp; :bookmark:微积分
 - 2026-11-27 09:42&nbsp;&nbsp; [线性代数](/0025_线性代数)&nbsp;&nbsp; :bookmark:线性代数
@@ -247,13 +253,7 @@
 - 2026-11-25 17:44&nbsp;&nbsp; [一阶方法与随机梯度](/0081_优化理论_一阶方法与随机梯度)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:一阶方法与随机梯度
 - 2026-11-25 17:44&nbsp;&nbsp; [线性规划](/0080_优化理论_线性规划)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:线性规划
 - 2026-11-25 17:44&nbsp;&nbsp; [无约束优化](/0078_优化理论_无约束优化)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:无约束优化
-- 2026-11-25 17:43&nbsp;&nbsp; [凸集与凸函数](/0077_优化理论_凸集与凸函数)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:凸集与凸函数
-- 2026-11-25 17:43&nbsp;&nbsp; [重采样与非参数方法](/0075_数理统计_重采样与非参数方法)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:重采样与非参数方法
-- 2026-11-25 17:41&nbsp;&nbsp; [假设检验](/0072_数理统计_假设检验)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:假设检验
-- 2026-11-25 17:41&nbsp;&nbsp; [区间估计](/0071_数理统计_区间估计)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:区间估计
-- 2026-11-25 17:41&nbsp;&nbsp; [点估计](/0070_数理统计_点估计)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:点估计
 - 2026-11-25 17:41&nbsp;&nbsp; [数理统计](/0068_数理统计)&nbsp;&nbsp; :bookmark:数理统计
-- 2026-11-25 17:40&nbsp;&nbsp; [大数定律与中心极限定理](/0066_概率论_大数定律与中心极限定理)&nbsp;&nbsp; :bookmark:概率论 :bookmark:大数定律与中心极限定理
 - 2026-11-25 17:09&nbsp;&nbsp; [二分图(Bipartite Graph)](/0023_图论_二分图)&nbsp;&nbsp; :bookmark:图论 :bookmark:二分图
 - 2026-11-25 17:09&nbsp;&nbsp; [图论 (Graph theory)](/0022_图论)&nbsp;&nbsp; :bookmark:图论
 - 2026-11-25 17:09&nbsp;&nbsp; [SVD](/0012_线性代数_SVD)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:SVD
