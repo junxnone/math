@@ -132,6 +132,16 @@
 
 #### **Updated**
 
+- 2026-11-27 09:53&nbsp;&nbsp; [多维随机变量与协方差](/0065_概率论_多维随机变量与协方差)&nbsp;&nbsp; :bookmark:概率论 :bookmark:多维随机变量与协方差
+- 2026-11-27 09:53&nbsp;&nbsp; [期望方差与矩](/0064_概率论_期望方差与矩)&nbsp;&nbsp; :bookmark:概率论 :bookmark:期望方差与矩
+- 2026-11-27 09:53&nbsp;&nbsp; [常见分布](/0063_概率论_常见分布)&nbsp;&nbsp; :bookmark:概率论 :bookmark:常见分布
+- 2026-11-27 09:53&nbsp;&nbsp; [随机变量与分布](/0062_概率论_随机变量与分布)&nbsp;&nbsp; :bookmark:概率论 :bookmark:随机变量与分布
+- 2026-11-27 09:52&nbsp;&nbsp; [条件概率与贝叶斯](/0061_概率论_条件概率与贝叶斯)&nbsp;&nbsp; :bookmark:概率论 :bookmark:条件概率与贝叶斯
+- 2026-11-27 09:52&nbsp;&nbsp; [概率空间与公理](/0060_概率论_概率空间与公理)&nbsp;&nbsp; :bookmark:概率论 :bookmark:概率空间与公理
+- 2026-11-27 09:52&nbsp;&nbsp; [极值与拉格朗日乘数](/0058_微积分_极值与拉格朗日乘数)&nbsp;&nbsp; :bookmark:微积分 :bookmark:极值与拉格朗日乘数
+- 2026-11-27 09:52&nbsp;&nbsp; [常微分方程](/0057_微积分_常微分方程)&nbsp;&nbsp; :bookmark:微积分 :bookmark:常微分方程
+- 2026-11-27 09:52&nbsp;&nbsp; [曲线曲面积分与场论](/0056_微积分_曲线曲面积分与场论)&nbsp;&nbsp; :bookmark:微积分 :bookmark:曲线曲面积分与场论
+- 2026-11-27 09:52&nbsp;&nbsp; [重积分](/0055_微积分_重积分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:重积分
 - 2026-11-27 09:51&nbsp;&nbsp; [多元函数微分](/0054_微积分_多元函数微分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:多元函数微分
 - 2026-11-27 09:51&nbsp;&nbsp; [级数](/0053_微积分_级数)&nbsp;&nbsp; :bookmark:微积分 :bookmark:级数
 - 2026-11-27 09:51&nbsp;&nbsp; [积分](/0052_微积分_积分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:积分
@@ -174,11 +184,7 @@
 - 2026-11-27 09:43&nbsp;&nbsp; [回归分析](/0073_数理统计_回归分析)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:回归分析
 - 2026-11-27 09:43&nbsp;&nbsp; [抽样与统计量](/0069_数理统计_抽样与统计量)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:抽样与统计量
 - 2026-11-27 09:43&nbsp;&nbsp; [随机过程初步](/0067_概率论_随机过程初步)&nbsp;&nbsp; :bookmark:概率论 :bookmark:随机过程初步
-- 2026-11-27 09:43&nbsp;&nbsp; [多维随机变量与协方差](/0065_概率论_多维随机变量与协方差)&nbsp;&nbsp; :bookmark:概率论 :bookmark:多维随机变量与协方差
-- 2026-11-27 09:43&nbsp;&nbsp; [常见分布](/0063_概率论_常见分布)&nbsp;&nbsp; :bookmark:概率论 :bookmark:常见分布
-- 2026-11-27 09:43&nbsp;&nbsp; [条件概率与贝叶斯](/0061_概率论_条件概率与贝叶斯)&nbsp;&nbsp; :bookmark:概率论 :bookmark:条件概率与贝叶斯
 - 2026-11-27 09:43&nbsp;&nbsp; [概率论](/0059_概率论)&nbsp;&nbsp; :bookmark:概率论
-- 2026-11-27 09:43&nbsp;&nbsp; [重积分](/0055_微积分_重积分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:重积分
 - 2026-11-27 09:42&nbsp;&nbsp; [微积分](/0048_微积分)&nbsp;&nbsp; :bookmark:微积分
 - 2026-11-27 09:42&nbsp;&nbsp; [线性代数](/0025_线性代数)&nbsp;&nbsp; :bookmark:线性代数
 - 2026-11-27 09:42&nbsp;&nbsp; [高斯滤波器进阶](/0021_信号与傅里叶变换_滤波器_高斯滤波器进阶)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:滤波器 :bookmark:高斯滤波器进阶
@@ -248,12 +254,6 @@
 - 2026-11-25 17:41&nbsp;&nbsp; [点估计](/0070_数理统计_点估计)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:点估计
 - 2026-11-25 17:41&nbsp;&nbsp; [数理统计](/0068_数理统计)&nbsp;&nbsp; :bookmark:数理统计
 - 2026-11-25 17:40&nbsp;&nbsp; [大数定律与中心极限定理](/0066_概率论_大数定律与中心极限定理)&nbsp;&nbsp; :bookmark:概率论 :bookmark:大数定律与中心极限定理
-- 2026-11-25 17:40&nbsp;&nbsp; [期望方差与矩](/0064_概率论_期望方差与矩)&nbsp;&nbsp; :bookmark:概率论 :bookmark:期望方差与矩
-- 2026-11-25 17:38&nbsp;&nbsp; [随机变量与分布](/0062_概率论_随机变量与分布)&nbsp;&nbsp; :bookmark:概率论 :bookmark:随机变量与分布
-- 2026-11-25 17:38&nbsp;&nbsp; [概率空间与公理](/0060_概率论_概率空间与公理)&nbsp;&nbsp; :bookmark:概率论 :bookmark:概率空间与公理
-- 2026-11-25 17:38&nbsp;&nbsp; [极值与拉格朗日乘数](/0058_微积分_极值与拉格朗日乘数)&nbsp;&nbsp; :bookmark:微积分 :bookmark:极值与拉格朗日乘数
-- 2026-11-25 17:37&nbsp;&nbsp; [常微分方程](/0057_微积分_常微分方程)&nbsp;&nbsp; :bookmark:微积分 :bookmark:常微分方程
-- 2026-11-25 17:36&nbsp;&nbsp; [曲线曲面积分与场论](/0056_微积分_曲线曲面积分与场论)&nbsp;&nbsp; :bookmark:微积分 :bookmark:曲线曲面积分与场论
 - 2026-11-25 17:09&nbsp;&nbsp; [二分图(Bipartite Graph)](/0023_图论_二分图)&nbsp;&nbsp; :bookmark:图论 :bookmark:二分图
 - 2026-11-25 17:09&nbsp;&nbsp; [图论 (Graph theory)](/0022_图论)&nbsp;&nbsp; :bookmark:图论
 - 2026-11-25 17:09&nbsp;&nbsp; [SVD](/0012_线性代数_SVD)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:SVD
