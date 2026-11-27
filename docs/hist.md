@@ -125,7 +125,7 @@
 - 2021-03-26 14:06&nbsp;&nbsp; [拉格朗日乘数法进阶](/0019_微积分_极值与拉格朗日乘数_拉格朗日乘数法进阶)&nbsp;&nbsp; :bookmark:微积分 :bookmark:极值与拉格朗日乘数 :bookmark:拉格朗日乘数法进阶
 - 2021-03-22 16:23&nbsp;&nbsp; [高斯分布进阶](/0005_概率论_常见分布_高斯分布进阶)&nbsp;&nbsp; :bookmark:概率论 :bookmark:常见分布 :bookmark:高斯分布进阶
 - 2020-09-17 17:05&nbsp;&nbsp; [高斯滤波器进阶](/0021_信号与傅里叶变换_滤波器_高斯滤波器进阶)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:滤波器 :bookmark:高斯滤波器进阶
-- 2020-07-15 09:58&nbsp;&nbsp; [Gaussian Process 高斯过程](/0020_Math_GaussianProcess)&nbsp;&nbsp; :bookmark:Math :bookmark:GaussianProcess
+- 2020-07-15 09:58&nbsp;&nbsp; [高斯过程进阶](/0020_概率论_随机过程初步_高斯过程进阶)&nbsp;&nbsp; :bookmark:概率论 :bookmark:随机过程初步 :bookmark:高斯过程进阶
 - 2020-07-14 14:08&nbsp;&nbsp; [贝叶斯推断进阶](/0008_概率论_条件概率与贝叶斯_贝叶斯推断进阶)&nbsp;&nbsp; :bookmark:概率论 :bookmark:条件概率与贝叶斯 :bookmark:贝叶斯推断进阶
 - 2019-08-05 14:44&nbsp;&nbsp; [norm 范数](/0011_线性代数_norm)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:norm
 - 2018-09-04 06:49&nbsp;&nbsp; [SVD](/0012_线性代数_SVD)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:SVD
@@ -133,6 +133,7 @@
 #### **Updated**
 
 - 2026-11-27 09:42&nbsp;&nbsp; [高斯滤波器进阶](/0021_信号与傅里叶变换_滤波器_高斯滤波器进阶)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:滤波器 :bookmark:高斯滤波器进阶
+- 2026-11-27 09:42&nbsp;&nbsp; [高斯过程进阶](/0020_概率论_随机过程初步_高斯过程进阶)&nbsp;&nbsp; :bookmark:概率论 :bookmark:随机过程初步 :bookmark:高斯过程进阶
 - 2026-11-27 09:42&nbsp;&nbsp; [拉格朗日乘数法进阶](/0019_微积分_极值与拉格朗日乘数_拉格朗日乘数法进阶)&nbsp;&nbsp; :bookmark:微积分 :bookmark:极值与拉格朗日乘数 :bookmark:拉格朗日乘数法进阶
 - 2026-11-27 09:42&nbsp;&nbsp; [马尔可夫过程进阶](/0018_概率论_随机过程初步_马尔可夫过程进阶)&nbsp;&nbsp; :bookmark:概率论 :bookmark:随机过程初步 :bookmark:马尔可夫过程进阶
 - 2026-11-27 09:41&nbsp;&nbsp; [四叉树与八叉树进阶](/0017_图论_树_四叉树与八叉树进阶)&nbsp;&nbsp; :bookmark:图论 :bookmark:树 :bookmark:四叉树与八叉树进阶
@@ -255,7 +256,6 @@
 - 2026-11-25 17:07&nbsp;&nbsp; [矩阵](/0004_线性代数_Matrix)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix
 - 2026-11-25 17:06&nbsp;&nbsp; [数学基础](/0001_Math)&nbsp;&nbsp; :bookmark:Math
 - 2024-12-30 11:26&nbsp;&nbsp; [线性相关和线性无关](/0024_线性代数_线性相关无关)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:线性相关无关
-- 2024-09-17 01:28&nbsp;&nbsp; [Gaussian Process 高斯过程](/0020_Math_GaussianProcess)&nbsp;&nbsp; :bookmark:Math :bookmark:GaussianProcess
 - 2024-09-17 01:27&nbsp;&nbsp; [Stochastic process 随机过程](/0013_Math_SC)&nbsp;&nbsp; :bookmark:Math :bookmark:SC
 
 <!-- tabs:end -->

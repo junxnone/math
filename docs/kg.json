@@ -163,15 +163,6 @@
       "childLinks": []
     },
     {
-      "id": "math Math GaussianProcess",
-      "group": 2,
-      "title": "Gaussian Process 高斯过程",
-      "url": "https://junxnone.github.io/math/#/0020_Math_GaussianProcess",
-      "visible": true,
-      "expand": true,
-      "childLinks": []
-    },
-    {
       "id": "math 图论 二分图",
       "group": 2,
       "title": "二分图(Bipartite Graph)",
@@ -1000,6 +991,15 @@
       "childLinks": []
     },
     {
+      "id": "math 概率论 随机过程初步 高斯过程进阶",
+      "group": 3,
+      "title": "高斯过程进阶",
+      "url": "https://junxnone.github.io/math/#/0020_概率论_随机过程初步_高斯过程进阶",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 信号与傅里叶变换 滤波器 高斯滤波器进阶",
       "group": 3,
       "title": "高斯滤波器进阶",
@@ -1216,13 +1216,6 @@
     {
       "source": "math Math",
       "target": "math Math SC",
-      "value": 2,
-      "visible": true,
-      "expand": true
-    },
-    {
-      "source": "math Math",
-      "target": "math Math GaussianProcess",
       "value": 2,
       "visible": true,
       "expand": true
@@ -1965,6 +1958,13 @@
     {
       "source": "math 概率论 随机过程初步",
       "target": "math 概率论 随机过程初步 马尔可夫过程进阶",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 概率论 随机过程初步",
+      "target": "math 概率论 随机过程初步 高斯过程进阶",
       "value": 3,
       "visible": true,
       "expand": true
