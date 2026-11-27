@@ -2,7 +2,7 @@
 Title | 线性代数 Matrix 矩阵分解
 -- | --
 Created @ | `2026-11-24T14:42:16Z`
-Updated @| `2026-11-27T01:42:40Z`
+Updated @| `2026-11-27T01:48:58Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/math/issues/40)
 
@@ -108,10 +108,20 @@ flowchart TD
 
 表中依次为分解名称、适用矩阵、近似浮点运算量（$n$ 阶方阵）和典型用途。结论：越特殊的矩阵结构，分解越便宜。
 
+## 在机器学习中的作用
+
+- Cholesky 分解：高斯过程、多元高斯采样（用 $\Sigma=LL^\top$ 把标准正态变成协方差为 $\Sigma$ 的样本），见 [高斯过程进阶](https://github.com/junxnone/math/issues/20)、[高斯分布进阶](https://github.com/junxnone/math/issues/5)
+- QR 分解：数值稳定的最小二乘求解，见 [最小二乘进阶](https://github.com/junxnone/math/issues/6)
+- 特征分解 / SVD：PCA、低秩近似、推荐系统，见 [SVD](https://github.com/junxnone/math/issues/12)、[PCA](https://github.com/junxnone/math/issues/46)
+
+## 常见误区
+
+- LU 分解需要主元不为 0，实际要用**部分主元（行交换）**保证数值稳定：$PA=LU$
+- Cholesky 只适用于对称正定矩阵；对一般矩阵应使用 LU 或 QR，见 [对称正定与二次型](https://github.com/junxnone/math/issues/41)
+- 分解的用途是**求解多个右端项**（分解一次、回代多次），不是为了得到 $A^{-1}$，见 [矩阵的逆](https://github.com/junxnone/math/issues/31)
+
 ## Reference
 
 - [Matrix decomposition - Wikipedia](https://en.wikipedia.org/wiki/Matrix_decomposition)
 - Trefethen & Bau, *Numerical Linear Algebra*
-
-
 
