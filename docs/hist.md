@@ -18,16 +18,16 @@
 - 2026-11-27 10:44&nbsp;&nbsp; [优化理论 约束优化与对偶 ADMM](/0149_优化理论_约束优化与对偶_ADMM)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:约束优化与对偶 :bookmark:ADMM
 - 2026-11-27 10:44&nbsp;&nbsp; [信号与傅里叶变换 拉普拉斯变换与Z变换](/0148_信号与傅里叶变换_拉普拉斯变换与Z变换)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:拉普拉斯变换与Z变换
 - 2026-11-27 10:44&nbsp;&nbsp; [信号与傅里叶变换 滤波器 卡尔曼滤波](/0147_信号与傅里叶变换_滤波器_卡尔曼滤波)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:滤波器 :bookmark:卡尔曼滤波
-- 2026-11-27 10:44&nbsp;&nbsp; [数理统计 贝叶斯统计 变分推断](/0146_数理统计_贝叶斯统计_变分推断)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:贝叶斯统计 :bookmark:变分推断
-- 2026-11-27 10:43&nbsp;&nbsp; [数理统计 贝叶斯统计 MCMC采样](/0145_数理统计_贝叶斯统计_MCMC采样)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:贝叶斯统计 :bookmark:MCMC采样
-- 2026-11-27 10:43&nbsp;&nbsp; [数理统计 点估计 EM算法](/0144_数理统计_点估计_EM算法)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:点估计 :bookmark:EM算法
-- 2026-11-27 10:43&nbsp;&nbsp; [概率论 随机过程初步 马尔可夫决策过程](/0143_概率论_随机过程初步_马尔可夫决策过程)&nbsp;&nbsp; :bookmark:概率论 :bookmark:随机过程初步 :bookmark:马尔可夫决策过程
-- 2026-11-27 10:43&nbsp;&nbsp; [概率论 随机过程初步 隐马尔可夫模型](/0142_概率论_随机过程初步_隐马尔可夫模型)&nbsp;&nbsp; :bookmark:概率论 :bookmark:随机过程初步 :bookmark:隐马尔可夫模型
-- 2026-11-27 10:43&nbsp;&nbsp; [概率论 随机过程初步 布朗运动与伊藤积分](/0141_概率论_随机过程初步_布朗运动与伊藤积分)&nbsp;&nbsp; :bookmark:概率论 :bookmark:随机过程初步 :bookmark:布朗运动与伊藤积分
-- 2026-11-27 10:43&nbsp;&nbsp; [概率论 随机过程初步 泊松过程](/0140_概率论_随机过程初步_泊松过程)&nbsp;&nbsp; :bookmark:概率论 :bookmark:随机过程初步 :bookmark:泊松过程
-- 2026-11-27 10:43&nbsp;&nbsp; [概率论 测度论基础](/0139_概率论_测度论基础)&nbsp;&nbsp; :bookmark:概率论 :bookmark:测度论基础
-- 2026-11-27 10:43&nbsp;&nbsp; [概率论 常见分布 指数族分布](/0138_概率论_常见分布_指数族分布)&nbsp;&nbsp; :bookmark:概率论 :bookmark:常见分布 :bookmark:指数族分布
-- 2026-11-27 10:43&nbsp;&nbsp; [概率论 期望方差与矩 概率不等式](/0137_概率论_期望方差与矩_概率不等式)&nbsp;&nbsp; :bookmark:概率论 :bookmark:期望方差与矩 :bookmark:概率不等式
+- 2026-11-27 10:44&nbsp;&nbsp; [变分推断](/0146_数理统计_贝叶斯统计_变分推断)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:贝叶斯统计 :bookmark:变分推断
+- 2026-11-27 10:43&nbsp;&nbsp; [蒙特卡洛与MCMC](/0145_数理统计_贝叶斯统计_MCMC采样)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:贝叶斯统计 :bookmark:MCMC采样
+- 2026-11-27 10:43&nbsp;&nbsp; [EM算法](/0144_数理统计_点估计_EM算法)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:点估计 :bookmark:EM算法
+- 2026-11-27 10:43&nbsp;&nbsp; [马尔可夫决策过程](/0143_概率论_随机过程初步_马尔可夫决策过程)&nbsp;&nbsp; :bookmark:概率论 :bookmark:随机过程初步 :bookmark:马尔可夫决策过程
+- 2026-11-27 10:43&nbsp;&nbsp; [隐马尔可夫模型](/0142_概率论_随机过程初步_隐马尔可夫模型)&nbsp;&nbsp; :bookmark:概率论 :bookmark:随机过程初步 :bookmark:隐马尔可夫模型
+- 2026-11-27 10:43&nbsp;&nbsp; [布朗运动与伊藤积分](/0141_概率论_随机过程初步_布朗运动与伊藤积分)&nbsp;&nbsp; :bookmark:概率论 :bookmark:随机过程初步 :bookmark:布朗运动与伊藤积分
+- 2026-11-27 10:43&nbsp;&nbsp; [泊松过程](/0140_概率论_随机过程初步_泊松过程)&nbsp;&nbsp; :bookmark:概率论 :bookmark:随机过程初步 :bookmark:泊松过程
+- 2026-11-27 10:43&nbsp;&nbsp; [测度论基础](/0139_概率论_测度论基础)&nbsp;&nbsp; :bookmark:概率论 :bookmark:测度论基础
+- 2026-11-27 10:43&nbsp;&nbsp; [指数族分布](/0138_概率论_常见分布_指数族分布)&nbsp;&nbsp; :bookmark:概率论 :bookmark:常见分布 :bookmark:指数族分布
+- 2026-11-27 10:43&nbsp;&nbsp; [概率不等式](/0137_概率论_期望方差与矩_概率不等式)&nbsp;&nbsp; :bookmark:概率论 :bookmark:期望方差与矩 :bookmark:概率不等式
 - 2026-11-27 10:43&nbsp;&nbsp; [刚体变换与齐次坐标](/0136_线性代数_线性变换_刚体变换与齐次坐标)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:线性变换 :bookmark:刚体变换与齐次坐标
 - 2026-11-27 10:43&nbsp;&nbsp; [李群与李代数](/0135_线性代数_线性变换_李群与李代数)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:线性变换 :bookmark:李群与李代数
 - 2026-11-27 10:43&nbsp;&nbsp; [希尔伯特空间与核方法](/0134_线性代数_向量空间_希尔伯特空间与核方法)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:向量空间 :bookmark:希尔伯特空间与核方法
@@ -165,6 +165,16 @@
 
 #### **Updated**
 
+- 2026-11-27 10:51&nbsp;&nbsp; [变分推断](/0146_数理统计_贝叶斯统计_变分推断)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:贝叶斯统计 :bookmark:变分推断
+- 2026-11-27 10:51&nbsp;&nbsp; [蒙特卡洛与MCMC](/0145_数理统计_贝叶斯统计_MCMC采样)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:贝叶斯统计 :bookmark:MCMC采样
+- 2026-11-27 10:51&nbsp;&nbsp; [EM算法](/0144_数理统计_点估计_EM算法)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:点估计 :bookmark:EM算法
+- 2026-11-27 10:51&nbsp;&nbsp; [马尔可夫决策过程](/0143_概率论_随机过程初步_马尔可夫决策过程)&nbsp;&nbsp; :bookmark:概率论 :bookmark:随机过程初步 :bookmark:马尔可夫决策过程
+- 2026-11-27 10:51&nbsp;&nbsp; [隐马尔可夫模型](/0142_概率论_随机过程初步_隐马尔可夫模型)&nbsp;&nbsp; :bookmark:概率论 :bookmark:随机过程初步 :bookmark:隐马尔可夫模型
+- 2026-11-27 10:50&nbsp;&nbsp; [布朗运动与伊藤积分](/0141_概率论_随机过程初步_布朗运动与伊藤积分)&nbsp;&nbsp; :bookmark:概率论 :bookmark:随机过程初步 :bookmark:布朗运动与伊藤积分
+- 2026-11-27 10:50&nbsp;&nbsp; [泊松过程](/0140_概率论_随机过程初步_泊松过程)&nbsp;&nbsp; :bookmark:概率论 :bookmark:随机过程初步 :bookmark:泊松过程
+- 2026-11-27 10:50&nbsp;&nbsp; [测度论基础](/0139_概率论_测度论基础)&nbsp;&nbsp; :bookmark:概率论 :bookmark:测度论基础
+- 2026-11-27 10:50&nbsp;&nbsp; [指数族分布](/0138_概率论_常见分布_指数族分布)&nbsp;&nbsp; :bookmark:概率论 :bookmark:常见分布 :bookmark:指数族分布
+- 2026-11-27 10:50&nbsp;&nbsp; [概率不等式](/0137_概率论_期望方差与矩_概率不等式)&nbsp;&nbsp; :bookmark:概率论 :bookmark:期望方差与矩 :bookmark:概率不等式
 - 2026-11-27 10:48&nbsp;&nbsp; [刚体变换与齐次坐标](/0136_线性代数_线性变换_刚体变换与齐次坐标)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:线性变换 :bookmark:刚体变换与齐次坐标
 - 2026-11-27 10:48&nbsp;&nbsp; [李群与李代数](/0135_线性代数_线性变换_李群与李代数)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:线性变换 :bookmark:李群与李代数
 - 2026-11-27 10:48&nbsp;&nbsp; [希尔伯特空间与核方法](/0134_线性代数_向量空间_希尔伯特空间与核方法)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:向量空间 :bookmark:希尔伯特空间与核方法
@@ -188,16 +198,6 @@
 - 2026-11-27 10:44&nbsp;&nbsp; [优化理论 约束优化与对偶 ADMM](/0149_优化理论_约束优化与对偶_ADMM)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:约束优化与对偶 :bookmark:ADMM
 - 2026-11-27 10:44&nbsp;&nbsp; [信号与傅里叶变换 拉普拉斯变换与Z变换](/0148_信号与傅里叶变换_拉普拉斯变换与Z变换)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:拉普拉斯变换与Z变换
 - 2026-11-27 10:44&nbsp;&nbsp; [信号与傅里叶变换 滤波器 卡尔曼滤波](/0147_信号与傅里叶变换_滤波器_卡尔曼滤波)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:滤波器 :bookmark:卡尔曼滤波
-- 2026-11-27 10:44&nbsp;&nbsp; [数理统计 贝叶斯统计 变分推断](/0146_数理统计_贝叶斯统计_变分推断)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:贝叶斯统计 :bookmark:变分推断
-- 2026-11-27 10:43&nbsp;&nbsp; [数理统计 贝叶斯统计 MCMC采样](/0145_数理统计_贝叶斯统计_MCMC采样)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:贝叶斯统计 :bookmark:MCMC采样
-- 2026-11-27 10:43&nbsp;&nbsp; [数理统计 点估计 EM算法](/0144_数理统计_点估计_EM算法)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:点估计 :bookmark:EM算法
-- 2026-11-27 10:43&nbsp;&nbsp; [概率论 随机过程初步 马尔可夫决策过程](/0143_概率论_随机过程初步_马尔可夫决策过程)&nbsp;&nbsp; :bookmark:概率论 :bookmark:随机过程初步 :bookmark:马尔可夫决策过程
-- 2026-11-27 10:43&nbsp;&nbsp; [概率论 随机过程初步 隐马尔可夫模型](/0142_概率论_随机过程初步_隐马尔可夫模型)&nbsp;&nbsp; :bookmark:概率论 :bookmark:随机过程初步 :bookmark:隐马尔可夫模型
-- 2026-11-27 10:43&nbsp;&nbsp; [概率论 随机过程初步 布朗运动与伊藤积分](/0141_概率论_随机过程初步_布朗运动与伊藤积分)&nbsp;&nbsp; :bookmark:概率论 :bookmark:随机过程初步 :bookmark:布朗运动与伊藤积分
-- 2026-11-27 10:43&nbsp;&nbsp; [概率论 随机过程初步 泊松过程](/0140_概率论_随机过程初步_泊松过程)&nbsp;&nbsp; :bookmark:概率论 :bookmark:随机过程初步 :bookmark:泊松过程
-- 2026-11-27 10:43&nbsp;&nbsp; [概率论 测度论基础](/0139_概率论_测度论基础)&nbsp;&nbsp; :bookmark:概率论 :bookmark:测度论基础
-- 2026-11-27 10:43&nbsp;&nbsp; [概率论 常见分布 指数族分布](/0138_概率论_常见分布_指数族分布)&nbsp;&nbsp; :bookmark:概率论 :bookmark:常见分布 :bookmark:指数族分布
-- 2026-11-27 10:43&nbsp;&nbsp; [概率论 期望方差与矩 概率不等式](/0137_概率论_期望方差与矩_概率不等式)&nbsp;&nbsp; :bookmark:概率论 :bookmark:期望方差与矩 :bookmark:概率不等式
 - 2026-11-27 10:10&nbsp;&nbsp; [NP难问题](/0125_图论_NP难问题)&nbsp;&nbsp; :bookmark:图论 :bookmark:NP难问题
 - 2026-11-27 10:10&nbsp;&nbsp; [欧拉图与哈密顿图](/0122_图论_欧拉图与哈密顿图)&nbsp;&nbsp; :bookmark:图论 :bookmark:欧拉图与哈密顿图
 - 2026-11-27 10:10&nbsp;&nbsp; [最短路径](/0115_图论_最短路径)&nbsp;&nbsp; :bookmark:图论 :bookmark:最短路径

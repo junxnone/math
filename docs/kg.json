@@ -885,7 +885,7 @@
     {
       "id": "math 概率论 测度论基础",
       "group": 2,
-      "title": "概率论 测度论基础",
+      "title": "测度论基础",
       "url": "https://junxnone.github.io/math/#/0139_概率论_测度论基础",
       "visible": true,
       "expand": true,
@@ -1254,7 +1254,7 @@
     {
       "id": "math 概率论 期望方差与矩 概率不等式",
       "group": 3,
-      "title": "概率论 期望方差与矩 概率不等式",
+      "title": "概率不等式",
       "url": "https://junxnone.github.io/math/#/0137_概率论_期望方差与矩_概率不等式",
       "visible": true,
       "expand": true,
@@ -1263,7 +1263,7 @@
     {
       "id": "math 概率论 常见分布 指数族分布",
       "group": 3,
-      "title": "概率论 常见分布 指数族分布",
+      "title": "指数族分布",
       "url": "https://junxnone.github.io/math/#/0138_概率论_常见分布_指数族分布",
       "visible": true,
       "expand": true,
@@ -1272,7 +1272,7 @@
     {
       "id": "math 概率论 随机过程初步 泊松过程",
       "group": 3,
-      "title": "概率论 随机过程初步 泊松过程",
+      "title": "泊松过程",
       "url": "https://junxnone.github.io/math/#/0140_概率论_随机过程初步_泊松过程",
       "visible": true,
       "expand": true,
@@ -1281,7 +1281,7 @@
     {
       "id": "math 概率论 随机过程初步 布朗运动与伊藤积分",
       "group": 3,
-      "title": "概率论 随机过程初步 布朗运动与伊藤积分",
+      "title": "布朗运动与伊藤积分",
       "url": "https://junxnone.github.io/math/#/0141_概率论_随机过程初步_布朗运动与伊藤积分",
       "visible": true,
       "expand": true,
@@ -1290,7 +1290,7 @@
     {
       "id": "math 概率论 随机过程初步 隐马尔可夫模型",
       "group": 3,
-      "title": "概率论 随机过程初步 隐马尔可夫模型",
+      "title": "隐马尔可夫模型",
       "url": "https://junxnone.github.io/math/#/0142_概率论_随机过程初步_隐马尔可夫模型",
       "visible": true,
       "expand": true,
@@ -1299,7 +1299,7 @@
     {
       "id": "math 概率论 随机过程初步 马尔可夫决策过程",
       "group": 3,
-      "title": "概率论 随机过程初步 马尔可夫决策过程",
+      "title": "马尔可夫决策过程",
       "url": "https://junxnone.github.io/math/#/0143_概率论_随机过程初步_马尔可夫决策过程",
       "visible": true,
       "expand": true,
@@ -1308,7 +1308,7 @@
     {
       "id": "math 数理统计 点估计 EM算法",
       "group": 3,
-      "title": "数理统计 点估计 EM算法",
+      "title": "EM算法",
       "url": "https://junxnone.github.io/math/#/0144_数理统计_点估计_EM算法",
       "visible": true,
       "expand": true,
@@ -1317,7 +1317,7 @@
     {
       "id": "math 数理统计 贝叶斯统计 MCMC采样",
       "group": 3,
-      "title": "数理统计 贝叶斯统计 MCMC采样",
+      "title": "蒙特卡洛与MCMC",
       "url": "https://junxnone.github.io/math/#/0145_数理统计_贝叶斯统计_MCMC采样",
       "visible": true,
       "expand": true,
@@ -1326,7 +1326,7 @@
     {
       "id": "math 数理统计 贝叶斯统计 变分推断",
       "group": 3,
-      "title": "数理统计 贝叶斯统计 变分推断",
+      "title": "变分推断",
       "url": "https://junxnone.github.io/math/#/0146_数理统计_贝叶斯统计_变分推断",
       "visible": true,
       "expand": true,
