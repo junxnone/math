@@ -3,7 +3,7 @@
 | Title     | 线性代数 Matrix 迹                                      |
 | --------- | -------------------------------------------------- |
 | Created @ | `2026-11-24T10:06:42Z`                             |
-| Updated @ | `2026-11-25T09:15:03Z`                             |
+| Updated @ | `2026-11-27T01:42:37Z`                             |
 | Labels    | \`\`                                               |
 | Edit @    | [here](https://github.com/junxnone/math/issues/37) |
 
@@ -89,7 +89,7 @@ A\\mathbf{x})=\\operatorname{tr}(A\\mathbf{x}\\mathbf{x}^\\top) $$
   - $\\mathbf{x}^\\top A\\mathbf{x}$：一个标量
   - $\\mathbf{x}\\mathbf{x}^\\top$：外积，$n\\times n$ 的矩阵
   - 该技巧常用于把对样本求和的式子转化为协方差矩阵的迹，例如高斯分布的对数似然（见 [Gaussian
-    Distribution](/0005_Math_GaussianDistribution)）
+    Distribution](/0005_概率论_常见分布_高斯分布进阶)）
 
 迹的常用矩阵求导公式（梯度与 $X$ 同形）：
 
@@ -106,7 +106,7 @@ X}=(A+A^\\top)X $$
   - 协方差矩阵的迹等于总方差，PCA 中用“保留特征值之和 / 迹”衡量信息保留比例
   - 旋转矩阵 $R$ 的迹与旋转角满足
     $\\operatorname{tr}(R)=1+2\\cos\\theta$（三维），可由旋转矩阵反求旋转角（见
-    [Quaternion](/0016_Math_Quaternion)）
+    [Quaternion](/0016_线性代数_线性变换_四元数与三维旋转进阶)）
 
 ## Reference
 
