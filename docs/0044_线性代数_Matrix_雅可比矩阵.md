@@ -2,7 +2,7 @@
 Title | 线性代数 Matrix 雅可比矩阵
 -- | --
 Created @ | `2026-11-24T14:42:25Z`
-Updated @| `2026-11-27T01:51:04Z`
+Updated @| `2026-11-27T02:07:31Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/math/issues/44)
 
@@ -107,5 +107,6 @@ $$
 ## Reference
 
 - [Jacobian matrix and determinant - Wikipedia](https://en.wikipedia.org/wiki/Jacobian_matrix_and_determinant)
-- [导数](/0009_微积分_多元函数微分_梯度与方向导数进阶)
+- [梯度与方向导数进阶](/0009_微积分_多元函数微分_梯度与方向导数进阶)
+
 
