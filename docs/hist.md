@@ -4,14 +4,14 @@
 
 #### **Created**
 
-- 2026-11-27 10:44&nbsp;&nbsp; [离散数学 随机算法与哈希](/0160_离散数学_随机算法与哈希)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:随机算法与哈希
-- 2026-11-27 10:44&nbsp;&nbsp; [图论 谱图论 PageRank](/0159_图论_谱图论_PageRank)&nbsp;&nbsp; :bookmark:图论 :bookmark:谱图论 :bookmark:PageRank
-- 2026-11-27 10:44&nbsp;&nbsp; [信息论 信道容量 纠错码](/0158_信息论_信道容量_纠错码)&nbsp;&nbsp; :bookmark:信息论 :bookmark:信道容量 :bookmark:纠错码
-- 2026-11-27 10:44&nbsp;&nbsp; [信息论 信息瓶颈与率失真](/0157_信息论_信息瓶颈与率失真)&nbsp;&nbsp; :bookmark:信息论 :bookmark:信息瓶颈与率失真
-- 2026-11-27 10:44&nbsp;&nbsp; [微积分 微分几何初步](/0156_微积分_微分几何初步)&nbsp;&nbsp; :bookmark:微积分 :bookmark:微分几何初步
-- 2026-11-27 10:44&nbsp;&nbsp; [微积分 复变函数初步](/0155_微积分_复变函数初步)&nbsp;&nbsp; :bookmark:微积分 :bookmark:复变函数初步
-- 2026-11-27 10:44&nbsp;&nbsp; [微积分 变分法](/0154_微积分_变分法)&nbsp;&nbsp; :bookmark:微积分 :bookmark:变分法
-- 2026-11-27 10:44&nbsp;&nbsp; [微积分 偏微分方程初步](/0153_微积分_偏微分方程初步)&nbsp;&nbsp; :bookmark:微积分 :bookmark:偏微分方程初步
+- 2026-11-27 10:44&nbsp;&nbsp; [随机算法与哈希](/0160_离散数学_随机算法与哈希)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:随机算法与哈希
+- 2026-11-27 10:44&nbsp;&nbsp; [PageRank](/0159_图论_谱图论_PageRank)&nbsp;&nbsp; :bookmark:图论 :bookmark:谱图论 :bookmark:PageRank
+- 2026-11-27 10:44&nbsp;&nbsp; [纠错码](/0158_信息论_信道容量_纠错码)&nbsp;&nbsp; :bookmark:信息论 :bookmark:信道容量 :bookmark:纠错码
+- 2026-11-27 10:44&nbsp;&nbsp; [信息瓶颈与率失真](/0157_信息论_信息瓶颈与率失真)&nbsp;&nbsp; :bookmark:信息论 :bookmark:信息瓶颈与率失真
+- 2026-11-27 10:44&nbsp;&nbsp; [微分几何初步](/0156_微积分_微分几何初步)&nbsp;&nbsp; :bookmark:微积分 :bookmark:微分几何初步
+- 2026-11-27 10:44&nbsp;&nbsp; [复变函数初步](/0155_微积分_复变函数初步)&nbsp;&nbsp; :bookmark:微积分 :bookmark:复变函数初步
+- 2026-11-27 10:44&nbsp;&nbsp; [变分法](/0154_微积分_变分法)&nbsp;&nbsp; :bookmark:微积分 :bookmark:变分法
+- 2026-11-27 10:44&nbsp;&nbsp; [偏微分方程初步](/0153_微积分_偏微分方程初步)&nbsp;&nbsp; :bookmark:微积分 :bookmark:偏微分方程初步
 - 2026-11-27 10:44&nbsp;&nbsp; [自动微分](/0152_数值计算_数值微分与积分_自动微分)&nbsp;&nbsp; :bookmark:数值计算 :bookmark:数值微分与积分 :bookmark:自动微分
 - 2026-11-27 10:44&nbsp;&nbsp; [最优传输](/0151_优化理论_线性规划_最优传输)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:线性规划 :bookmark:最优传输
 - 2026-11-27 10:44&nbsp;&nbsp; [支持向量机](/0150_优化理论_约束优化与对偶_支持向量机)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:约束优化与对偶 :bookmark:支持向量机
@@ -165,6 +165,14 @@
 
 #### **Updated**
 
+- 2026-11-27 10:57&nbsp;&nbsp; [随机算法与哈希](/0160_离散数学_随机算法与哈希)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:随机算法与哈希
+- 2026-11-27 10:57&nbsp;&nbsp; [PageRank](/0159_图论_谱图论_PageRank)&nbsp;&nbsp; :bookmark:图论 :bookmark:谱图论 :bookmark:PageRank
+- 2026-11-27 10:57&nbsp;&nbsp; [纠错码](/0158_信息论_信道容量_纠错码)&nbsp;&nbsp; :bookmark:信息论 :bookmark:信道容量 :bookmark:纠错码
+- 2026-11-27 10:57&nbsp;&nbsp; [信息瓶颈与率失真](/0157_信息论_信息瓶颈与率失真)&nbsp;&nbsp; :bookmark:信息论 :bookmark:信息瓶颈与率失真
+- 2026-11-27 10:57&nbsp;&nbsp; [微分几何初步](/0156_微积分_微分几何初步)&nbsp;&nbsp; :bookmark:微积分 :bookmark:微分几何初步
+- 2026-11-27 10:56&nbsp;&nbsp; [复变函数初步](/0155_微积分_复变函数初步)&nbsp;&nbsp; :bookmark:微积分 :bookmark:复变函数初步
+- 2026-11-27 10:56&nbsp;&nbsp; [变分法](/0154_微积分_变分法)&nbsp;&nbsp; :bookmark:微积分 :bookmark:变分法
+- 2026-11-27 10:56&nbsp;&nbsp; [偏微分方程初步](/0153_微积分_偏微分方程初步)&nbsp;&nbsp; :bookmark:微积分 :bookmark:偏微分方程初步
 - 2026-11-27 10:54&nbsp;&nbsp; [自动微分](/0152_数值计算_数值微分与积分_自动微分)&nbsp;&nbsp; :bookmark:数值计算 :bookmark:数值微分与积分 :bookmark:自动微分
 - 2026-11-27 10:54&nbsp;&nbsp; [最优传输](/0151_优化理论_线性规划_最优传输)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:线性规划 :bookmark:最优传输
 - 2026-11-27 10:54&nbsp;&nbsp; [支持向量机](/0150_优化理论_约束优化与对偶_支持向量机)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:约束优化与对偶 :bookmark:支持向量机
@@ -190,14 +198,6 @@
 - 2026-11-27 10:47&nbsp;&nbsp; [QR分解](/0130_线性代数_Matrix_矩阵分解_QR分解)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:矩阵分解 :bookmark:QR分解
 - 2026-11-27 10:47&nbsp;&nbsp; [LU分解](/0129_线性代数_Matrix_矩阵分解_LU分解)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:矩阵分解 :bookmark:LU分解
 - 2026-11-27 10:47&nbsp;&nbsp; [矩阵微积分](/0128_线性代数_Matrix_矩阵微积分)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:矩阵微积分
-- 2026-11-27 10:44&nbsp;&nbsp; [离散数学 随机算法与哈希](/0160_离散数学_随机算法与哈希)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:随机算法与哈希
-- 2026-11-27 10:44&nbsp;&nbsp; [图论 谱图论 PageRank](/0159_图论_谱图论_PageRank)&nbsp;&nbsp; :bookmark:图论 :bookmark:谱图论 :bookmark:PageRank
-- 2026-11-27 10:44&nbsp;&nbsp; [信息论 信道容量 纠错码](/0158_信息论_信道容量_纠错码)&nbsp;&nbsp; :bookmark:信息论 :bookmark:信道容量 :bookmark:纠错码
-- 2026-11-27 10:44&nbsp;&nbsp; [信息论 信息瓶颈与率失真](/0157_信息论_信息瓶颈与率失真)&nbsp;&nbsp; :bookmark:信息论 :bookmark:信息瓶颈与率失真
-- 2026-11-27 10:44&nbsp;&nbsp; [微积分 微分几何初步](/0156_微积分_微分几何初步)&nbsp;&nbsp; :bookmark:微积分 :bookmark:微分几何初步
-- 2026-11-27 10:44&nbsp;&nbsp; [微积分 复变函数初步](/0155_微积分_复变函数初步)&nbsp;&nbsp; :bookmark:微积分 :bookmark:复变函数初步
-- 2026-11-27 10:44&nbsp;&nbsp; [微积分 变分法](/0154_微积分_变分法)&nbsp;&nbsp; :bookmark:微积分 :bookmark:变分法
-- 2026-11-27 10:44&nbsp;&nbsp; [微积分 偏微分方程初步](/0153_微积分_偏微分方程初步)&nbsp;&nbsp; :bookmark:微积分 :bookmark:偏微分方程初步
 - 2026-11-27 10:10&nbsp;&nbsp; [NP难问题](/0125_图论_NP难问题)&nbsp;&nbsp; :bookmark:图论 :bookmark:NP难问题
 - 2026-11-27 10:10&nbsp;&nbsp; [欧拉图与哈密顿图](/0122_图论_欧拉图与哈密顿图)&nbsp;&nbsp; :bookmark:图论 :bookmark:欧拉图与哈密顿图
 - 2026-11-27 10:10&nbsp;&nbsp; [最短路径](/0115_图论_最短路径)&nbsp;&nbsp; :bookmark:图论 :bookmark:最短路径
