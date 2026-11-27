@@ -132,6 +132,14 @@
 
 #### **Updated**
 
+- 2026-11-27 10:07&nbsp;&nbsp; [导数与微分](/0050_微积分_导数与微分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:导数与微分
+- 2026-11-27 10:07&nbsp;&nbsp; [微积分](/0048_微积分)&nbsp;&nbsp; :bookmark:微积分
+- 2026-11-27 10:07&nbsp;&nbsp; [雅可比矩阵](/0044_线性代数_Matrix_雅可比矩阵)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:雅可比矩阵
+- 2026-11-27 10:07&nbsp;&nbsp; [投影](/0042_线性代数_投影)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:投影
+- 2026-11-27 10:07&nbsp;&nbsp; [对称正定与二次型](/0041_线性代数_Matrix_对称正定与二次型)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:对称正定与二次型
+- 2026-11-27 10:07&nbsp;&nbsp; [矩阵分解](/0040_线性代数_Matrix_矩阵分解)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:矩阵分解
+- 2026-11-27 10:07&nbsp;&nbsp; [矩阵的迹](/0037_线性代数_Matrix_迹)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:迹
+- 2026-11-27 10:07&nbsp;&nbsp; [线性方程组](/0035_线性代数_线性方程组)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:线性方程组
 - 2026-11-27 10:06&nbsp;&nbsp; [线性代数](/0025_线性代数)&nbsp;&nbsp; :bookmark:线性代数
 - 2026-11-27 10:03&nbsp;&nbsp; [二分图(Bipartite Graph)](/0023_图论_二分图)&nbsp;&nbsp; :bookmark:图论 :bookmark:二分图
 - 2026-11-27 10:03&nbsp;&nbsp; [SVD](/0012_线性代数_SVD)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:SVD
@@ -205,21 +213,14 @@
 - 2026-11-27 09:51&nbsp;&nbsp; [级数](/0053_微积分_级数)&nbsp;&nbsp; :bookmark:微积分 :bookmark:级数
 - 2026-11-27 09:51&nbsp;&nbsp; [积分](/0052_微积分_积分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:积分
 - 2026-11-27 09:51&nbsp;&nbsp; [中值定理与泰勒公式](/0051_微积分_中值定理与泰勒公式)&nbsp;&nbsp; :bookmark:微积分 :bookmark:中值定理与泰勒公式
-- 2026-11-27 09:51&nbsp;&nbsp; [导数与微分](/0050_微积分_导数与微分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:导数与微分
 - 2026-11-27 09:51&nbsp;&nbsp; [极限与连续](/0049_微积分_极限与连续)&nbsp;&nbsp; :bookmark:微积分 :bookmark:极限与连续
 - 2026-11-27 09:51&nbsp;&nbsp; [张量基础](/0047_线性代数_张量基础)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:张量基础
 - 2026-11-27 09:51&nbsp;&nbsp; [PCA](/0046_线性代数_PCA)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:PCA
 - 2026-11-27 09:51&nbsp;&nbsp; [范数与条件数](/0045_线性代数_Matrix_范数与条件数)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:范数与条件数
-- 2026-11-27 09:51&nbsp;&nbsp; [雅可比矩阵](/0044_线性代数_Matrix_雅可比矩阵)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:雅可比矩阵
 - 2026-11-27 09:49&nbsp;&nbsp; [伪逆](/0043_线性代数_Matrix_伪逆)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:伪逆
-- 2026-11-27 09:49&nbsp;&nbsp; [投影](/0042_线性代数_投影)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:投影
-- 2026-11-27 09:49&nbsp;&nbsp; [对称正定与二次型](/0041_线性代数_Matrix_对称正定与二次型)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:对称正定与二次型
-- 2026-11-27 09:48&nbsp;&nbsp; [矩阵分解](/0040_线性代数_Matrix_矩阵分解)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:矩阵分解
 - 2026-11-27 09:48&nbsp;&nbsp; [线性变换](/0039_线性代数_线性变换)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:线性变换
 - 2026-11-27 09:48&nbsp;&nbsp; [初等变换](/0038_线性代数_Matrix_初等变换)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:初等变换
-- 2026-11-27 09:48&nbsp;&nbsp; [矩阵的迹](/0037_线性代数_Matrix_迹)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:迹
 - 2026-11-27 09:48&nbsp;&nbsp; [特征值与特征向量](/0036_线性代数_特征值与特征向量)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:特征值与特征向量
-- 2026-11-27 09:48&nbsp;&nbsp; [线性方程组](/0035_线性代数_线性方程组)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:线性方程组
 - 2026-11-27 09:48&nbsp;&nbsp; [向量空间](/0034_线性代数_向量空间)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:向量空间
 - 2026-11-27 09:46&nbsp;&nbsp; [线性相关和线性无关](/0024_线性代数_线性相关无关)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:线性相关无关
 - 2026-11-27 09:46&nbsp;&nbsp; [矩阵](/0004_线性代数_Matrix)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix
@@ -227,7 +228,6 @@
 - 2026-11-27 09:44&nbsp;&nbsp; [离散数学](/0091_离散数学)&nbsp;&nbsp; :bookmark:离散数学
 - 2026-11-27 09:43&nbsp;&nbsp; [优化理论](/0076_优化理论)&nbsp;&nbsp; :bookmark:优化理论
 - 2026-11-27 09:43&nbsp;&nbsp; [概率论](/0059_概率论)&nbsp;&nbsp; :bookmark:概率论
-- 2026-11-27 09:42&nbsp;&nbsp; [微积分](/0048_微积分)&nbsp;&nbsp; :bookmark:微积分
 - 2026-11-27 09:42&nbsp;&nbsp; [高斯滤波器进阶](/0021_信号与傅里叶变换_滤波器_高斯滤波器进阶)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:滤波器 :bookmark:高斯滤波器进阶
 - 2026-11-27 09:42&nbsp;&nbsp; [高斯过程进阶](/0020_概率论_随机过程初步_高斯过程进阶)&nbsp;&nbsp; :bookmark:概率论 :bookmark:随机过程初步 :bookmark:高斯过程进阶
 - 2026-11-27 09:42&nbsp;&nbsp; [拉格朗日乘数法进阶](/0019_微积分_极值与拉格朗日乘数_拉格朗日乘数法进阶)&nbsp;&nbsp; :bookmark:微积分 :bookmark:极值与拉格朗日乘数 :bookmark:拉格朗日乘数法进阶
