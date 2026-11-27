@@ -165,6 +165,7 @@
 
 #### **Updated**
 
+- 2026-11-27 10:57&nbsp;&nbsp; [数学基础](/0001_Math)&nbsp;&nbsp; :bookmark:Math
 - 2026-11-27 10:57&nbsp;&nbsp; [随机算法与哈希](/0160_离散数学_随机算法与哈希)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:随机算法与哈希
 - 2026-11-27 10:57&nbsp;&nbsp; [PageRank](/0159_图论_谱图论_PageRank)&nbsp;&nbsp; :bookmark:图论 :bookmark:谱图论 :bookmark:PageRank
 - 2026-11-27 10:57&nbsp;&nbsp; [纠错码](/0158_信息论_信道容量_纠错码)&nbsp;&nbsp; :bookmark:信息论 :bookmark:信道容量 :bookmark:纠错码
@@ -293,7 +294,6 @@
 - 2026-11-27 09:48&nbsp;&nbsp; [向量空间](/0034_线性代数_向量空间)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:向量空间
 - 2026-11-27 09:46&nbsp;&nbsp; [线性相关和线性无关](/0024_线性代数_线性相关无关)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:线性相关无关
 - 2026-11-27 09:46&nbsp;&nbsp; [矩阵](/0004_线性代数_Matrix)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix
-- 2026-11-27 09:46&nbsp;&nbsp; [数学基础](/0001_Math)&nbsp;&nbsp; :bookmark:Math
 - 2026-11-27 09:42&nbsp;&nbsp; [高斯滤波器进阶](/0021_信号与傅里叶变换_滤波器_高斯滤波器进阶)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:滤波器 :bookmark:高斯滤波器进阶
 - 2026-11-27 09:42&nbsp;&nbsp; [高斯过程进阶](/0020_概率论_随机过程初步_高斯过程进阶)&nbsp;&nbsp; :bookmark:概率论 :bookmark:随机过程初步 :bookmark:高斯过程进阶
 - 2026-11-27 09:42&nbsp;&nbsp; [拉格朗日乘数法进阶](/0019_微积分_极值与拉格朗日乘数_拉格朗日乘数法进阶)&nbsp;&nbsp; :bookmark:微积分 :bookmark:极值与拉格朗日乘数 :bookmark:拉格朗日乘数法进阶
