@@ -154,15 +154,6 @@
       "childLinks": []
     },
     {
-      "id": "math Math SC",
-      "group": 2,
-      "title": "Stochastic process 随机过程",
-      "url": "https://junxnone.github.io/math/#/0013_Math_SC",
-      "visible": true,
-      "expand": true,
-      "childLinks": []
-    },
-    {
       "id": "math 图论 二分图",
       "group": 2,
       "title": "二分图(Bipartite Graph)",
@@ -937,6 +928,15 @@
       "childLinks": []
     },
     {
+      "id": "math 概率论 随机过程初步 随机过程进阶",
+      "group": 3,
+      "title": "随机过程进阶",
+      "url": "https://junxnone.github.io/math/#/0013_概率论_随机过程初步_随机过程进阶",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 优化理论 非凸优化 模拟退火进阶",
       "group": 3,
       "title": "模拟退火进阶",
@@ -1210,13 +1210,6 @@
       "source": "math",
       "target": "math 数值计算",
       "value": 1,
-      "visible": true,
-      "expand": true
-    },
-    {
-      "source": "math Math",
-      "target": "math Math SC",
-      "value": 2,
       "visible": true,
       "expand": true
     },
@@ -1951,6 +1944,13 @@
     {
       "source": "math 概率论 常见分布",
       "target": "math 概率论 常见分布 高斯分布进阶",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 概率论 随机过程初步",
+      "target": "math 概率论 随机过程初步 随机过程进阶",
       "value": 3,
       "visible": true,
       "expand": true

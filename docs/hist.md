@@ -119,7 +119,7 @@
 - 2022-02-22 17:24&nbsp;&nbsp; [向量](/0002_线性代数_Vector)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Vector
 - 2022-02-11 11:01&nbsp;&nbsp; [四元数与三维旋转进阶](/0016_线性代数_线性变换_四元数与三维旋转进阶)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:线性变换 :bookmark:四元数与三维旋转进阶
 - 2022-02-11 10:48&nbsp;&nbsp; [数学基础](/0001_Math)&nbsp;&nbsp; :bookmark:Math
-- 2021-09-09 11:44&nbsp;&nbsp; [Stochastic process 随机过程](/0013_Math_SC)&nbsp;&nbsp; :bookmark:Math :bookmark:SC
+- 2021-09-09 11:44&nbsp;&nbsp; [随机过程进阶](/0013_概率论_随机过程初步_随机过程进阶)&nbsp;&nbsp; :bookmark:概率论 :bookmark:随机过程初步 :bookmark:随机过程进阶
 - 2021-08-19 14:15&nbsp;&nbsp; [四叉树与八叉树进阶](/0017_图论_树_四叉树与八叉树进阶)&nbsp;&nbsp; :bookmark:图论 :bookmark:树 :bookmark:四叉树与八叉树进阶
 - 2021-03-30 16:34&nbsp;&nbsp; [模拟退火进阶](/0014_优化理论_非凸优化_模拟退火进阶)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:非凸优化 :bookmark:模拟退火进阶
 - 2021-03-26 14:06&nbsp;&nbsp; [拉格朗日乘数法进阶](/0019_微积分_极值与拉格朗日乘数_拉格朗日乘数法进阶)&nbsp;&nbsp; :bookmark:微积分 :bookmark:极值与拉格朗日乘数 :bookmark:拉格朗日乘数法进阶
@@ -132,6 +132,18 @@
 
 #### **Updated**
 
+- 2026-11-27 09:43&nbsp;&nbsp; [多元函数微分](/0054_微积分_多元函数微分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:多元函数微分
+- 2026-11-27 09:43&nbsp;&nbsp; [积分](/0052_微积分_积分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:积分
+- 2026-11-27 09:42&nbsp;&nbsp; [导数与微分](/0050_微积分_导数与微分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:导数与微分
+- 2026-11-27 09:42&nbsp;&nbsp; [微积分](/0048_微积分)&nbsp;&nbsp; :bookmark:微积分
+- 2026-11-27 09:42&nbsp;&nbsp; [雅可比矩阵](/0044_线性代数_Matrix_雅可比矩阵)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:雅可比矩阵
+- 2026-11-27 09:42&nbsp;&nbsp; [投影](/0042_线性代数_投影)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:投影
+- 2026-11-27 09:42&nbsp;&nbsp; [对称正定与二次型](/0041_线性代数_Matrix_对称正定与二次型)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:对称正定与二次型
+- 2026-11-27 09:42&nbsp;&nbsp; [矩阵分解](/0040_线性代数_Matrix_矩阵分解)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:矩阵分解
+- 2026-11-27 09:42&nbsp;&nbsp; [矩阵的迹](/0037_线性代数_Matrix_迹)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:迹
+- 2026-11-27 09:42&nbsp;&nbsp; [线性方程组](/0035_线性代数_线性方程组)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:线性方程组
+- 2026-11-27 09:42&nbsp;&nbsp; [线性代数](/0025_线性代数)&nbsp;&nbsp; :bookmark:线性代数
+- 2026-11-27 09:42&nbsp;&nbsp; [数学基础](/0001_Math)&nbsp;&nbsp; :bookmark:Math
 - 2026-11-27 09:42&nbsp;&nbsp; [高斯滤波器进阶](/0021_信号与傅里叶变换_滤波器_高斯滤波器进阶)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:滤波器 :bookmark:高斯滤波器进阶
 - 2026-11-27 09:42&nbsp;&nbsp; [高斯过程进阶](/0020_概率论_随机过程初步_高斯过程进阶)&nbsp;&nbsp; :bookmark:概率论 :bookmark:随机过程初步 :bookmark:高斯过程进阶
 - 2026-11-27 09:42&nbsp;&nbsp; [拉格朗日乘数法进阶](/0019_微积分_极值与拉格朗日乘数_拉格朗日乘数法进阶)&nbsp;&nbsp; :bookmark:微积分 :bookmark:极值与拉格朗日乘数 :bookmark:拉格朗日乘数法进阶
@@ -140,6 +152,7 @@
 - 2026-11-27 09:41&nbsp;&nbsp; [四元数与三维旋转进阶](/0016_线性代数_线性变换_四元数与三维旋转进阶)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:线性变换 :bookmark:四元数与三维旋转进阶
 - 2026-11-27 09:41&nbsp;&nbsp; [RANSAC进阶](/0015_数值计算_插值与拟合_RANSAC进阶)&nbsp;&nbsp; :bookmark:数值计算 :bookmark:插值与拟合 :bookmark:RANSAC进阶
 - 2026-11-27 09:41&nbsp;&nbsp; [模拟退火进阶](/0014_优化理论_非凸优化_模拟退火进阶)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:非凸优化 :bookmark:模拟退火进阶
+- 2026-11-27 09:41&nbsp;&nbsp; [随机过程进阶](/0013_概率论_随机过程初步_随机过程进阶)&nbsp;&nbsp; :bookmark:概率论 :bookmark:随机过程初步 :bookmark:随机过程进阶
 - 2026-11-27 09:41&nbsp;&nbsp; [动态规划进阶](/0010_离散数学_递推与生成函数_动态规划进阶)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:递推与生成函数 :bookmark:动态规划进阶
 - 2026-11-27 09:41&nbsp;&nbsp; [梯度与方向导数进阶](/0009_微积分_多元函数微分_梯度与方向导数进阶)&nbsp;&nbsp; :bookmark:微积分 :bookmark:多元函数微分 :bookmark:梯度与方向导数进阶
 - 2026-11-27 09:41&nbsp;&nbsp; [贝叶斯推断进阶](/0008_概率论_条件概率与贝叶斯_贝叶斯推断进阶)&nbsp;&nbsp; :bookmark:概率论 :bookmark:条件概率与贝叶斯 :bookmark:贝叶斯推断进阶
@@ -228,34 +241,21 @@
 - 2026-11-25 17:37&nbsp;&nbsp; [常微分方程](/0057_微积分_常微分方程)&nbsp;&nbsp; :bookmark:微积分 :bookmark:常微分方程
 - 2026-11-25 17:36&nbsp;&nbsp; [曲线曲面积分与场论](/0056_微积分_曲线曲面积分与场论)&nbsp;&nbsp; :bookmark:微积分 :bookmark:曲线曲面积分与场论
 - 2026-11-25 17:36&nbsp;&nbsp; [重积分](/0055_微积分_重积分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:重积分
-- 2026-11-25 17:36&nbsp;&nbsp; [多元函数微分](/0054_微积分_多元函数微分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:多元函数微分
 - 2026-11-25 17:36&nbsp;&nbsp; [级数](/0053_微积分_级数)&nbsp;&nbsp; :bookmark:微积分 :bookmark:级数
-- 2026-11-25 17:35&nbsp;&nbsp; [积分](/0052_微积分_积分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:积分
 - 2026-11-25 17:35&nbsp;&nbsp; [中值定理与泰勒公式](/0051_微积分_中值定理与泰勒公式)&nbsp;&nbsp; :bookmark:微积分 :bookmark:中值定理与泰勒公式
-- 2026-11-25 17:35&nbsp;&nbsp; [导数与微分](/0050_微积分_导数与微分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:导数与微分
 - 2026-11-25 17:35&nbsp;&nbsp; [极限与连续](/0049_微积分_极限与连续)&nbsp;&nbsp; :bookmark:微积分 :bookmark:极限与连续
-- 2026-11-25 17:35&nbsp;&nbsp; [微积分](/0048_微积分)&nbsp;&nbsp; :bookmark:微积分
 - 2026-11-25 17:33&nbsp;&nbsp; [张量基础](/0047_线性代数_张量基础)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:张量基础
 - 2026-11-25 17:33&nbsp;&nbsp; [PCA](/0046_线性代数_PCA)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:PCA
 - 2026-11-25 17:33&nbsp;&nbsp; [范数与条件数](/0045_线性代数_Matrix_范数与条件数)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:范数与条件数
-- 2026-11-25 17:33&nbsp;&nbsp; [雅可比矩阵](/0044_线性代数_Matrix_雅可比矩阵)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:雅可比矩阵
 - 2026-11-25 17:33&nbsp;&nbsp; [伪逆](/0043_线性代数_Matrix_伪逆)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:伪逆
-- 2026-11-25 17:20&nbsp;&nbsp; [投影](/0042_线性代数_投影)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:投影
-- 2026-11-25 17:20&nbsp;&nbsp; [对称正定与二次型](/0041_线性代数_Matrix_对称正定与二次型)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:对称正定与二次型
-- 2026-11-25 17:20&nbsp;&nbsp; [矩阵分解](/0040_线性代数_Matrix_矩阵分解)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:矩阵分解
 - 2026-11-25 17:20&nbsp;&nbsp; [线性变换](/0039_线性代数_线性变换)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:线性变换
 - 2026-11-25 17:20&nbsp;&nbsp; [初等变换](/0038_线性代数_Matrix_初等变换)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:初等变换
-- 2026-11-25 17:15&nbsp;&nbsp; [矩阵的迹](/0037_线性代数_Matrix_迹)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:迹
 - 2026-11-25 17:15&nbsp;&nbsp; [特征值与特征向量](/0036_线性代数_特征值与特征向量)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:特征值与特征向量
-- 2026-11-25 17:14&nbsp;&nbsp; [线性方程组](/0035_线性代数_线性方程组)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:线性方程组
 - 2026-11-25 17:14&nbsp;&nbsp; [向量空间](/0034_线性代数_向量空间)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:向量空间
-- 2026-11-25 17:09&nbsp;&nbsp; [线性代数](/0025_线性代数)&nbsp;&nbsp; :bookmark:线性代数
 - 2026-11-25 17:09&nbsp;&nbsp; [二分图(Bipartite Graph)](/0023_图论_二分图)&nbsp;&nbsp; :bookmark:图论 :bookmark:二分图
 - 2026-11-25 17:09&nbsp;&nbsp; [图论 (Graph theory)](/0022_图论)&nbsp;&nbsp; :bookmark:图论
 - 2026-11-25 17:09&nbsp;&nbsp; [SVD](/0012_线性代数_SVD)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:SVD
 - 2026-11-25 17:07&nbsp;&nbsp; [矩阵](/0004_线性代数_Matrix)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix
-- 2026-11-25 17:06&nbsp;&nbsp; [数学基础](/0001_Math)&nbsp;&nbsp; :bookmark:Math
 - 2024-12-30 11:26&nbsp;&nbsp; [线性相关和线性无关](/0024_线性代数_线性相关无关)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:线性相关无关
-- 2024-09-17 01:27&nbsp;&nbsp; [Stochastic process 随机过程](/0013_Math_SC)&nbsp;&nbsp; :bookmark:Math :bookmark:SC
 
 <!-- tabs:end -->
