@@ -132,6 +132,16 @@
 
 #### **Updated**
 
+- 2026-11-27 09:44&nbsp;&nbsp; [最短路径](/0115_图论_最短路径)&nbsp;&nbsp; :bookmark:图论 :bookmark:最短路径
+- 2026-11-27 09:44&nbsp;&nbsp; [图的表示与遍历](/0114_图论_图的表示与遍历)&nbsp;&nbsp; :bookmark:图论 :bookmark:图的表示与遍历
+- 2026-11-27 09:44&nbsp;&nbsp; [插值与拟合](/0110_数值计算_插值与拟合)&nbsp;&nbsp; :bookmark:数值计算 :bookmark:插值与拟合
+- 2026-11-27 09:44&nbsp;&nbsp; [滤波器](/0104_信号与傅里叶变换_滤波器)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:滤波器
+- 2026-11-27 09:44&nbsp;&nbsp; [卷积](/0100_信号与傅里叶变换_卷积)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:卷积
+- 2026-11-27 09:44&nbsp;&nbsp; [递推与生成函数](/0097_离散数学_递推与生成函数)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:递推与生成函数
+- 2026-11-27 09:44&nbsp;&nbsp; [组合计数](/0094_离散数学_组合计数)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:组合计数
+- 2026-11-27 09:44&nbsp;&nbsp; [离散数学](/0091_离散数学)&nbsp;&nbsp; :bookmark:离散数学
+- 2026-11-27 09:43&nbsp;&nbsp; [最大熵原理](/0090_信息论_最大熵原理)&nbsp;&nbsp; :bookmark:信息论 :bookmark:最大熵原理
+- 2026-11-27 09:43&nbsp;&nbsp; [互信息与 KL 散度](/0086_信息论_互信息与KL散度)&nbsp;&nbsp; :bookmark:信息论 :bookmark:互信息与KL散度
 - 2026-11-27 09:43&nbsp;&nbsp; [非凸优化](/0083_优化理论_非凸优化)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:非凸优化
 - 2026-11-27 09:43&nbsp;&nbsp; [约束优化与对偶](/0079_优化理论_约束优化与对偶)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:约束优化与对偶
 - 2026-11-27 09:43&nbsp;&nbsp; [优化理论](/0076_优化理论)&nbsp;&nbsp; :bookmark:优化理论
@@ -192,36 +202,26 @@
 - 2026-11-25 17:56&nbsp;&nbsp; [连通性](/0118_图论_连通性)&nbsp;&nbsp; :bookmark:图论 :bookmark:连通性
 - 2026-11-25 17:55&nbsp;&nbsp; [树](/0117_图论_树)&nbsp;&nbsp; :bookmark:图论 :bookmark:树
 - 2026-11-25 17:55&nbsp;&nbsp; [最小生成树](/0116_图论_最小生成树)&nbsp;&nbsp; :bookmark:图论 :bookmark:最小生成树
-- 2026-11-25 17:55&nbsp;&nbsp; [最短路径](/0115_图论_最短路径)&nbsp;&nbsp; :bookmark:图论 :bookmark:最短路径
-- 2026-11-25 17:55&nbsp;&nbsp; [图的表示与遍历](/0114_图论_图的表示与遍历)&nbsp;&nbsp; :bookmark:图论 :bookmark:图的表示与遍历
 - 2026-11-25 17:55&nbsp;&nbsp; [特征值数值算法](/0113_数值计算_特征值数值算法)&nbsp;&nbsp; :bookmark:数值计算 :bookmark:特征值数值算法
 - 2026-11-25 17:54&nbsp;&nbsp; [常微分方程数值解](/0112_数值计算_常微分方程数值解)&nbsp;&nbsp; :bookmark:数值计算 :bookmark:常微分方程数值解
 - 2026-11-25 17:54&nbsp;&nbsp; [数值微分与积分](/0111_数值计算_数值微分与积分)&nbsp;&nbsp; :bookmark:数值计算 :bookmark:数值微分与积分
-- 2026-11-25 17:54&nbsp;&nbsp; [插值与拟合](/0110_数值计算_插值与拟合)&nbsp;&nbsp; :bookmark:数值计算 :bookmark:插值与拟合
 - 2026-11-25 17:53&nbsp;&nbsp; [线性方程组的数值解法](/0109_数值计算_线性方程组的数值解法)&nbsp;&nbsp; :bookmark:数值计算 :bookmark:线性方程组的数值解法
 - 2026-11-25 17:53&nbsp;&nbsp; [非线性方程求根](/0108_数值计算_非线性方程求根)&nbsp;&nbsp; :bookmark:数值计算 :bookmark:非线性方程求根
 - 2026-11-25 17:52&nbsp;&nbsp; [误差与浮点数](/0107_数值计算_误差与浮点数)&nbsp;&nbsp; :bookmark:数值计算 :bookmark:误差与浮点数
 - 2026-11-25 17:52&nbsp;&nbsp; [数值计算](/0106_数值计算)&nbsp;&nbsp; :bookmark:数值计算
 - 2026-11-25 17:52&nbsp;&nbsp; [短时傅里叶与小波](/0105_信号与傅里叶变换_短时傅里叶与小波)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:短时傅里叶与小波
-- 2026-11-25 17:52&nbsp;&nbsp; [滤波器](/0104_信号与傅里叶变换_滤波器)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:滤波器
 - 2026-11-25 17:52&nbsp;&nbsp; [采样定理](/0103_信号与傅里叶变换_采样定理)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:采样定理
 - 2026-11-25 17:50&nbsp;&nbsp; [离散傅里叶变换与 FFT](/0102_信号与傅里叶变换_离散傅里叶变换与FFT)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:离散傅里叶变换与FFT
 - 2026-11-25 17:50&nbsp;&nbsp; [连续傅里叶变换](/0101_信号与傅里叶变换_连续傅里叶变换)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:连续傅里叶变换
-- 2026-11-25 17:50&nbsp;&nbsp; [卷积](/0100_信号与傅里叶变换_卷积)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:卷积
 - 2026-11-25 17:50&nbsp;&nbsp; [信号与线性系统](/0099_信号与傅里叶变换_信号与线性系统)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:信号与线性系统
 - 2026-11-25 17:50&nbsp;&nbsp; [信号与傅里叶变换](/0098_信号与傅里叶变换)&nbsp;&nbsp; :bookmark:信号与傅里叶变换
-- 2026-11-25 17:49&nbsp;&nbsp; [递推与生成函数](/0097_离散数学_递推与生成函数)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:递推与生成函数
 - 2026-11-25 17:49&nbsp;&nbsp; [数论基础](/0096_离散数学_数论基础)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:数论基础
 - 2026-11-25 17:49&nbsp;&nbsp; [代数结构](/0095_离散数学_代数结构)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:代数结构
-- 2026-11-25 17:49&nbsp;&nbsp; [组合计数](/0094_离散数学_组合计数)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:组合计数
 - 2026-11-25 17:49&nbsp;&nbsp; [命题逻辑](/0093_离散数学_命题逻辑)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:命题逻辑
 - 2026-11-25 17:47&nbsp;&nbsp; [集合与关系](/0092_离散数学_集合与关系)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:集合与关系
-- 2026-11-25 17:47&nbsp;&nbsp; [离散数学](/0091_离散数学)&nbsp;&nbsp; :bookmark:离散数学
-- 2026-11-25 17:47&nbsp;&nbsp; [最大熵原理](/0090_信息论_最大熵原理)&nbsp;&nbsp; :bookmark:信息论 :bookmark:最大熵原理
 - 2026-11-25 17:47&nbsp;&nbsp; [信道容量](/0089_信息论_信道容量)&nbsp;&nbsp; :bookmark:信息论 :bookmark:信道容量
 - 2026-11-25 17:47&nbsp;&nbsp; [信源编码](/0088_信息论_信源编码)&nbsp;&nbsp; :bookmark:信息论 :bookmark:信源编码
 - 2026-11-25 17:46&nbsp;&nbsp; [交叉熵与损失函数](/0087_信息论_交叉熵与损失函数)&nbsp;&nbsp; :bookmark:信息论 :bookmark:交叉熵与损失函数
-- 2026-11-25 17:46&nbsp;&nbsp; [互信息与 KL 散度](/0086_信息论_互信息与KL散度)&nbsp;&nbsp; :bookmark:信息论 :bookmark:互信息与KL散度
 - 2026-11-25 17:46&nbsp;&nbsp; [熵](/0085_信息论_熵)&nbsp;&nbsp; :bookmark:信息论 :bookmark:熵
 - 2026-11-25 17:46&nbsp;&nbsp; [信息论](/0084_信息论)&nbsp;&nbsp; :bookmark:信息论
 - 2026-11-25 17:44&nbsp;&nbsp; [二阶方法与拟牛顿](/0082_优化理论_二阶方法与拟牛顿)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:二阶方法与拟牛顿
