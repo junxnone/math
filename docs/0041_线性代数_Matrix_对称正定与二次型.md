@@ -2,7 +2,7 @@
 Title | 线性代数 Matrix 对称正定与二次型
 -- | --
 Created @ | `2026-11-24T14:42:18Z`
-Updated @| `2026-11-27T01:42:44Z`
+Updated @| `2026-11-27T01:49:01Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/math/issues/41)
 
@@ -10,6 +10,18 @@ Edit @| [here](https://github.com/junxnone/math/issues/41)
 # 对称正定与二次型
 
 二次型是关于向量各分量的二次齐次多项式，可以用对称矩阵紧凑表示。矩阵是否“正定”决定了二次型的形状：碗状（有最小值）、鞍形或倒碗，这是优化、协方差、能量函数分析的基础。
+
+## 概念关系图
+
+```mermaid
+flowchart LR
+    Q[二次型 x^T A x] --> C[定性分类 正定 半正定 不定]
+    C --> J[判定 特征值 顺序主子式 Cholesky]
+    C --> G[几何 椭圆 椭球 碗形 鞍形]
+    C --> R[A^T A 总是半正定]
+```
+
+图中：二次型的形状由对称矩阵的定性决定；判定方法有特征值、顺序主子式和 Cholesky 分解；正定对应「碗形」，不定对应「鞍形」；$A^\top A$ 总是半正定。
 
 ## 二次型
 
@@ -69,10 +81,20 @@ $$
 - 优化：Hessian 矩阵 $H$ 在驻点处正定 $\Rightarrow$ 严格局部极小；负定 $\Rightarrow$ 极大；不定 $\Rightarrow$ 鞍点。凸二次函数 $\tfrac12\mathbf{x}^\top A\mathbf{x}-\mathbf{b}^\top\mathbf{x}$ 的最小点满足 $A\mathbf{x}=\mathbf{b}$
 - 距离度量：马氏距离 $d^2=(\mathbf{x}-\boldsymbol\mu)^\top\Sigma^{-1}(\mathbf{x}-\boldsymbol\mu)$ 即以 $\Sigma^{-1}$ 为核的二次型
 
+## 在机器学习中的作用
+
+- 协方差矩阵、核矩阵（Gram 矩阵）都是对称半正定矩阵，见 [高斯过程进阶](https://github.com/junxnone/math/issues/20)
+- 优化：Hessian 正定则驻点是严格局部极小，凸函数的 Hessian 半正定，见 [凸集与凸函数](https://github.com/junxnone/math/issues/77)、[无约束优化](https://github.com/junxnone/math/issues/78)
+- 牛顿法需要 Hessian 正定才能保证下降方向，否则要做修正
+
+## 常见误区
+
+- 判定正定要求**所有**顺序主子式大于 0，只检查对角线元素为正或行列式为正都不够；半正定则要检查**所有**主子式非负，不只是顺序主子式
+- 二次型 $x^\top Ax$ 只与 $A$ 的**对称部分**有关，通常先把 $A$ 对称化 $\tfrac12(A+A^\top)$
+- 对称矩阵才谈正定性；非对称矩阵的 $x^\top Ax>0$ 不能推出特征值全为正
+
 ## Reference
 
 - [Definite matrix - Wikipedia](https://en.wikipedia.org/wiki/Definite_matrix)
 - Gilbert Strang, *Introduction to Linear Algebra*, Chapter 6
-
-
 
