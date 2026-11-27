@@ -132,6 +132,16 @@
 
 #### **Updated**
 
+- 2026-11-27 09:51&nbsp;&nbsp; [多元函数微分](/0054_微积分_多元函数微分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:多元函数微分
+- 2026-11-27 09:51&nbsp;&nbsp; [级数](/0053_微积分_级数)&nbsp;&nbsp; :bookmark:微积分 :bookmark:级数
+- 2026-11-27 09:51&nbsp;&nbsp; [积分](/0052_微积分_积分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:积分
+- 2026-11-27 09:51&nbsp;&nbsp; [中值定理与泰勒公式](/0051_微积分_中值定理与泰勒公式)&nbsp;&nbsp; :bookmark:微积分 :bookmark:中值定理与泰勒公式
+- 2026-11-27 09:51&nbsp;&nbsp; [导数与微分](/0050_微积分_导数与微分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:导数与微分
+- 2026-11-27 09:51&nbsp;&nbsp; [极限与连续](/0049_微积分_极限与连续)&nbsp;&nbsp; :bookmark:微积分 :bookmark:极限与连续
+- 2026-11-27 09:51&nbsp;&nbsp; [张量基础](/0047_线性代数_张量基础)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:张量基础
+- 2026-11-27 09:51&nbsp;&nbsp; [PCA](/0046_线性代数_PCA)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:PCA
+- 2026-11-27 09:51&nbsp;&nbsp; [范数与条件数](/0045_线性代数_Matrix_范数与条件数)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:范数与条件数
+- 2026-11-27 09:51&nbsp;&nbsp; [雅可比矩阵](/0044_线性代数_Matrix_雅可比矩阵)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:雅可比矩阵
 - 2026-11-27 09:49&nbsp;&nbsp; [伪逆](/0043_线性代数_Matrix_伪逆)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:伪逆
 - 2026-11-27 09:49&nbsp;&nbsp; [投影](/0042_线性代数_投影)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:投影
 - 2026-11-27 09:49&nbsp;&nbsp; [对称正定与二次型](/0041_线性代数_Matrix_对称正定与二次型)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:对称正定与二次型
@@ -169,11 +179,7 @@
 - 2026-11-27 09:43&nbsp;&nbsp; [条件概率与贝叶斯](/0061_概率论_条件概率与贝叶斯)&nbsp;&nbsp; :bookmark:概率论 :bookmark:条件概率与贝叶斯
 - 2026-11-27 09:43&nbsp;&nbsp; [概率论](/0059_概率论)&nbsp;&nbsp; :bookmark:概率论
 - 2026-11-27 09:43&nbsp;&nbsp; [重积分](/0055_微积分_重积分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:重积分
-- 2026-11-27 09:43&nbsp;&nbsp; [多元函数微分](/0054_微积分_多元函数微分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:多元函数微分
-- 2026-11-27 09:43&nbsp;&nbsp; [积分](/0052_微积分_积分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:积分
-- 2026-11-27 09:42&nbsp;&nbsp; [导数与微分](/0050_微积分_导数与微分)&nbsp;&nbsp; :bookmark:微积分 :bookmark:导数与微分
 - 2026-11-27 09:42&nbsp;&nbsp; [微积分](/0048_微积分)&nbsp;&nbsp; :bookmark:微积分
-- 2026-11-27 09:42&nbsp;&nbsp; [雅可比矩阵](/0044_线性代数_Matrix_雅可比矩阵)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:雅可比矩阵
 - 2026-11-27 09:42&nbsp;&nbsp; [线性代数](/0025_线性代数)&nbsp;&nbsp; :bookmark:线性代数
 - 2026-11-27 09:42&nbsp;&nbsp; [高斯滤波器进阶](/0021_信号与傅里叶变换_滤波器_高斯滤波器进阶)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:滤波器 :bookmark:高斯滤波器进阶
 - 2026-11-27 09:42&nbsp;&nbsp; [高斯过程进阶](/0020_概率论_随机过程初步_高斯过程进阶)&nbsp;&nbsp; :bookmark:概率论 :bookmark:随机过程初步 :bookmark:高斯过程进阶
@@ -248,12 +254,6 @@
 - 2026-11-25 17:38&nbsp;&nbsp; [极值与拉格朗日乘数](/0058_微积分_极值与拉格朗日乘数)&nbsp;&nbsp; :bookmark:微积分 :bookmark:极值与拉格朗日乘数
 - 2026-11-25 17:37&nbsp;&nbsp; [常微分方程](/0057_微积分_常微分方程)&nbsp;&nbsp; :bookmark:微积分 :bookmark:常微分方程
 - 2026-11-25 17:36&nbsp;&nbsp; [曲线曲面积分与场论](/0056_微积分_曲线曲面积分与场论)&nbsp;&nbsp; :bookmark:微积分 :bookmark:曲线曲面积分与场论
-- 2026-11-25 17:36&nbsp;&nbsp; [级数](/0053_微积分_级数)&nbsp;&nbsp; :bookmark:微积分 :bookmark:级数
-- 2026-11-25 17:35&nbsp;&nbsp; [中值定理与泰勒公式](/0051_微积分_中值定理与泰勒公式)&nbsp;&nbsp; :bookmark:微积分 :bookmark:中值定理与泰勒公式
-- 2026-11-25 17:35&nbsp;&nbsp; [极限与连续](/0049_微积分_极限与连续)&nbsp;&nbsp; :bookmark:微积分 :bookmark:极限与连续
-- 2026-11-25 17:33&nbsp;&nbsp; [张量基础](/0047_线性代数_张量基础)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:张量基础
-- 2026-11-25 17:33&nbsp;&nbsp; [PCA](/0046_线性代数_PCA)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:PCA
-- 2026-11-25 17:33&nbsp;&nbsp; [范数与条件数](/0045_线性代数_Matrix_范数与条件数)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:范数与条件数
 - 2026-11-25 17:09&nbsp;&nbsp; [二分图(Bipartite Graph)](/0023_图论_二分图)&nbsp;&nbsp; :bookmark:图论 :bookmark:二分图
 - 2026-11-25 17:09&nbsp;&nbsp; [图论 (Graph theory)](/0022_图论)&nbsp;&nbsp; :bookmark:图论
 - 2026-11-25 17:09&nbsp;&nbsp; [SVD](/0012_线性代数_SVD)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:SVD
