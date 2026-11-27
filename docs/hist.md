@@ -28,15 +28,15 @@
 - 2026-11-27 10:43&nbsp;&nbsp; [概率论 测度论基础](/0139_概率论_测度论基础)&nbsp;&nbsp; :bookmark:概率论 :bookmark:测度论基础
 - 2026-11-27 10:43&nbsp;&nbsp; [概率论 常见分布 指数族分布](/0138_概率论_常见分布_指数族分布)&nbsp;&nbsp; :bookmark:概率论 :bookmark:常见分布 :bookmark:指数族分布
 - 2026-11-27 10:43&nbsp;&nbsp; [概率论 期望方差与矩 概率不等式](/0137_概率论_期望方差与矩_概率不等式)&nbsp;&nbsp; :bookmark:概率论 :bookmark:期望方差与矩 :bookmark:概率不等式
-- 2026-11-27 10:43&nbsp;&nbsp; [线性代数 线性变换 刚体变换与齐次坐标](/0136_线性代数_线性变换_刚体变换与齐次坐标)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:线性变换 :bookmark:刚体变换与齐次坐标
-- 2026-11-27 10:43&nbsp;&nbsp; [线性代数 线性变换 李群与李代数](/0135_线性代数_线性变换_李群与李代数)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:线性变换 :bookmark:李群与李代数
-- 2026-11-27 10:43&nbsp;&nbsp; [线性代数 向量空间 希尔伯特空间与核方法](/0134_线性代数_向量空间_希尔伯特空间与核方法)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:向量空间 :bookmark:希尔伯特空间与核方法
-- 2026-11-27 10:43&nbsp;&nbsp; [线性代数 Matrix 矩阵函数与矩阵指数](/0133_线性代数_Matrix_矩阵函数与矩阵指数)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:矩阵函数与矩阵指数
-- 2026-11-27 10:43&nbsp;&nbsp; [线性代数 Matrix 矩阵分解 非负矩阵分解](/0132_线性代数_Matrix_矩阵分解_非负矩阵分解)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:矩阵分解 :bookmark:非负矩阵分解
-- 2026-11-27 10:43&nbsp;&nbsp; [线性代数 Matrix 矩阵分解 Cholesky分解](/0131_线性代数_Matrix_矩阵分解_Cholesky分解)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:矩阵分解 :bookmark:Cholesky分解
-- 2026-11-27 10:42&nbsp;&nbsp; [线性代数 Matrix 矩阵分解 QR分解](/0130_线性代数_Matrix_矩阵分解_QR分解)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:矩阵分解 :bookmark:QR分解
-- 2026-11-27 10:42&nbsp;&nbsp; [线性代数 Matrix 矩阵分解 LU分解](/0129_线性代数_Matrix_矩阵分解_LU分解)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:矩阵分解 :bookmark:LU分解
-- 2026-11-27 10:42&nbsp;&nbsp; [线性代数 Matrix 矩阵微积分](/0128_线性代数_Matrix_矩阵微积分)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:矩阵微积分
+- 2026-11-27 10:43&nbsp;&nbsp; [刚体变换与齐次坐标](/0136_线性代数_线性变换_刚体变换与齐次坐标)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:线性变换 :bookmark:刚体变换与齐次坐标
+- 2026-11-27 10:43&nbsp;&nbsp; [李群与李代数](/0135_线性代数_线性变换_李群与李代数)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:线性变换 :bookmark:李群与李代数
+- 2026-11-27 10:43&nbsp;&nbsp; [希尔伯特空间与核方法](/0134_线性代数_向量空间_希尔伯特空间与核方法)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:向量空间 :bookmark:希尔伯特空间与核方法
+- 2026-11-27 10:43&nbsp;&nbsp; [矩阵函数与矩阵指数](/0133_线性代数_Matrix_矩阵函数与矩阵指数)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:矩阵函数与矩阵指数
+- 2026-11-27 10:43&nbsp;&nbsp; [非负矩阵分解](/0132_线性代数_Matrix_矩阵分解_非负矩阵分解)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:矩阵分解 :bookmark:非负矩阵分解
+- 2026-11-27 10:43&nbsp;&nbsp; [Cholesky分解](/0131_线性代数_Matrix_矩阵分解_Cholesky分解)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:矩阵分解 :bookmark:Cholesky分解
+- 2026-11-27 10:42&nbsp;&nbsp; [QR分解](/0130_线性代数_Matrix_矩阵分解_QR分解)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:矩阵分解 :bookmark:QR分解
+- 2026-11-27 10:42&nbsp;&nbsp; [LU分解](/0129_线性代数_Matrix_矩阵分解_LU分解)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:矩阵分解 :bookmark:LU分解
+- 2026-11-27 10:42&nbsp;&nbsp; [矩阵微积分](/0128_线性代数_Matrix_矩阵微积分)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:矩阵微积分
 - 2026-11-25 09:31&nbsp;&nbsp; [图神经网络基础](/0127_图论_图神经网络基础)&nbsp;&nbsp; :bookmark:图论 :bookmark:图神经网络基础
 - 2026-11-25 09:30&nbsp;&nbsp; [随机图与复杂网络](/0126_图论_随机图与复杂网络)&nbsp;&nbsp; :bookmark:图论 :bookmark:随机图与复杂网络
 - 2026-11-25 09:29&nbsp;&nbsp; [NP难问题](/0125_图论_NP难问题)&nbsp;&nbsp; :bookmark:图论 :bookmark:NP难问题
@@ -165,6 +165,15 @@
 
 #### **Updated**
 
+- 2026-11-27 10:48&nbsp;&nbsp; [刚体变换与齐次坐标](/0136_线性代数_线性变换_刚体变换与齐次坐标)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:线性变换 :bookmark:刚体变换与齐次坐标
+- 2026-11-27 10:48&nbsp;&nbsp; [李群与李代数](/0135_线性代数_线性变换_李群与李代数)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:线性变换 :bookmark:李群与李代数
+- 2026-11-27 10:48&nbsp;&nbsp; [希尔伯特空间与核方法](/0134_线性代数_向量空间_希尔伯特空间与核方法)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:向量空间 :bookmark:希尔伯特空间与核方法
+- 2026-11-27 10:47&nbsp;&nbsp; [矩阵函数与矩阵指数](/0133_线性代数_Matrix_矩阵函数与矩阵指数)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:矩阵函数与矩阵指数
+- 2026-11-27 10:47&nbsp;&nbsp; [非负矩阵分解](/0132_线性代数_Matrix_矩阵分解_非负矩阵分解)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:矩阵分解 :bookmark:非负矩阵分解
+- 2026-11-27 10:47&nbsp;&nbsp; [Cholesky分解](/0131_线性代数_Matrix_矩阵分解_Cholesky分解)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:矩阵分解 :bookmark:Cholesky分解
+- 2026-11-27 10:47&nbsp;&nbsp; [QR分解](/0130_线性代数_Matrix_矩阵分解_QR分解)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:矩阵分解 :bookmark:QR分解
+- 2026-11-27 10:47&nbsp;&nbsp; [LU分解](/0129_线性代数_Matrix_矩阵分解_LU分解)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:矩阵分解 :bookmark:LU分解
+- 2026-11-27 10:47&nbsp;&nbsp; [矩阵微积分](/0128_线性代数_Matrix_矩阵微积分)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:矩阵微积分
 - 2026-11-27 10:44&nbsp;&nbsp; [离散数学 随机算法与哈希](/0160_离散数学_随机算法与哈希)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:随机算法与哈希
 - 2026-11-27 10:44&nbsp;&nbsp; [图论 谱图论 PageRank](/0159_图论_谱图论_PageRank)&nbsp;&nbsp; :bookmark:图论 :bookmark:谱图论 :bookmark:PageRank
 - 2026-11-27 10:44&nbsp;&nbsp; [信息论 信道容量 纠错码](/0158_信息论_信道容量_纠错码)&nbsp;&nbsp; :bookmark:信息论 :bookmark:信道容量 :bookmark:纠错码
@@ -189,15 +198,6 @@
 - 2026-11-27 10:43&nbsp;&nbsp; [概率论 测度论基础](/0139_概率论_测度论基础)&nbsp;&nbsp; :bookmark:概率论 :bookmark:测度论基础
 - 2026-11-27 10:43&nbsp;&nbsp; [概率论 常见分布 指数族分布](/0138_概率论_常见分布_指数族分布)&nbsp;&nbsp; :bookmark:概率论 :bookmark:常见分布 :bookmark:指数族分布
 - 2026-11-27 10:43&nbsp;&nbsp; [概率论 期望方差与矩 概率不等式](/0137_概率论_期望方差与矩_概率不等式)&nbsp;&nbsp; :bookmark:概率论 :bookmark:期望方差与矩 :bookmark:概率不等式
-- 2026-11-27 10:43&nbsp;&nbsp; [线性代数 线性变换 刚体变换与齐次坐标](/0136_线性代数_线性变换_刚体变换与齐次坐标)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:线性变换 :bookmark:刚体变换与齐次坐标
-- 2026-11-27 10:43&nbsp;&nbsp; [线性代数 线性变换 李群与李代数](/0135_线性代数_线性变换_李群与李代数)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:线性变换 :bookmark:李群与李代数
-- 2026-11-27 10:43&nbsp;&nbsp; [线性代数 向量空间 希尔伯特空间与核方法](/0134_线性代数_向量空间_希尔伯特空间与核方法)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:向量空间 :bookmark:希尔伯特空间与核方法
-- 2026-11-27 10:43&nbsp;&nbsp; [线性代数 Matrix 矩阵函数与矩阵指数](/0133_线性代数_Matrix_矩阵函数与矩阵指数)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:矩阵函数与矩阵指数
-- 2026-11-27 10:43&nbsp;&nbsp; [线性代数 Matrix 矩阵分解 非负矩阵分解](/0132_线性代数_Matrix_矩阵分解_非负矩阵分解)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:矩阵分解 :bookmark:非负矩阵分解
-- 2026-11-27 10:43&nbsp;&nbsp; [线性代数 Matrix 矩阵分解 Cholesky分解](/0131_线性代数_Matrix_矩阵分解_Cholesky分解)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:矩阵分解 :bookmark:Cholesky分解
-- 2026-11-27 10:42&nbsp;&nbsp; [线性代数 Matrix 矩阵分解 QR分解](/0130_线性代数_Matrix_矩阵分解_QR分解)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:矩阵分解 :bookmark:QR分解
-- 2026-11-27 10:42&nbsp;&nbsp; [线性代数 Matrix 矩阵分解 LU分解](/0129_线性代数_Matrix_矩阵分解_LU分解)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:矩阵分解 :bookmark:LU分解
-- 2026-11-27 10:42&nbsp;&nbsp; [线性代数 Matrix 矩阵微积分](/0128_线性代数_Matrix_矩阵微积分)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix :bookmark:矩阵微积分
 - 2026-11-27 10:10&nbsp;&nbsp; [NP难问题](/0125_图论_NP难问题)&nbsp;&nbsp; :bookmark:图论 :bookmark:NP难问题
 - 2026-11-27 10:10&nbsp;&nbsp; [欧拉图与哈密顿图](/0122_图论_欧拉图与哈密顿图)&nbsp;&nbsp; :bookmark:图论 :bookmark:欧拉图与哈密顿图
 - 2026-11-27 10:10&nbsp;&nbsp; [最短路径](/0115_图论_最短路径)&nbsp;&nbsp; :bookmark:图论 :bookmark:最短路径
