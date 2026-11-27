@@ -132,6 +132,13 @@
 
 #### **Updated**
 
+- 2026-11-27 10:09&nbsp;&nbsp; [卷积](/0100_信号与傅里叶变换_卷积)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:卷积
+- 2026-11-27 10:09&nbsp;&nbsp; [递推与生成函数](/0097_离散数学_递推与生成函数)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:递推与生成函数
+- 2026-11-27 10:09&nbsp;&nbsp; [组合计数](/0094_离散数学_组合计数)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:组合计数
+- 2026-11-27 10:09&nbsp;&nbsp; [离散数学](/0091_离散数学)&nbsp;&nbsp; :bookmark:离散数学
+- 2026-11-27 10:09&nbsp;&nbsp; [最大熵原理](/0090_信息论_最大熵原理)&nbsp;&nbsp; :bookmark:信息论 :bookmark:最大熵原理
+- 2026-11-27 10:09&nbsp;&nbsp; [互信息与 KL 散度](/0086_信息论_互信息与KL散度)&nbsp;&nbsp; :bookmark:信息论 :bookmark:互信息与KL散度
+- 2026-11-27 10:09&nbsp;&nbsp; [非凸优化](/0083_优化理论_非凸优化)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:非凸优化
 - 2026-11-27 10:08&nbsp;&nbsp; [约束优化与对偶](/0079_优化理论_约束优化与对偶)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:约束优化与对偶
 - 2026-11-27 10:08&nbsp;&nbsp; [优化理论](/0076_优化理论)&nbsp;&nbsp; :bookmark:优化理论
 - 2026-11-27 10:08&nbsp;&nbsp; [贝叶斯统计](/0074_数理统计_贝叶斯统计)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:贝叶斯统计
@@ -182,21 +189,15 @@
 - 2026-11-27 09:59&nbsp;&nbsp; [采样定理](/0103_信号与傅里叶变换_采样定理)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:采样定理
 - 2026-11-27 09:59&nbsp;&nbsp; [离散傅里叶变换与 FFT](/0102_信号与傅里叶变换_离散傅里叶变换与FFT)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:离散傅里叶变换与FFT
 - 2026-11-27 09:59&nbsp;&nbsp; [连续傅里叶变换](/0101_信号与傅里叶变换_连续傅里叶变换)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:连续傅里叶变换
-- 2026-11-27 09:59&nbsp;&nbsp; [卷积](/0100_信号与傅里叶变换_卷积)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:卷积
 - 2026-11-27 09:59&nbsp;&nbsp; [信号与线性系统](/0099_信号与傅里叶变换_信号与线性系统)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:信号与线性系统
-- 2026-11-27 09:58&nbsp;&nbsp; [递推与生成函数](/0097_离散数学_递推与生成函数)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:递推与生成函数
 - 2026-11-27 09:58&nbsp;&nbsp; [数论基础](/0096_离散数学_数论基础)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:数论基础
 - 2026-11-27 09:58&nbsp;&nbsp; [代数结构](/0095_离散数学_代数结构)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:代数结构
-- 2026-11-27 09:58&nbsp;&nbsp; [组合计数](/0094_离散数学_组合计数)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:组合计数
 - 2026-11-27 09:58&nbsp;&nbsp; [命题逻辑](/0093_离散数学_命题逻辑)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:命题逻辑
 - 2026-11-27 09:58&nbsp;&nbsp; [集合与关系](/0092_离散数学_集合与关系)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:集合与关系
 - 2026-11-27 09:58&nbsp;&nbsp; [信道容量](/0089_信息论_信道容量)&nbsp;&nbsp; :bookmark:信息论 :bookmark:信道容量
 - 2026-11-27 09:57&nbsp;&nbsp; [信源编码](/0088_信息论_信源编码)&nbsp;&nbsp; :bookmark:信息论 :bookmark:信源编码
-- 2026-11-27 09:56&nbsp;&nbsp; [最大熵原理](/0090_信息论_最大熵原理)&nbsp;&nbsp; :bookmark:信息论 :bookmark:最大熵原理
 - 2026-11-27 09:56&nbsp;&nbsp; [交叉熵与损失函数](/0087_信息论_交叉熵与损失函数)&nbsp;&nbsp; :bookmark:信息论 :bookmark:交叉熵与损失函数
-- 2026-11-27 09:56&nbsp;&nbsp; [互信息与 KL 散度](/0086_信息论_互信息与KL散度)&nbsp;&nbsp; :bookmark:信息论 :bookmark:互信息与KL散度
 - 2026-11-27 09:56&nbsp;&nbsp; [熵](/0085_信息论_熵)&nbsp;&nbsp; :bookmark:信息论 :bookmark:熵
-- 2026-11-27 09:56&nbsp;&nbsp; [非凸优化](/0083_优化理论_非凸优化)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:非凸优化
 - 2026-11-27 09:56&nbsp;&nbsp; [二阶方法与拟牛顿](/0082_优化理论_二阶方法与拟牛顿)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:二阶方法与拟牛顿
 - 2026-11-27 09:56&nbsp;&nbsp; [一阶方法与随机梯度](/0081_优化理论_一阶方法与随机梯度)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:一阶方法与随机梯度
 - 2026-11-27 09:56&nbsp;&nbsp; [线性规划](/0080_优化理论_线性规划)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:线性规划
@@ -227,7 +228,6 @@
 - 2026-11-27 09:46&nbsp;&nbsp; [线性相关和线性无关](/0024_线性代数_线性相关无关)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:线性相关无关
 - 2026-11-27 09:46&nbsp;&nbsp; [矩阵](/0004_线性代数_Matrix)&nbsp;&nbsp; :bookmark:线性代数 :bookmark:Matrix
 - 2026-11-27 09:46&nbsp;&nbsp; [数学基础](/0001_Math)&nbsp;&nbsp; :bookmark:Math
-- 2026-11-27 09:44&nbsp;&nbsp; [离散数学](/0091_离散数学)&nbsp;&nbsp; :bookmark:离散数学
 - 2026-11-27 09:42&nbsp;&nbsp; [高斯滤波器进阶](/0021_信号与傅里叶变换_滤波器_高斯滤波器进阶)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:滤波器 :bookmark:高斯滤波器进阶
 - 2026-11-27 09:42&nbsp;&nbsp; [高斯过程进阶](/0020_概率论_随机过程初步_高斯过程进阶)&nbsp;&nbsp; :bookmark:概率论 :bookmark:随机过程初步 :bookmark:高斯过程进阶
 - 2026-11-27 09:42&nbsp;&nbsp; [拉格朗日乘数法进阶](/0019_微积分_极值与拉格朗日乘数_拉格朗日乘数法进阶)&nbsp;&nbsp; :bookmark:微积分 :bookmark:极值与拉格朗日乘数 :bookmark:拉格朗日乘数法进阶
