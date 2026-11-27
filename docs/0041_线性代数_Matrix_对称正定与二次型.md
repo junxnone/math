@@ -2,7 +2,7 @@
 Title | 线性代数 Matrix 对称正定与二次型
 -- | --
 Created @ | `2026-11-24T14:42:18Z`
-Updated @| `2026-11-25T09:20:48Z`
+Updated @| `2026-11-27T01:42:44Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/math/issues/41)
 
@@ -65,7 +65,7 @@ $$
 
 ## 应用
 
-- 协方差矩阵：$\mathbf{w}^\top\Sigma\mathbf{w}=\operatorname{Var}(\mathbf{w}^\top\mathbf{X})\ge0$，所以协方差矩阵半正定；高斯分布要求 $\Sigma$ 正定（见 [Gaussian Distribution](/0005_Math_GaussianDistribution)）
+- 协方差矩阵：$\mathbf{w}^\top\Sigma\mathbf{w}=\operatorname{Var}(\mathbf{w}^\top\mathbf{X})\ge0$，所以协方差矩阵半正定；高斯分布要求 $\Sigma$ 正定（见 [Gaussian Distribution](/0005_概率论_常见分布_高斯分布进阶)）
 - 优化：Hessian 矩阵 $H$ 在驻点处正定 $\Rightarrow$ 严格局部极小；负定 $\Rightarrow$ 极大；不定 $\Rightarrow$ 鞍点。凸二次函数 $\tfrac12\mathbf{x}^\top A\mathbf{x}-\mathbf{b}^\top\mathbf{x}$ 的最小点满足 $A\mathbf{x}=\mathbf{b}$
 - 距离度量：马氏距离 $d^2=(\mathbf{x}-\boldsymbol\mu)^\top\Sigma^{-1}(\mathbf{x}-\boldsymbol\mu)$ 即以 $\Sigma^{-1}$ 为核的二次型
 
@@ -73,5 +73,6 @@ $$
 
 - [Definite matrix - Wikipedia](https://en.wikipedia.org/wiki/Definite_matrix)
 - Gilbert Strang, *Introduction to Linear Algebra*, Chapter 6
+
 
 

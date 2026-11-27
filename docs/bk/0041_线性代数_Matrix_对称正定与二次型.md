@@ -3,7 +3,7 @@
 | Title     | 线性代数 Matrix 对称正定与二次型                               |
 | --------- | -------------------------------------------------- |
 | Created @ | `2026-11-24T14:42:18Z`                             |
-| Updated @ | `2026-11-25T09:20:48Z`                             |
+| Updated @ | `2026-11-27T01:42:44Z`                             |
 | Labels    | \`\`                                               |
 | Edit @    | [here](https://github.com/junxnone/math/issues/41) |
 
@@ -75,8 +75,7 @@ $$ \\mathbf{x}^\\top(A^\\top A)\\mathbf{x}=|A\\mathbf{x}|\_2^2\\ge0 $$
 ## 应用
 
   - 协方差矩阵：$\\mathbf{w}^\\top\\Sigma\\mathbf{w}=\\operatorname{Var}(\\mathbf{w}^\\top\\mathbf{X})\\ge0$，所以协方差矩阵半正定；高斯分布要求
-    $\\Sigma$ 正定（见 [Gaussian
-    Distribution](/0005_Math_GaussianDistribution)）
+    $\\Sigma$ 正定（见 [Gaussian Distribution](/0005_概率论_常见分布_高斯分布进阶)）
   - 优化：Hessian 矩阵 $H$ 在驻点处正定 $\\Rightarrow$ 严格局部极小；负定 $\\Rightarrow$
     极大；不定 $\\Rightarrow$ 鞍点。凸二次函数 $\\tfrac12\\mathbf{x}^\\top
     A\\mathbf{x}-\\mathbf{b}^\\top\\mathbf{x}$ 的最小点满足
