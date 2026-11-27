@@ -2,9 +2,87 @@
 Title | 图论 谱图论 PageRank
 -- | --
 Created @ | `2026-11-27T02:44:53Z`
-Updated @| `2026-11-27T02:44:53Z`
+Updated @| `2026-11-27T02:57:09Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/math/issues/159)
 
 ---
-# 图论 谱图论 PageRank
+# PageRank
+
+PageRank 用**随机游走**的平稳分布衡量图中节点的重要性：被很多重要节点指向的节点也重要。它最初用于网页排序，现在广泛用于任何网络的中心性分析。随机游走与马尔可夫链见 [马尔可夫过程进阶](https://github.com/junxnone/math/issues/18)，特征向量见 [特征值与特征向量](https://github.com/junxnone/math/issues/36)，图与谱方法见 [谱图论](https://github.com/junxnone/math/issues/124)。
+
+## 概念关系图
+
+```mermaid
+flowchart LR
+    G[有向图 网页链接] --> T[转移矩阵 按出链均分]
+    T --> D[加入阻尼 随机跳转]
+    D --> M[Google 矩阵 不可约 非周期]
+    M --> S[平稳分布 即主特征向量]
+    S --> R[PageRank 值]
+    M --> P[求解 幂法迭代]
+```
+
+图中：把网页链接图变成随机游走的转移矩阵；加入阻尼（随机跳转）保证不可约和非周期；其平稳分布（主特征向量）就是 PageRank；用幂法迭代求出。
+
+## 随机游走与重要性
+
+设有 $n$ 个节点，$L_{ij}=1$ 表示 $j$ 链接到 $i$。随机冲浪者在每个节点上等概率地沿出链走。列随机转移矩阵：
+
+$$
+M_{ij}=\begin{cases}1/d_j^{\text{out}}&j\to i\\0&\text{否则}\end{cases}
+$$
+
+其中：$d_j^{\text{out}}$ 为节点 $j$ 的出度；$M$ 的每列和为 1。稳态时访问各节点的概率 $\mathbf{r}$ 满足 $\mathbf{r}=M\mathbf{r}$，即 $M$ 的特征值 1 对应的特征向量——**一个节点重要，当且仅当指向它的节点重要且这些节点链接较少**。
+
+## 阻尼因子与 Google 矩阵
+
+真实网络有「悬挂节点」（无出链）和「陷阱」（环路），使 $M$ 不满足收敛条件。引入阻尼因子 $d\in(0,1)$（常取 0.85）：以概率 $d$ 沿链接走，以概率 $1-d$ 随机跳到任意节点：
+
+$$
+\mathbf{r}=\Bigl(d\,M+\frac{1-d}{n}\mathbf{1}\mathbf{1}^{\top}\Bigr)\mathbf{r},\qquad\text{即}\quad r_i=\frac{1-d}{n}+d\sum_{j\to i}\frac{r_j}{d_j^{\text{out}}}
+$$
+
+其中：$\mathbf{1}\mathbf{1}^{\top}$ 是全 1 矩阵，括号内称为 **Google 矩阵** $G$；$G$ 是正矩阵，由 Perron–Frobenius 定理，它有唯一的正的平稳分布；跳转项还保证对悬挂节点也有定义（把悬挂节点视为均匀链接到所有节点）。
+
+## 求解：幂法
+
+$$
+\mathbf{r}^{(k+1)}=G\,\mathbf{r}^{(k)},\qquad \mathbf{r}^{(0)}=\tfrac1n\mathbf{1}
+$$
+
+其中：每次迭代只需要稀疏矩阵 – 向量乘积 $M\mathbf{r}$（加上一个向量加法），复杂度与边数成正比；收敛速度由第二大特征值决定：$G$ 的第二特征值模不超过 $d$，所以误差按 $d^{k}$ 衰减，$d=0.85$ 时约 50 次迭代达到高精度。幂法见 [特征值数值算法](https://github.com/junxnone/math/issues/113)。
+
+## 与相近中心性对比
+
+| 中心性 | 定义 | 特点 |
+| --- | --- | --- |
+| 度中心性 | 度数 | 只看直接连接 |
+| 特征向量中心性 | 邻接矩阵的主特征向量 | 连到重要节点则重要；对有向图可能不唯一 |
+| PageRank | 带阻尼的随机游走平稳分布 | 解决了特征向量中心性在有向图中的问题 |
+| 介数中心性 | 经过该节点的最短路径比例 | 衡量桥梁作用，计算较贵，见 [最短路径](https://github.com/junxnone/math/issues/115) |
+
+表中：对比结论：PageRank 可以看作加了随机重启的特征向量中心性，适用于有向、稀疏、大规模网络，见 [随机图与复杂网络](https://github.com/junxnone/math/issues/126)。
+
+## 个性化 PageRank
+
+把随机跳转的目标从均匀分布改为偏好分布 $\mathbf{p}$（例如只跳到某个种子节点）：
+
+$$
+\mathbf{r}=d\,M\mathbf{r}+(1-d)\,\mathbf{p}
+$$
+
+其中：$\mathbf{p}$ 为个性化（重启）分布；解为 $\mathbf{r}=(1-d)(I-dM)^{-1}\mathbf{p}$（见 [线性方程组](https://github.com/junxnone/math/issues/35)）。它衡量「相对于种子节点的重要性 / 相似性」，用于推荐、实体相关性与局部社区发现。
+
+## 在机器学习中的作用
+
+- 搜索与推荐排序、社交网络影响力、知识图谱中的实体重要性
+- 图神经网络：APPNP、PPRGo 用个性化 PageRank 做信息传播，缓解过平滑，见 [图神经网络基础](https://github.com/junxnone/math/issues/127)
+- 半监督学习的标签传播、关键词抽取（TextRank）
+
+## 常见误区
+
+- PageRank 反映的是**链接结构**的重要性，不是内容质量；它与具体搜索词无关（除个性化版本）
+- 阻尼因子不是「概率越高越好」：$d\to1$ 收敛很慢且对结构更敏感，$d\to0$ 退化成均匀分布
+- 稠密化存储 $G$（含全 1 项）会使存储爆炸；实现时始终用稀疏矩阵 $M$ 加上跳转项的隐式形式
+
