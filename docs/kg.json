@@ -892,6 +892,69 @@
       "childLinks": []
     },
     {
+      "id": "math 信号与傅里叶变换 拉普拉斯变换与Z变换",
+      "group": 2,
+      "title": "信号与傅里叶变换 拉普拉斯变换与Z变换",
+      "url": "https://junxnone.github.io/math/#/0148_信号与傅里叶变换_拉普拉斯变换与Z变换",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 微积分 偏微分方程初步",
+      "group": 2,
+      "title": "微积分 偏微分方程初步",
+      "url": "https://junxnone.github.io/math/#/0153_微积分_偏微分方程初步",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 微积分 变分法",
+      "group": 2,
+      "title": "微积分 变分法",
+      "url": "https://junxnone.github.io/math/#/0154_微积分_变分法",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 微积分 复变函数初步",
+      "group": 2,
+      "title": "微积分 复变函数初步",
+      "url": "https://junxnone.github.io/math/#/0155_微积分_复变函数初步",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 微积分 微分几何初步",
+      "group": 2,
+      "title": "微积分 微分几何初步",
+      "url": "https://junxnone.github.io/math/#/0156_微积分_微分几何初步",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 信息论 信息瓶颈与率失真",
+      "group": 2,
+      "title": "信息论 信息瓶颈与率失真",
+      "url": "https://junxnone.github.io/math/#/0157_信息论_信息瓶颈与率失真",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 离散数学 随机算法与哈希",
+      "group": 2,
+      "title": "离散数学 随机算法与哈希",
+      "url": "https://junxnone.github.io/math/#/0160_离散数学_随机算法与哈希",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 概率论 常见分布 高斯分布进阶",
       "group": 3,
       "title": "高斯分布进阶",
@@ -1211,6 +1274,123 @@
       "group": 3,
       "title": "概率论 随机过程初步 泊松过程",
       "url": "https://junxnone.github.io/math/#/0140_概率论_随机过程初步_泊松过程",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 概率论 随机过程初步 布朗运动与伊藤积分",
+      "group": 3,
+      "title": "概率论 随机过程初步 布朗运动与伊藤积分",
+      "url": "https://junxnone.github.io/math/#/0141_概率论_随机过程初步_布朗运动与伊藤积分",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 概率论 随机过程初步 隐马尔可夫模型",
+      "group": 3,
+      "title": "概率论 随机过程初步 隐马尔可夫模型",
+      "url": "https://junxnone.github.io/math/#/0142_概率论_随机过程初步_隐马尔可夫模型",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 概率论 随机过程初步 马尔可夫决策过程",
+      "group": 3,
+      "title": "概率论 随机过程初步 马尔可夫决策过程",
+      "url": "https://junxnone.github.io/math/#/0143_概率论_随机过程初步_马尔可夫决策过程",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 数理统计 点估计 EM算法",
+      "group": 3,
+      "title": "数理统计 点估计 EM算法",
+      "url": "https://junxnone.github.io/math/#/0144_数理统计_点估计_EM算法",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 数理统计 贝叶斯统计 MCMC采样",
+      "group": 3,
+      "title": "数理统计 贝叶斯统计 MCMC采样",
+      "url": "https://junxnone.github.io/math/#/0145_数理统计_贝叶斯统计_MCMC采样",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 数理统计 贝叶斯统计 变分推断",
+      "group": 3,
+      "title": "数理统计 贝叶斯统计 变分推断",
+      "url": "https://junxnone.github.io/math/#/0146_数理统计_贝叶斯统计_变分推断",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 信号与傅里叶变换 滤波器 卡尔曼滤波",
+      "group": 3,
+      "title": "信号与傅里叶变换 滤波器 卡尔曼滤波",
+      "url": "https://junxnone.github.io/math/#/0147_信号与傅里叶变换_滤波器_卡尔曼滤波",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 优化理论 约束优化与对偶 ADMM",
+      "group": 3,
+      "title": "优化理论 约束优化与对偶 ADMM",
+      "url": "https://junxnone.github.io/math/#/0149_优化理论_约束优化与对偶_ADMM",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 优化理论 约束优化与对偶 支持向量机",
+      "group": 3,
+      "title": "优化理论 约束优化与对偶 支持向量机",
+      "url": "https://junxnone.github.io/math/#/0150_优化理论_约束优化与对偶_支持向量机",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 优化理论 线性规划 最优传输",
+      "group": 3,
+      "title": "优化理论 线性规划 最优传输",
+      "url": "https://junxnone.github.io/math/#/0151_优化理论_线性规划_最优传输",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 数值计算 数值微分与积分 自动微分",
+      "group": 3,
+      "title": "数值计算 数值微分与积分 自动微分",
+      "url": "https://junxnone.github.io/math/#/0152_数值计算_数值微分与积分_自动微分",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 信息论 信道容量 纠错码",
+      "group": 3,
+      "title": "信息论 信道容量 纠错码",
+      "url": "https://junxnone.github.io/math/#/0158_信息论_信道容量_纠错码",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 图论 谱图论 PageRank",
+      "group": 3,
+      "title": "图论 谱图论 PageRank",
+      "url": "https://junxnone.github.io/math/#/0159_图论_谱图论_PageRank",
       "visible": true,
       "expand": true,
       "childLinks": []
@@ -1597,6 +1777,34 @@
       "expand": true
     },
     {
+      "source": "math 微积分",
+      "target": "math 微积分 偏微分方程初步",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 微积分",
+      "target": "math 微积分 变分法",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 微积分",
+      "target": "math 微积分 复变函数初步",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 微积分",
+      "target": "math 微积分 微分几何初步",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
       "source": "math 概率论",
       "target": "math 概率论 概率空间与公理",
       "value": 2,
@@ -1800,6 +2008,13 @@
       "expand": true
     },
     {
+      "source": "math 信息论",
+      "target": "math 信息论 信息瓶颈与率失真",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
       "source": "math 离散数学",
       "target": "math 离散数学 集合与关系",
       "value": 2,
@@ -1837,6 +2052,13 @@
     {
       "source": "math 离散数学",
       "target": "math 离散数学 递推与生成函数",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 离散数学",
+      "target": "math 离散数学 随机算法与哈希",
       "value": 2,
       "visible": true,
       "expand": true
@@ -1886,6 +2108,13 @@
     {
       "source": "math 信号与傅里叶变换",
       "target": "math 信号与傅里叶变换 短时傅里叶与小波",
+      "value": 2,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 信号与傅里叶变换",
+      "target": "math 信号与傅里叶变换 拉普拉斯变换与Z变换",
       "value": 2,
       "visible": true,
       "expand": true
@@ -2150,6 +2379,34 @@
       "expand": true
     },
     {
+      "source": "math 概率论 随机过程初步",
+      "target": "math 概率论 随机过程初步 布朗运动与伊藤积分",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 概率论 随机过程初步",
+      "target": "math 概率论 随机过程初步 隐马尔可夫模型",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 概率论 随机过程初步",
+      "target": "math 概率论 随机过程初步 马尔可夫决策过程",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 数理统计 点估计",
+      "target": "math 数理统计 点估计 EM算法",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
       "source": "math 数理统计 回归分析",
       "target": "math 数理统计 回归分析 最小二乘进阶",
       "value": 3,
@@ -2157,8 +2414,50 @@
       "expand": true
     },
     {
+      "source": "math 数理统计 贝叶斯统计",
+      "target": "math 数理统计 贝叶斯统计 MCMC采样",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 数理统计 贝叶斯统计",
+      "target": "math 数理统计 贝叶斯统计 变分推断",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 优化理论 约束优化与对偶",
+      "target": "math 优化理论 约束优化与对偶 ADMM",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 优化理论 约束优化与对偶",
+      "target": "math 优化理论 约束优化与对偶 支持向量机",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 优化理论 线性规划",
+      "target": "math 优化理论 线性规划 最优传输",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
       "source": "math 优化理论 非凸优化",
       "target": "math 优化理论 非凸优化 模拟退火进阶",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 信息论 信道容量",
+      "target": "math 信息论 信道容量 纠错码",
       "value": 3,
       "visible": true,
       "expand": true
@@ -2178,6 +2477,13 @@
       "expand": true
     },
     {
+      "source": "math 信号与傅里叶变换 滤波器",
+      "target": "math 信号与傅里叶变换 滤波器 卡尔曼滤波",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
       "source": "math 数值计算 插值与拟合",
       "target": "math 数值计算 插值与拟合 RANSAC进阶",
       "value": 3,
@@ -2185,8 +2491,22 @@
       "expand": true
     },
     {
+      "source": "math 数值计算 数值微分与积分",
+      "target": "math 数值计算 数值微分与积分 自动微分",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
       "source": "math 图论 树",
       "target": "math 图论 树 四叉树与八叉树进阶",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 图论 谱图论",
+      "target": "math 图论 谱图论 PageRank",
       "value": 3,
       "visible": true,
       "expand": true
