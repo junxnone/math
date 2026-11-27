@@ -2,7 +2,7 @@
 Title | 线性代数 Matrix 雅可比矩阵
 -- | --
 Created @ | `2026-11-24T14:42:25Z`
-Updated @| `2026-11-27T01:42:51Z`
+Updated @| `2026-11-27T01:51:04Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/math/issues/44)
 
@@ -10,6 +10,18 @@ Edit @| [here](https://github.com/junxnone/math/issues/44)
 # 雅可比矩阵
 
 雅可比矩阵（Jacobian）是多元向量函数的“导数”：它给出函数在某点附近最好的线性近似。这样非线性问题就可以用线性代数处理——Newton 法、Gauss-Newton、反向传播、变量替换都依赖它。
+
+## 概念关系图
+
+```mermaid
+flowchart LR
+    F[向量函数 f R^n 到 R^m] --> J[雅可比矩阵 J m x n]
+    J --> L[局部线性化 f x+dx 约 f x + J dx]
+    J --> D[雅可比行列式 体积缩放 变量替换]
+    J --> C[链式法则 J_g f 等于 J_g J_f]
+```
+
+图中：雅可比矩阵是向量函数的「导数」；它给出局部线性近似，其行列式给出局部体积缩放倍数（用于变量替换），并使链式法则变成矩阵乘积。
 
 ## 定义
 
@@ -75,10 +87,25 @@ $$
 - 机器人：关节速度与末端速度之间 $\dot{\mathbf{p}}=J\dot{\mathbf{q}}$；奇异位形即 $J$ 降秩（见 [秩](/0029_线性代数_Matrix_秩)）
 - 分析数值稳定性：$J$ 的条件数衡量输入误差的放大（见 [范数与条件数](/0045_线性代数_Matrix_范数与条件数)）
 
+## 与相关概念对比
+
+| 概念 | 对象 | 形状 | 含义 |
+| --- | --- | --- | --- |
+| 导数 $f'(x)$ | $\mathbb{R}\to\mathbb{R}$ | $1\times1$ | 切线斜率 |
+| 梯度 $\nabla f$ | $\mathbb{R}^n\to\mathbb{R}$ | $n\times1$（或 $1\times n$） | 最陡上升方向，见 [梯度与方向导数进阶](https://github.com/junxnone/math/issues/9) |
+| 雅可比矩阵 $J$ | $\mathbb{R}^n\to\mathbb{R}^m$ | $m\times n$ | 局部最佳线性映射 |
+| Hessian 矩阵 $H$ | $\mathbb{R}^n\to\mathbb{R}$ | $n\times n$ | 梯度的雅可比矩阵，二阶信息 |
+
+表中：对比结论：梯度是 $m=1$ 时的雅可比矩阵；Hessian 是「梯度函数」的雅可比矩阵，三者是同一概念在不同维度下的推广。
+
+## 常见误区
+
+- 雅可比矩阵的行对应**输出分量**、列对应**输入变量**；转置后的约定（分子布局与分母布局）因教材而异，使用前要确认
+- 雅可比行列式只在 $m=n$ 时有定义；其绝对值才是体积缩放倍数，符号表示是否翻转定向
+- 链式法则中矩阵相乘的顺序不能交换：$J_{g\circ f}=J_g(f(x))\,J_f(x)$
+
 ## Reference
 
 - [Jacobian matrix and determinant - Wikipedia](https://en.wikipedia.org/wiki/Jacobian_matrix_and_determinant)
 - [导数](/0009_微积分_多元函数微分_梯度与方向导数进阶)
-
-
 
