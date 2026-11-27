@@ -136,51 +136,6 @@
       "childLinks": []
     },
     {
-      "id": "math Math GaussianDistribution",
-      "group": 2,
-      "title": "Gaussian Distribution 高斯分布",
-      "url": "https://junxnone.github.io/math/#/0005_Math_GaussianDistribution",
-      "visible": true,
-      "expand": true,
-      "childLinks": []
-    },
-    {
-      "id": "math Math LeastSquares",
-      "group": 2,
-      "title": "Least Squares 最小二乘法",
-      "url": "https://junxnone.github.io/math/#/0006_Math_LeastSquares",
-      "visible": true,
-      "expand": true,
-      "childLinks": []
-    },
-    {
-      "id": "math Math BT",
-      "group": 2,
-      "title": "贝叶斯定理",
-      "url": "https://junxnone.github.io/math/#/0008_Math_BT",
-      "visible": true,
-      "expand": true,
-      "childLinks": []
-    },
-    {
-      "id": "math Math Derivative",
-      "group": 2,
-      "title": "Derivative 导数",
-      "url": "https://junxnone.github.io/math/#/0009_Math_Derivative",
-      "visible": true,
-      "expand": true,
-      "childLinks": []
-    },
-    {
-      "id": "math Math DynamicProgramming",
-      "group": 2,
-      "title": "Dynamic Programming 动态规划",
-      "url": "https://junxnone.github.io/math/#/0010_Math_DynamicProgramming",
-      "visible": true,
-      "expand": true,
-      "childLinks": []
-    },
-    {
       "id": "math 线性代数 norm",
       "group": 2,
       "title": "norm 范数",
@@ -208,73 +163,10 @@
       "childLinks": []
     },
     {
-      "id": "math Math SA",
-      "group": 2,
-      "title": "Simulated annealing 模拟退火",
-      "url": "https://junxnone.github.io/math/#/0014_Math_SA",
-      "visible": true,
-      "expand": true,
-      "childLinks": []
-    },
-    {
-      "id": "math Math RANSAC",
-      "group": 2,
-      "title": "RANSAC 随机抽样一致性",
-      "url": "https://junxnone.github.io/math/#/0015_Math_RANSAC",
-      "visible": true,
-      "expand": true,
-      "childLinks": []
-    },
-    {
-      "id": "math Math Quaternion",
-      "group": 2,
-      "title": "Quaternion 四元数",
-      "url": "https://junxnone.github.io/math/#/0016_Math_Quaternion",
-      "visible": true,
-      "expand": true,
-      "childLinks": []
-    },
-    {
-      "id": "math Math QuadTree",
-      "group": 2,
-      "title": "QuadTree/OCTree - 四叉树/八叉树",
-      "url": "https://junxnone.github.io/math/#/OCTree - 四叉树",
-      "visible": true,
-      "expand": true,
-      "childLinks": []
-    },
-    {
-      "id": "math Math MarkovProcess",
-      "group": 2,
-      "title": "马尔可夫过程",
-      "url": "https://junxnone.github.io/math/#/0018_Math_MarkovProcess",
-      "visible": true,
-      "expand": true,
-      "childLinks": []
-    },
-    {
-      "id": "math Math LMM",
-      "group": 2,
-      "title": "Lagrange Multiplier Method 拉格朗日乘数法",
-      "url": "https://junxnone.github.io/math/#/0019_Math_LMM",
-      "visible": true,
-      "expand": true,
-      "childLinks": []
-    },
-    {
       "id": "math Math GaussianProcess",
       "group": 2,
       "title": "Gaussian Process 高斯过程",
       "url": "https://junxnone.github.io/math/#/0020_Math_GaussianProcess",
-      "visible": true,
-      "expand": true,
-      "childLinks": []
-    },
-    {
-      "id": "math Math GaussianFilter",
-      "group": 2,
-      "title": "Gaussian Filter 高斯滤波器",
-      "url": "https://junxnone.github.io/math/#/0021_Math_GaussianFilter",
       "visible": true,
       "expand": true,
       "childLinks": []
@@ -1009,6 +901,114 @@
       "childLinks": []
     },
     {
+      "id": "math 概率论 常见分布 高斯分布进阶",
+      "group": 3,
+      "title": "高斯分布进阶",
+      "url": "https://junxnone.github.io/math/#/0005_概率论_常见分布_高斯分布进阶",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 数理统计 回归分析 最小二乘进阶",
+      "group": 3,
+      "title": "最小二乘进阶",
+      "url": "https://junxnone.github.io/math/#/0006_数理统计_回归分析_最小二乘进阶",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 概率论 条件概率与贝叶斯 贝叶斯推断进阶",
+      "group": 3,
+      "title": "贝叶斯推断进阶",
+      "url": "https://junxnone.github.io/math/#/0008_概率论_条件概率与贝叶斯_贝叶斯推断进阶",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 微积分 多元函数微分 梯度与方向导数进阶",
+      "group": 3,
+      "title": "梯度与方向导数进阶",
+      "url": "https://junxnone.github.io/math/#/0009_微积分_多元函数微分_梯度与方向导数进阶",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 离散数学 递推与生成函数 动态规划进阶",
+      "group": 3,
+      "title": "动态规划进阶",
+      "url": "https://junxnone.github.io/math/#/0010_离散数学_递推与生成函数_动态规划进阶",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 优化理论 非凸优化 模拟退火进阶",
+      "group": 3,
+      "title": "模拟退火进阶",
+      "url": "https://junxnone.github.io/math/#/0014_优化理论_非凸优化_模拟退火进阶",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 数值计算 插值与拟合 RANSAC进阶",
+      "group": 3,
+      "title": "RANSAC进阶",
+      "url": "https://junxnone.github.io/math/#/0015_数值计算_插值与拟合_RANSAC进阶",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 线性代数 线性变换 四元数与三维旋转进阶",
+      "group": 3,
+      "title": "四元数与三维旋转进阶",
+      "url": "https://junxnone.github.io/math/#/0016_线性代数_线性变换_四元数与三维旋转进阶",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 图论 树 四叉树与八叉树进阶",
+      "group": 3,
+      "title": "四叉树与八叉树进阶",
+      "url": "https://junxnone.github.io/math/#/0017_图论_树_四叉树与八叉树进阶",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 概率论 随机过程初步 马尔可夫过程进阶",
+      "group": 3,
+      "title": "马尔可夫过程进阶",
+      "url": "https://junxnone.github.io/math/#/0018_概率论_随机过程初步_马尔可夫过程进阶",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 微积分 极值与拉格朗日乘数 拉格朗日乘数法进阶",
+      "group": 3,
+      "title": "拉格朗日乘数法进阶",
+      "url": "https://junxnone.github.io/math/#/0019_微积分_极值与拉格朗日乘数_拉格朗日乘数法进阶",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
+      "id": "math 信号与傅里叶变换 滤波器 高斯滤波器进阶",
+      "group": 3,
+      "title": "高斯滤波器进阶",
+      "url": "https://junxnone.github.io/math/#/0021_信号与傅里叶变换_滤波器_高斯滤波器进阶",
+      "visible": true,
+      "expand": true,
+      "childLinks": []
+    },
+    {
       "id": "math 线性代数 Matrix 克罗内克积",
       "group": 3,
       "title": "克罗内克积",
@@ -1215,41 +1215,6 @@
     },
     {
       "source": "math Math",
-      "target": "math Math GaussianDistribution",
-      "value": 2,
-      "visible": true,
-      "expand": true
-    },
-    {
-      "source": "math Math",
-      "target": "math Math LeastSquares",
-      "value": 2,
-      "visible": true,
-      "expand": true
-    },
-    {
-      "source": "math Math",
-      "target": "math Math BT",
-      "value": 2,
-      "visible": true,
-      "expand": true
-    },
-    {
-      "source": "math Math",
-      "target": "math Math Derivative",
-      "value": 2,
-      "visible": true,
-      "expand": true
-    },
-    {
-      "source": "math Math",
-      "target": "math Math DynamicProgramming",
-      "value": 2,
-      "visible": true,
-      "expand": true
-    },
-    {
-      "source": "math Math",
       "target": "math Math SC",
       "value": 2,
       "visible": true,
@@ -1257,56 +1222,7 @@
     },
     {
       "source": "math Math",
-      "target": "math Math SA",
-      "value": 2,
-      "visible": true,
-      "expand": true
-    },
-    {
-      "source": "math Math",
-      "target": "math Math RANSAC",
-      "value": 2,
-      "visible": true,
-      "expand": true
-    },
-    {
-      "source": "math Math",
-      "target": "math Math Quaternion",
-      "value": 2,
-      "visible": true,
-      "expand": true
-    },
-    {
-      "source": "math Math",
-      "target": "math Math QuadTree",
-      "value": 2,
-      "visible": true,
-      "expand": true
-    },
-    {
-      "source": "math Math",
-      "target": "math Math MarkovProcess",
-      "value": 2,
-      "visible": true,
-      "expand": true
-    },
-    {
-      "source": "math Math",
-      "target": "math Math LMM",
-      "value": 2,
-      "visible": true,
-      "expand": true
-    },
-    {
-      "source": "math Math",
       "target": "math Math GaussianProcess",
-      "value": 2,
-      "visible": true,
-      "expand": true
-    },
-    {
-      "source": "math Math",
-      "target": "math Math GaussianFilter",
       "value": 2,
       "visible": true,
       "expand": true
@@ -2007,6 +1923,90 @@
     {
       "source": "math 线性代数 Matrix",
       "target": "math 线性代数 Matrix 范数与条件数",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 线性代数 线性变换",
+      "target": "math 线性代数 线性变换 四元数与三维旋转进阶",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 微积分 多元函数微分",
+      "target": "math 微积分 多元函数微分 梯度与方向导数进阶",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 微积分 极值与拉格朗日乘数",
+      "target": "math 微积分 极值与拉格朗日乘数 拉格朗日乘数法进阶",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 概率论 条件概率与贝叶斯",
+      "target": "math 概率论 条件概率与贝叶斯 贝叶斯推断进阶",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 概率论 常见分布",
+      "target": "math 概率论 常见分布 高斯分布进阶",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 概率论 随机过程初步",
+      "target": "math 概率论 随机过程初步 马尔可夫过程进阶",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 数理统计 回归分析",
+      "target": "math 数理统计 回归分析 最小二乘进阶",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 优化理论 非凸优化",
+      "target": "math 优化理论 非凸优化 模拟退火进阶",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 离散数学 递推与生成函数",
+      "target": "math 离散数学 递推与生成函数 动态规划进阶",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 信号与傅里叶变换 滤波器",
+      "target": "math 信号与傅里叶变换 滤波器 高斯滤波器进阶",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 数值计算 插值与拟合",
+      "target": "math 数值计算 插值与拟合 RANSAC进阶",
+      "value": 3,
+      "visible": true,
+      "expand": true
+    },
+    {
+      "source": "math 图论 树",
+      "target": "math 图论 树 四叉树与八叉树进阶",
       "value": 3,
       "visible": true,
       "expand": true
