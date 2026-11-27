@@ -12,12 +12,12 @@
 - 2026-11-27 10:44&nbsp;&nbsp; [微积分 复变函数初步](/0155_微积分_复变函数初步)&nbsp;&nbsp; :bookmark:微积分 :bookmark:复变函数初步
 - 2026-11-27 10:44&nbsp;&nbsp; [微积分 变分法](/0154_微积分_变分法)&nbsp;&nbsp; :bookmark:微积分 :bookmark:变分法
 - 2026-11-27 10:44&nbsp;&nbsp; [微积分 偏微分方程初步](/0153_微积分_偏微分方程初步)&nbsp;&nbsp; :bookmark:微积分 :bookmark:偏微分方程初步
-- 2026-11-27 10:44&nbsp;&nbsp; [数值计算 数值微分与积分 自动微分](/0152_数值计算_数值微分与积分_自动微分)&nbsp;&nbsp; :bookmark:数值计算 :bookmark:数值微分与积分 :bookmark:自动微分
-- 2026-11-27 10:44&nbsp;&nbsp; [优化理论 线性规划 最优传输](/0151_优化理论_线性规划_最优传输)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:线性规划 :bookmark:最优传输
-- 2026-11-27 10:44&nbsp;&nbsp; [优化理论 约束优化与对偶 支持向量机](/0150_优化理论_约束优化与对偶_支持向量机)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:约束优化与对偶 :bookmark:支持向量机
-- 2026-11-27 10:44&nbsp;&nbsp; [优化理论 约束优化与对偶 ADMM](/0149_优化理论_约束优化与对偶_ADMM)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:约束优化与对偶 :bookmark:ADMM
-- 2026-11-27 10:44&nbsp;&nbsp; [信号与傅里叶变换 拉普拉斯变换与Z变换](/0148_信号与傅里叶变换_拉普拉斯变换与Z变换)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:拉普拉斯变换与Z变换
-- 2026-11-27 10:44&nbsp;&nbsp; [信号与傅里叶变换 滤波器 卡尔曼滤波](/0147_信号与傅里叶变换_滤波器_卡尔曼滤波)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:滤波器 :bookmark:卡尔曼滤波
+- 2026-11-27 10:44&nbsp;&nbsp; [自动微分](/0152_数值计算_数值微分与积分_自动微分)&nbsp;&nbsp; :bookmark:数值计算 :bookmark:数值微分与积分 :bookmark:自动微分
+- 2026-11-27 10:44&nbsp;&nbsp; [最优传输](/0151_优化理论_线性规划_最优传输)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:线性规划 :bookmark:最优传输
+- 2026-11-27 10:44&nbsp;&nbsp; [支持向量机](/0150_优化理论_约束优化与对偶_支持向量机)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:约束优化与对偶 :bookmark:支持向量机
+- 2026-11-27 10:44&nbsp;&nbsp; [ADMM](/0149_优化理论_约束优化与对偶_ADMM)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:约束优化与对偶 :bookmark:ADMM
+- 2026-11-27 10:44&nbsp;&nbsp; [拉普拉斯变换与Z变换](/0148_信号与傅里叶变换_拉普拉斯变换与Z变换)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:拉普拉斯变换与Z变换
+- 2026-11-27 10:44&nbsp;&nbsp; [卡尔曼滤波](/0147_信号与傅里叶变换_滤波器_卡尔曼滤波)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:滤波器 :bookmark:卡尔曼滤波
 - 2026-11-27 10:44&nbsp;&nbsp; [变分推断](/0146_数理统计_贝叶斯统计_变分推断)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:贝叶斯统计 :bookmark:变分推断
 - 2026-11-27 10:43&nbsp;&nbsp; [蒙特卡洛与MCMC](/0145_数理统计_贝叶斯统计_MCMC采样)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:贝叶斯统计 :bookmark:MCMC采样
 - 2026-11-27 10:43&nbsp;&nbsp; [EM算法](/0144_数理统计_点估计_EM算法)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:点估计 :bookmark:EM算法
@@ -165,6 +165,12 @@
 
 #### **Updated**
 
+- 2026-11-27 10:54&nbsp;&nbsp; [自动微分](/0152_数值计算_数值微分与积分_自动微分)&nbsp;&nbsp; :bookmark:数值计算 :bookmark:数值微分与积分 :bookmark:自动微分
+- 2026-11-27 10:54&nbsp;&nbsp; [最优传输](/0151_优化理论_线性规划_最优传输)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:线性规划 :bookmark:最优传输
+- 2026-11-27 10:54&nbsp;&nbsp; [支持向量机](/0150_优化理论_约束优化与对偶_支持向量机)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:约束优化与对偶 :bookmark:支持向量机
+- 2026-11-27 10:54&nbsp;&nbsp; [ADMM](/0149_优化理论_约束优化与对偶_ADMM)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:约束优化与对偶 :bookmark:ADMM
+- 2026-11-27 10:54&nbsp;&nbsp; [拉普拉斯变换与Z变换](/0148_信号与傅里叶变换_拉普拉斯变换与Z变换)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:拉普拉斯变换与Z变换
+- 2026-11-27 10:54&nbsp;&nbsp; [卡尔曼滤波](/0147_信号与傅里叶变换_滤波器_卡尔曼滤波)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:滤波器 :bookmark:卡尔曼滤波
 - 2026-11-27 10:51&nbsp;&nbsp; [变分推断](/0146_数理统计_贝叶斯统计_变分推断)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:贝叶斯统计 :bookmark:变分推断
 - 2026-11-27 10:51&nbsp;&nbsp; [蒙特卡洛与MCMC](/0145_数理统计_贝叶斯统计_MCMC采样)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:贝叶斯统计 :bookmark:MCMC采样
 - 2026-11-27 10:51&nbsp;&nbsp; [EM算法](/0144_数理统计_点估计_EM算法)&nbsp;&nbsp; :bookmark:数理统计 :bookmark:点估计 :bookmark:EM算法
@@ -192,12 +198,6 @@
 - 2026-11-27 10:44&nbsp;&nbsp; [微积分 复变函数初步](/0155_微积分_复变函数初步)&nbsp;&nbsp; :bookmark:微积分 :bookmark:复变函数初步
 - 2026-11-27 10:44&nbsp;&nbsp; [微积分 变分法](/0154_微积分_变分法)&nbsp;&nbsp; :bookmark:微积分 :bookmark:变分法
 - 2026-11-27 10:44&nbsp;&nbsp; [微积分 偏微分方程初步](/0153_微积分_偏微分方程初步)&nbsp;&nbsp; :bookmark:微积分 :bookmark:偏微分方程初步
-- 2026-11-27 10:44&nbsp;&nbsp; [数值计算 数值微分与积分 自动微分](/0152_数值计算_数值微分与积分_自动微分)&nbsp;&nbsp; :bookmark:数值计算 :bookmark:数值微分与积分 :bookmark:自动微分
-- 2026-11-27 10:44&nbsp;&nbsp; [优化理论 线性规划 最优传输](/0151_优化理论_线性规划_最优传输)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:线性规划 :bookmark:最优传输
-- 2026-11-27 10:44&nbsp;&nbsp; [优化理论 约束优化与对偶 支持向量机](/0150_优化理论_约束优化与对偶_支持向量机)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:约束优化与对偶 :bookmark:支持向量机
-- 2026-11-27 10:44&nbsp;&nbsp; [优化理论 约束优化与对偶 ADMM](/0149_优化理论_约束优化与对偶_ADMM)&nbsp;&nbsp; :bookmark:优化理论 :bookmark:约束优化与对偶 :bookmark:ADMM
-- 2026-11-27 10:44&nbsp;&nbsp; [信号与傅里叶变换 拉普拉斯变换与Z变换](/0148_信号与傅里叶变换_拉普拉斯变换与Z变换)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:拉普拉斯变换与Z变换
-- 2026-11-27 10:44&nbsp;&nbsp; [信号与傅里叶变换 滤波器 卡尔曼滤波](/0147_信号与傅里叶变换_滤波器_卡尔曼滤波)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:滤波器 :bookmark:卡尔曼滤波
 - 2026-11-27 10:10&nbsp;&nbsp; [NP难问题](/0125_图论_NP难问题)&nbsp;&nbsp; :bookmark:图论 :bookmark:NP难问题
 - 2026-11-27 10:10&nbsp;&nbsp; [欧拉图与哈密顿图](/0122_图论_欧拉图与哈密顿图)&nbsp;&nbsp; :bookmark:图论 :bookmark:欧拉图与哈密顿图
 - 2026-11-27 10:10&nbsp;&nbsp; [最短路径](/0115_图论_最短路径)&nbsp;&nbsp; :bookmark:图论 :bookmark:最短路径

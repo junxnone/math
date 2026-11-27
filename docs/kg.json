@@ -894,7 +894,7 @@
     {
       "id": "math 信号与傅里叶变换 拉普拉斯变换与Z变换",
       "group": 2,
-      "title": "信号与傅里叶变换 拉普拉斯变换与Z变换",
+      "title": "拉普拉斯变换与Z变换",
       "url": "https://junxnone.github.io/math/#/0148_信号与傅里叶变换_拉普拉斯变换与Z变换",
       "visible": true,
       "expand": true,
@@ -1335,7 +1335,7 @@
     {
       "id": "math 信号与傅里叶变换 滤波器 卡尔曼滤波",
       "group": 3,
-      "title": "信号与傅里叶变换 滤波器 卡尔曼滤波",
+      "title": "卡尔曼滤波",
       "url": "https://junxnone.github.io/math/#/0147_信号与傅里叶变换_滤波器_卡尔曼滤波",
       "visible": true,
       "expand": true,
@@ -1344,7 +1344,7 @@
     {
       "id": "math 优化理论 约束优化与对偶 ADMM",
       "group": 3,
-      "title": "优化理论 约束优化与对偶 ADMM",
+      "title": "ADMM",
       "url": "https://junxnone.github.io/math/#/0149_优化理论_约束优化与对偶_ADMM",
       "visible": true,
       "expand": true,
@@ -1353,7 +1353,7 @@
     {
       "id": "math 优化理论 约束优化与对偶 支持向量机",
       "group": 3,
-      "title": "优化理论 约束优化与对偶 支持向量机",
+      "title": "支持向量机",
       "url": "https://junxnone.github.io/math/#/0150_优化理论_约束优化与对偶_支持向量机",
       "visible": true,
       "expand": true,
@@ -1362,7 +1362,7 @@
     {
       "id": "math 优化理论 线性规划 最优传输",
       "group": 3,
-      "title": "优化理论 线性规划 最优传输",
+      "title": "最优传输",
       "url": "https://junxnone.github.io/math/#/0151_优化理论_线性规划_最优传输",
       "visible": true,
       "expand": true,
@@ -1371,7 +1371,7 @@
     {
       "id": "math 数值计算 数值微分与积分 自动微分",
       "group": 3,
-      "title": "数值计算 数值微分与积分 自动微分",
+      "title": "自动微分",
       "url": "https://junxnone.github.io/math/#/0152_数值计算_数值微分与积分_自动微分",
       "visible": true,
       "expand": true,
