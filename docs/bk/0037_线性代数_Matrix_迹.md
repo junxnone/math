@@ -3,7 +3,7 @@
 | Title     | 线性代数 Matrix 迹                                      |
 | --------- | -------------------------------------------------- |
 | Created @ | `2026-11-24T10:06:42Z`                             |
-| Updated @ | `2026-11-27T01:42:37Z`                             |
+| Updated @ | `2026-11-27T01:48:52Z`                             |
 | Labels    | \`\`                                               |
 | Edit @    | [here](https://github.com/junxnone/math/issues/37) |
 
@@ -12,6 +12,19 @@
 # 矩阵的迹
 
 迹（trace）是方阵主对角线元素之和。它定义简单，却与特征值、范数、矩阵求导紧密相关，在机器学习的公式推导中非常常见。
+
+## 概念关系图
+
+``` mermaid
+flowchart LR
+    T[迹 tr A] --> E[特征值之和]
+    T --> C[循环不变 tr AB = tr BA]
+    T --> F[Frobenius 范数 tr A^T A]
+    T --> G[矩阵求导与二次型 期望]
+```
+
+图中：迹把矩阵压缩成一个数，关键性质是对乘法**循环不变**；它既等于特征值之和，又给出 Frobenius
+范数，在矩阵求导和二次型期望的化简里经常使用。
 
 ## 定义
 
@@ -107,6 +120,26 @@ X}=(A+A^\\top)X $$
   - 旋转矩阵 $R$ 的迹与旋转角满足
     $\\operatorname{tr}(R)=1+2\\cos\\theta$（三维），可由旋转矩阵反求旋转角（见
     [Quaternion](/0016_线性代数_线性变换_四元数与三维旋转进阶)）
+
+## 迹与相近概念对比
+
+| 量                       | 定义                                      | 与特征值       | 线性性                                                                                              |
+| ----------------------- | --------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------ |
+| 迹 $\\operatorname{tr}A$ | 对角线元素之和                                 | 特征值之和      | 线性：$\\operatorname{tr}(\\alpha A+\\beta B)=\\alpha\\operatorname{tr}A+\\beta\\operatorname{tr}B$ |
+| 行列式 $\\det A$           | 有向体积                                    | 特征值之积      | 非线性                                                                                              |
+| Frobenius 范数            | $\\sqrt{\\operatorname{tr}(A^\\top A)}$ | 奇异值平方和的平方根 | 非线性                                                                                              |
+
+表中：对比结论：迹是矩阵到数的**线性**泛函，这是它便于推导的根本原因，见
+[范数与条件数](https://github.com/junxnone/math/issues/45)。
+
+## 常见误区
+
+  - $\\operatorname{tr}(AB)=\\operatorname{tr}(BA)$ 成立，但
+    $\\operatorname{tr}(ABC)\\ne\\operatorname{tr}(ACB)$；只能做**循环**置换（$\\operatorname{tr}(ABC)=\\operatorname{tr}(BCA)=\\operatorname{tr}(CAB)$）
+  - $\\operatorname{tr}(AB)\\ne\\operatorname{tr}(A)\\operatorname{tr}(B)$，迹对乘积不是乘性的
+  - 迹只对方阵定义；$AB$ 与 $BA$ 形状不同时（如 $m\\times n$ 与 $n\\times
+    m$），$\\operatorname{tr}(AB)=\\operatorname{tr}(BA)$
+    仍然成立，这是迹技巧的关键
 
 ## Reference
 
