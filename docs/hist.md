@@ -134,6 +134,7 @@
 
 - 2026-11-27 09:58&nbsp;&nbsp; [递推与生成函数](/0097_离散数学_递推与生成函数)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:递推与生成函数
 - 2026-11-27 09:58&nbsp;&nbsp; [数论基础](/0096_离散数学_数论基础)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:数论基础
+- 2026-11-27 09:58&nbsp;&nbsp; [代数结构](/0095_离散数学_代数结构)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:代数结构
 - 2026-11-27 09:58&nbsp;&nbsp; [组合计数](/0094_离散数学_组合计数)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:组合计数
 - 2026-11-27 09:58&nbsp;&nbsp; [命题逻辑](/0093_离散数学_命题逻辑)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:命题逻辑
 - 2026-11-27 09:58&nbsp;&nbsp; [集合与关系](/0092_离散数学_集合与关系)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:集合与关系
@@ -251,7 +252,6 @@
 - 2026-11-25 17:50&nbsp;&nbsp; [连续傅里叶变换](/0101_信号与傅里叶变换_连续傅里叶变换)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:连续傅里叶变换
 - 2026-11-25 17:50&nbsp;&nbsp; [信号与线性系统](/0099_信号与傅里叶变换_信号与线性系统)&nbsp;&nbsp; :bookmark:信号与傅里叶变换 :bookmark:信号与线性系统
 - 2026-11-25 17:50&nbsp;&nbsp; [信号与傅里叶变换](/0098_信号与傅里叶变换)&nbsp;&nbsp; :bookmark:信号与傅里叶变换
-- 2026-11-25 17:49&nbsp;&nbsp; [代数结构](/0095_离散数学_代数结构)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:代数结构
 - 2026-11-25 17:46&nbsp;&nbsp; [信息论](/0084_信息论)&nbsp;&nbsp; :bookmark:信息论
 - 2026-11-25 17:41&nbsp;&nbsp; [数理统计](/0068_数理统计)&nbsp;&nbsp; :bookmark:数理统计
 - 2026-11-25 17:09&nbsp;&nbsp; [二分图(Bipartite Graph)](/0023_图论_二分图)&nbsp;&nbsp; :bookmark:图论 :bookmark:二分图
