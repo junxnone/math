@@ -4,6 +4,7 @@
 
 #### **Created**
 
+- 2026-11-28 22:28&nbsp;&nbsp; [Math RoadMap](/0161_RoadMap)&nbsp;&nbsp; :bookmark:RoadMap
 - 2026-11-27 10:44&nbsp;&nbsp; [随机算法与哈希](/0160_离散数学_随机算法与哈希)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:随机算法与哈希
 - 2026-11-27 10:44&nbsp;&nbsp; [PageRank](/0159_图论_谱图论_PageRank)&nbsp;&nbsp; :bookmark:图论 :bookmark:谱图论 :bookmark:PageRank
 - 2026-11-27 10:44&nbsp;&nbsp; [纠错码](/0158_信息论_信道容量_纠错码)&nbsp;&nbsp; :bookmark:信息论 :bookmark:信道容量 :bookmark:纠错码
@@ -165,6 +166,7 @@
 
 #### **Updated**
 
+- 2026-11-28 22:28&nbsp;&nbsp; [Math RoadMap](/0161_RoadMap)&nbsp;&nbsp; :bookmark:RoadMap
 - 2026-11-27 10:57&nbsp;&nbsp; [数学基础](/0001_Math)&nbsp;&nbsp; :bookmark:Math
 - 2026-11-27 10:57&nbsp;&nbsp; [随机算法与哈希](/0160_离散数学_随机算法与哈希)&nbsp;&nbsp; :bookmark:离散数学 :bookmark:随机算法与哈希
 - 2026-11-27 10:57&nbsp;&nbsp; [PageRank](/0159_图论_谱图论_PageRank)&nbsp;&nbsp; :bookmark:图论 :bookmark:谱图论 :bookmark:PageRank
